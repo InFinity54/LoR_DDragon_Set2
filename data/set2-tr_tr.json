@@ -4,8 +4,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ001-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -42,8 +42,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW040-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -80,8 +80,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR009-full.png"
       }
     ],
     "region": "Freljord",
@@ -118,8 +118,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ010-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -154,8 +154,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX001-full.png"
       }
     ],
     "region": "Noxus",
@@ -163,8 +163,8 @@
     "attack": 5,
     "cost": 8,
     "health": 8,
-    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bir <link=card.champ1><style=AssociatedCard>Swain</style></link> çekersin.\r\n<link=vocab.RoundStart><style=Vocab>Tur Başı</style></link>: Rakibin Nexus'una üç defa 1 hasar verirsin.",
-    "descriptionRaw": "Oyna: Bir Swain çekersin.\r\nTur Başı: Rakibin Nexus'una üç defa 1 hasar verirsin.",
+    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bir <link=card.champ1><style=AssociatedCard>Swain</style></link> çekersin.\r\n<link=vocab.RoundStart><style=Vocab>Tur Başı</style></link>: Rakibin Nexus'una 3 defa 1 hasar verirsin.",
+    "descriptionRaw": "Oyna: Bir Swain çekersin.\r\nTur Başı: Rakibin Nexus'una 3 defa 1 hasar verirsin.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Ionia'lılar onu ufukta gördüklerinde canavar olduğunu sandılar. Haksız sayılmazlardı. Noxus gemi mühendisliğinin son harikası olan bu çelik savaş gemisi dehşet verici bir şey.",
@@ -192,8 +192,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW057-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -232,8 +232,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE003-full.png"
       }
     ],
     "region": "Demacia",
@@ -266,8 +266,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI005-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -309,8 +309,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW032-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW032-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -347,8 +347,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW041-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -390,8 +390,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW032T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW032T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW032T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW032T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -428,8 +428,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ006-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -466,8 +466,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW013-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -506,8 +506,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI010-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -544,8 +544,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW034T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW034T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW034T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW034T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -584,8 +584,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW056T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW056T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW056T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW056T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -622,8 +622,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW061.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW061-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW061.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW061-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -662,8 +662,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW060.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW060-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW060.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW060-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -699,8 +699,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX007T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX007T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX007T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX007T2-full.png"
       }
     ],
     "region": "Noxus",
@@ -740,8 +740,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW022T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW022T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW022T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW022T3-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -780,8 +780,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW011-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -789,8 +789,8 @@
     "attack": 3,
     "cost": 4,
     "health": 3,
-    "description": "Çağrıldığımda elinde bir <link=card.create><style=AssociatedCard>Uyarı Atışı</style></link> oluşur.\r\n<link=vocab.Allegiance><style=Vocab>Sadakat</style></link>: Rakibin destesinden şampiyon olmayan bir kart çekersin.",
-    "descriptionRaw": "Çağrıldığımda elinde bir Uyarı Atışı oluşur.\r\nSadakat: Rakibin destesinden şampiyon olmayan bir kart çekersin.",
+    "description": "Çağrıldığımda elinde bir <link=card.create><style=AssociatedCard>Uyarı Atışı</style></link> oluşur.\r\n<link=vocab.Allegiance><style=Vocab>Sadakat</style></link>: 1 kart <link=keyword.Nab><style=Keyword>Aşırırsın</style></link>.",
+    "descriptionRaw": "Çağrıldığımda elinde bir Uyarı Atışı oluşur.\r\nSadakat: 1 kart Aşırırsın.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Sana bir dost olarak yardım etmek istedim. Duruşunu, bakışını, kılıcının parlayışını pek gözüm tuttu. Kılıcın hakikaten çok güzelmiş yalnız.''",
@@ -819,8 +819,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW022.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW022-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW022-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -853,8 +853,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW030T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW030T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW030T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW030T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -893,8 +893,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR004-full.png"
       }
     ],
     "region": "Freljord",
@@ -931,8 +931,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW019-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -971,8 +971,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW007-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1007,8 +1007,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ004-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -1045,8 +1045,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW014-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1083,8 +1083,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX006-full.png"
       }
     ],
     "region": "Noxus",
@@ -1117,8 +1117,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE008-full.png"
       }
     ],
     "region": "Demacia",
@@ -1155,8 +1155,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO008T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -1195,8 +1195,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW024-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1204,8 +1204,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "1 manalık iki rasgele takipçi çağırırsın.",
-    "descriptionRaw": "1 manalık iki rasgele takipçi çağırırsın.",
+    "description": "1 manalık 2 rasgele takipçi çağırırsın.",
+    "descriptionRaw": "1 manalık 2 rasgele takipçi çağırırsın.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Hişt Gav, şu bizim aradığımız herif değil mi? Arkadaş bulmuş.''\n''Yanındaki... köpekbalığı adam mı Baz?''\n''Olsun, daha çok altın verirler. Hadi!'' <br>- Baz ve Gav, acemi ödül avcıları",
@@ -1233,8 +1233,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW062.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW062-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW062-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1271,8 +1271,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW055.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW055-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW055.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW055-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1305,8 +1305,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI008T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI008T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI008T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI008T3-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -1347,8 +1347,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO005T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -1381,8 +1381,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE004-full.png"
       }
     ],
     "region": "Demacia",
@@ -1428,8 +1428,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW030-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW030-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1472,8 +1472,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE006T3-full.png"
       }
     ],
     "region": "Demacia",
@@ -1510,8 +1510,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI007-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -1548,8 +1548,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW003-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1586,8 +1586,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW017-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1620,8 +1620,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI003-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -1663,8 +1663,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX007T1-full.png"
       }
     ],
     "region": "Noxus",
@@ -1705,8 +1705,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW022T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW022T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW022T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW022T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1745,8 +1745,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO002T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -1783,8 +1783,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ007-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -1819,8 +1819,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW056.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW056-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW056-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1864,8 +1864,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW046T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW046T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW046T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW046T3-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1898,8 +1898,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE006T2-full.png"
       }
     ],
     "region": "Demacia",
@@ -1940,8 +1940,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW025-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1978,8 +1978,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW022T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW022T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW022T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW022T4-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2018,8 +2018,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE009-full.png"
       }
     ],
     "region": "Demacia",
@@ -2057,13 +2057,13 @@
     "associatedCards": [],
     "associatedCardRefs": [
       "02IO006T3",
-      "02IO006T1",
-      "02IO006T2"
+      "02IO006T2",
+      "02IO006T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO006-full.png"
       }
     ],
     "region": "Ionia",
@@ -2071,8 +2071,8 @@
     "attack": 3,
     "cost": 6,
     "health": 6,
-    "description": "Bir büyü yaptığında bu tur <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Rakipçeker</style></link> alırım.\r\nBir büyü daha yaparsan, <link=keyword.Barrier><sprite name=Barrier><style=Keyword>Bariyer</style></link> alırım.",
-    "descriptionRaw": "Bir büyü yaptığında bu tur Rakipçeker alırım.\r\nBir büyü daha yaparsan, Bariyer alırım.",
+    "description": "Bir büyü yaptığında bu tur <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Rakipçeker</style></link> alırım.\r\nBir büyü daha yaparsan, bu tur <link=keyword.Barrier><sprite name=Barrier><style=Keyword>Bariyer</style></link> alırım.",
+    "descriptionRaw": "Bir büyü yaptığında bu tur Rakipçeker alırım.\r\nBir büyü daha yaparsan, bu tur Bariyer alırım.",
     "levelupDescription": "7+ büyü yaptığında<style=Variable></style>.",
     "levelupDescriptionRaw": "7+ büyü yaptığında.",
     "flavorText": "''Ejder çabasına değenlere yardım eder. Yorgunlara takat verir. Hastaları teselli eder. Kaybolanlara ışık verir. Çalkantılı ruhlara ise denge...''",
@@ -2100,8 +2100,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW038-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2140,8 +2140,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW021-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2178,8 +2178,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW022T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW022T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW022T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW022T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2216,8 +2216,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI001-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -2250,8 +2250,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW026T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW026T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW026T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW026T5-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2288,8 +2288,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW030T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW030T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW030T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW030T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2328,8 +2328,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ002-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -2337,8 +2337,8 @@
     "attack": 5,
     "cost": 6,
     "health": 6,
-    "description": "Bir kart çektiğinde ona <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Geçici</style></link> tesiri verirsin ve birebir kopyasını oluşturursun.",
-    "descriptionRaw": "Bir kart çektiğinde ona Geçici tesiri verirsin ve birebir kopyasını oluşturursun.",
+    "description": "Bir kart çektiğinde ona <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Geçici</style></link> tesiri verirsin. Elinde birebir kopyası oluşur.",
+    "descriptionRaw": "Bir kart çektiğinde ona Geçici tesiri verirsin. Elinde birebir kopyası oluşur.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Beş yaşındayken, dünyanın ilk çok frekanslı sonik bıçağını yaptı. Pek pratik değildi (çoğunlukla sandviç kesmekte kullanıyordu) ama bu sayede muhafızların seçkin Teçhizat Birimi'ne katıldı.",
@@ -2364,8 +2364,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW012-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2406,8 +2406,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI008T1-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -2444,8 +2444,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX002-full.png"
       }
     ],
     "region": "Noxus",
@@ -2478,8 +2478,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE005-full.png"
       }
     ],
     "region": "Demacia",
@@ -2496,13 +2496,13 @@
     "name": "Direngen Ruh",
     "cardCode": "02DE005",
     "keywords": [
-      "Anlık"
+      "Hızlı"
     ],
     "keywordRefs": [
-      "Burst"
+      "Fast"
     ],
-    "spellSpeed": "Anlık",
-    "spellSpeedRef": "Burst",
+    "spellSpeed": "Hızlı",
+    "spellSpeedRef": "Fast",
     "rarity": "DESTANSI",
     "rarityRef": "Epic",
     "subtype": "",
@@ -2516,8 +2516,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW035-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2560,8 +2560,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI002-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -2594,8 +2594,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO004-full.png"
       }
     ],
     "region": "Ionia",
@@ -2632,8 +2632,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW058.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW058-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW058-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2664,16 +2664,16 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
-      "02BW026T2",
-      "02BW026T4",
-      "02BW026T5",
       "02BW026",
-      "02BW026T1"
+      "02BW026T1",
+      "02BW026T5",
+      "02BW026T4",
+      "02BW026T2"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW026T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW026T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW026T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW026T3-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2681,8 +2681,8 @@
     "attack": 3,
     "cost": 4,
     "health": 3,
-    "description": "Her tur ilk 3 kart oynayışını gördüğümde bir Kader Kartı oynarım.",
-    "descriptionRaw": "Her tur ilk 3 kart oynayışını gördüğümde bir Kader Kartı oynarım.",
+    "description": "Her tur ilk 3 kart oynayışında bir Kader Kartı oynarım.",
+    "descriptionRaw": "Her tur ilk 3 kart oynayışında bir Kader Kartı oynarım.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''...kaybetmiyorsan kumar oynamış sayılmazsın.''",
@@ -2710,8 +2710,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW028T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW028T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW028T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW028T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2748,8 +2748,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW018-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2786,8 +2786,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW037-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2830,8 +2830,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO003T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -2873,8 +2873,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR002-full.png"
       }
     ],
     "region": "Freljord",
@@ -2911,8 +2911,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW048.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW048-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW048-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2949,8 +2949,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW043.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW043-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW043-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2987,8 +2987,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR001-full.png"
       }
     ],
     "region": "Freljord",
@@ -3023,15 +3023,15 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW008T02.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW008T02-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW008T02.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW008T02-full.png"
       }
     ],
     "region": "Bilgewater",
     "regionRef": "Bilgewater",
     "attack": 3,
     "cost": 3,
-    "health": 1,
+    "health": 2,
     "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bedeli 1 olan rasgele bir takipçi çağırırsın.",
     "descriptionRaw": "Oyna: Bedeli 1 olan rasgele bir takipçi çağırırsın.",
     "levelupDescription": "",
@@ -3044,8 +3044,8 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ENDER",
-    "rarityRef": "Rare",
+    "rarity": "Yok",
+    "rarityRef": "None",
     "subtype": "",
     "subtypes": [],
     "supertype": "",
@@ -3059,15 +3059,15 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW008T01.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW008T01-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW008T01.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW008T01-full.png"
       }
     ],
     "region": "Bilgewater",
     "regionRef": "Bilgewater",
     "attack": 3,
     "cost": 3,
-    "health": 1,
+    "health": 2,
     "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bir <link=card.summon><style=AssociatedCard>Barut Fıçısı</style></link> çağırırsın.",
     "descriptionRaw": "Oyna: Bir Barut Fıçısı çağırırsın.",
     "levelupDescription": "",
@@ -3080,8 +3080,8 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ENDER",
-    "rarityRef": "Rare",
+    "rarity": "Yok",
+    "rarityRef": "None",
     "subtype": "",
     "subtypes": [],
     "supertype": "",
@@ -3093,8 +3093,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW051.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW051-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW051-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3133,8 +3133,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW054.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW054-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW054.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW054-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3173,8 +3173,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI004-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -3206,13 +3206,13 @@
     "associatedCards": [],
     "associatedCardRefs": [
       "02IO006T3",
-      "02IO006",
-      "02IO006T2"
+      "02IO006T2",
+      "02IO006"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO006T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -3220,8 +3220,8 @@
     "attack": 4,
     "cost": 6,
     "health": 7,
-    "description": "Bir büyü yaptığında bu tur <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Rakipçeker</style></link> alırım.\r\nBir büyü daha yaparsan, <link=keyword.Barrier><sprite name=Barrier><style=Keyword>Bariyer</style></link> alırım.\r\n<link=keyword.Challenger><sprite name=Challenger><style=Keyword>Çektiğim</style></link> rakiplere <link=card.attackSpell><style=AssociatedCard>Ejderhanın Gazabı</style></link> yaparım.",
-    "descriptionRaw": "Bir büyü yaptığında bu tur Rakipçeker alırım.\r\nBir büyü daha yaparsan, Bariyer alırım.\r\nÇektiğim rakiplere Ejderhanın Gazabı yaparım.",
+    "description": "Bir büyü yaptığında bu tur <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Rakipçeker</style></link> alırım.\r\nBir büyü daha yaparsan, bu tur <link=keyword.Barrier><sprite name=Barrier><style=Keyword>Bariyer</style></link> alırım.\r\n<link=keyword.Challenger><sprite name=Challenger><style=Keyword>Çektiğim</style></link> rakiplere <link=card.attackSpell><style=AssociatedCard>Ejderhanın Gazabı</style></link> yaparım.",
+    "descriptionRaw": "Bir büyü yaptığında bu tur Rakipçeker alırım.\r\nBir büyü daha yaparsan, bu tur Bariyer alırım.\r\nÇektiğim rakiplere Ejderhanın Gazabı yaparım.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''...ama Ejder, despota ateş püskürür.''",
@@ -3247,13 +3247,13 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
-      "02BW026",
-      "02BW026T3"
+      "02BW026T3",
+      "02BW026"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW026T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW026T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW026T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW026T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3292,8 +3292,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO003-full.png"
       }
     ],
     "region": "Ionia",
@@ -3334,8 +3334,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW053T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW053T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW053T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW053T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3372,8 +3372,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO001-full.png"
       }
     ],
     "region": "Ionia",
@@ -3410,8 +3410,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI008-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -3448,8 +3448,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ008-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -3459,8 +3459,8 @@
     "health": 4,
     "description": "Oyunda veya elindeyken başka kart oynadığında +1|+0 kazanırım <style=Parentheses>(en fazla +8|+0)</style>. <style=Variable></style>",
     "descriptionRaw": "Oyunda veya elindeyken başka kart oynadığında +1|+0 kazanırım (en fazla +8|+0). ",
-    "levelupDescription": "Tek seferde 10 veya daha fazla hasarlık <link=vocab.Strike><style=Vocab>vuruş</style></link> yaptığımda.",
-    "levelupDescriptionRaw": "Tek seferde 10 veya daha fazla hasarlık vuruş yaptığımda.",
+    "levelupDescription": "10+ hasarlık <link=vocab.Strike><style=Vocab>vuruş</style></link> yaptığımda.",
+    "levelupDescriptionRaw": "10+ hasarlık vuruş yaptığımda.",
     "flavorText": "''Fedai Vi! Lütfen halkı düşünün! Çevreye verdiğiniz hasarı düşünün! AÇILACAK TAZMİNAT DAVALARINI DÜŞÜNÜN!'' - Açıkgöz Müfettiş",
     "artistName": "SIXMOREVODKA",
     "name": "Vi",
@@ -3488,8 +3488,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI006-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -3522,13 +3522,13 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW047.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW047-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW047-full.png"
       }
     ],
     "region": "Bilgewater",
     "regionRef": "Bilgewater",
-    "attack": 2,
+    "attack": 1,
     "cost": 1,
     "health": 1,
     "description": "Çağrıldığımda 3 kartı <link=vocab.Toss><style=Vocab>Denize Atarsın</style></link>.",
@@ -3556,8 +3556,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX009-full.png"
       }
     ],
     "region": "Noxus",
@@ -3596,15 +3596,15 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW008-full.png"
       }
     ],
     "region": "Bilgewater",
     "regionRef": "Bilgewater",
     "attack": 3,
     "cost": 3,
-    "health": 1,
+    "health": 2,
     "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bir <link=card.summon><style=AssociatedCard>Barut Fıçısı</style></link> ya da bedeli 1 olan rasgele bir takipçi çağırırsın.",
     "descriptionRaw": "Oyna: Bir Barut Fıçısı ya da bedeli 1 olan rasgele bir takipçi çağırırsın.",
     "levelupDescription": "",
@@ -3633,8 +3633,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX007-full.png"
       }
     ],
     "region": "Noxus",
@@ -3674,8 +3674,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW053.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW053-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW053.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW053-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3716,8 +3716,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR005T1-full.png"
       }
     ],
     "region": "Freljord",
@@ -3759,8 +3759,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW032T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW032T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW032T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW032T3-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3797,8 +3797,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR010-full.png"
       }
     ],
     "region": "Freljord",
@@ -3837,8 +3837,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW004-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3873,8 +3873,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW002-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3911,8 +3911,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW032T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW032T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW032T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW032T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3920,8 +3920,8 @@
     "attack": 0,
     "cost": 0,
     "health": 1,
-    "description": "Barut Fıçıları birikir.\r\nTüm büyülerin ve yeteneklerin fazladan <style=Variable>1</style> hasar verir.\r\nBüyün ya da yeteneklerin düşmanlara hasar verince ben yok olurum.",
-    "descriptionRaw": "Barut Fıçıları birikir.\r\nTüm büyülerin ve yeteneklerin fazladan 1 hasar verir.\r\nBüyün ya da yeteneklerin düşmanlara hasar verince ben yok olurum.",
+    "description": "Barut Fıçıları birikir.\r\nTüm büyülerin ve yeteneklerin fazladan <style=Variable>1</style> hasar verir.\r\nBüyün ya da yeteneklerin düşmanlara ya da rakibin Nexus'una hasar verince ben yok olurum.",
+    "descriptionRaw": "Barut Fıçıları birikir.\r\nTüm büyülerin ve yeteneklerin fazladan 1 hasar verir.\r\nBüyün ya da yeteneklerin düşmanlara ya da rakibin Nexus'una hasar verince ben yok olurum.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Barut fıçısı varsa çare de vardır.'' - Bilgewater atasözü",
@@ -3953,8 +3953,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO005-full.png"
       }
     ],
     "region": "Ionia",
@@ -3993,8 +3993,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX004-full.png"
       }
     ],
     "region": "Noxus",
@@ -4027,8 +4027,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW016-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4061,8 +4061,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW030T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW030T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW030T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW030T4-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4105,8 +4105,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE002-full.png"
       }
     ],
     "region": "Demacia",
@@ -4143,8 +4143,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX003-full.png"
       }
     ],
     "region": "Noxus",
@@ -4184,8 +4184,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR008-full.png"
       }
     ],
     "region": "Freljord",
@@ -4221,8 +4221,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR002T1-full.png"
       }
     ],
     "region": "Freljord",
@@ -4259,8 +4259,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO006T3-full.png"
       }
     ],
     "region": "Ionia",
@@ -4297,8 +4297,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ009-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -4335,15 +4335,15 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE010-full.png"
       }
     ],
     "region": "Demacia",
     "regionRef": "Demacia",
-    "attack": 4,
+    "attack": 5,
     "cost": 6,
-    "health": 4,
+    "health": 5,
     "description": "Çağrıldığımda diğer dost birimlere bu tur +1|+1 verirsin.",
     "descriptionRaw": "Çağrıldığımda diğer dost birimlere bu tur +1|+1 verirsin.",
     "levelupDescription": "",
@@ -4377,8 +4377,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO002-full.png"
       }
     ],
     "region": "Ionia",
@@ -4417,8 +4417,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW026-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4457,8 +4457,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW027-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4494,8 +4494,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR002T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR002T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR002T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR002T3-full.png"
       }
     ],
     "region": "Freljord",
@@ -4503,8 +4503,8 @@
     "attack": 6,
     "cost": 6,
     "health": 7,
-    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bir düşmana bu tur <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>Buz Tutturursun</style></link> ve <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Kırılganlık</style></link> verirsin.\r\nHer tur rakibin Nexus'una ilk hasar verişini gördüğümde tüm düşmanlar <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>Buz Tutar</style></link>.",
-    "descriptionRaw": "Oyna: Bir düşmana bu tur Buz Tutturursun ve Kırılganlık verirsin.\r\nHer tur rakibin Nexus'una ilk hasar verişini gördüğümde tüm düşmanlar Buz Tutar.",
+    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bir düşmana bu tur <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>Buz Tutturursun</style></link> ve <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Kırılganlık</style></link> verirsin.\r\nHer tur rakibin Nexus'una ilk hasar verişinde tüm düşmanlar <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>Buz Tutar</style></link>.",
+    "descriptionRaw": "Oyna: Bir düşmana bu tur Buz Tutturursun ve Kırılganlık verirsin.\r\nHer tur rakibin Nexus'una ilk hasar verişinde tüm düşmanlar Buz Tutar.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Yere serin onları! Freljord'un Kışın Pençesi'ne ait olduğunu görsünler!''",
@@ -4534,8 +4534,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO010-full.png"
       }
     ],
     "region": "Ionia",
@@ -4572,14 +4572,14 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW042-full.png"
       }
     ],
     "region": "Bilgewater",
     "regionRef": "Bilgewater",
     "attack": 0,
-    "cost": 8,
+    "cost": 7,
     "health": 0,
     "description": "Tüm dost birimlerin güç ve can değerleri bu tur için bu oyunda oynadığın büyü sayısına eşitlenir. <style=Variable></style>",
     "descriptionRaw": "Tüm dost birimlerin güç ve can değerleri bu tur için bu oyunda oynadığın büyü sayısına eşitlenir. ",
@@ -4610,46 +4610,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE007-full.png"
-      }
-    ],
-    "region": "Demacia",
-    "regionRef": "Demacia",
-    "attack": 0,
-    "cost": 1,
-    "health": 0,
-    "description": "Dost birimlere bu tur <link=keyword.Tough><sprite name=Tough><style=Keyword>Dayanıklılık</style></link> verirsin.",
-    "descriptionRaw": "Dost birimlere bu tur Dayanıklılık verirsin.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''Düşman yaklaştığında korkuyu kalbinize sokmayın. Ağaçlar bizi koruyacak.'' - Yeşildiş Kolcusu",
-    "artistName": "Kudos Productions",
-    "name": "Kolcu Azmi",
-    "cardCode": "02DE007",
-    "keywords": [
-      "Anlık"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
-    "spellSpeed": "Anlık",
-    "spellSpeedRef": "Burst",
-    "rarity": "ENDER",
-    "rarityRef": "Rare",
-    "subtype": "",
-    "subtypes": [],
-    "supertype": "",
-    "type": "Büyü",
-    "collectible": true
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW059.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW059-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW059-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4686,8 +4648,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR007-full.png"
       }
     ],
     "region": "Freljord",
@@ -4726,8 +4688,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW032T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW032T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW032T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW032T4-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4764,8 +4726,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW050.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW050-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW050-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4806,8 +4768,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE006T1-full.png"
       }
     ],
     "region": "Demacia",
@@ -4846,8 +4808,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW028-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4880,8 +4842,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW023.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW023-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW023-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4920,8 +4882,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI009-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -4929,8 +4891,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "Bir sonraki tur bir <link=card.summon><style=AssociatedCard>Fide</style></link> çağırırsın.",
-    "descriptionRaw": "Bir sonraki tur bir Fide çağırırsın.",
+    "description": "Sonraki <link=vocab.RoundStart><style=Vocab>Tur Başında</style></link> 1 adet <link=card.summon><style=AssociatedCard>Fide</style></link> çağırırsın.",
+    "descriptionRaw": "Sonraki Tur Başında 1 adet Fide çağırırsın.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Hihiiiiii!'' - Fide",
@@ -4958,8 +4920,46 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE007-full.png"
+      }
+    ],
+    "region": "Demacia",
+    "regionRef": "Demacia",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Dost birimlere bu tur <link=keyword.Tough><sprite name=Tough><style=Keyword>Dayanıklılık</style></link> verirsin.",
+    "descriptionRaw": "Dost birimlere bu tur Dayanıklılık verirsin.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Düşman yaklaştığında korkuyu kalbinize sokmayın. Ağaçlar bizi koruyacak.'' - Yeşildiş Kolcusu",
+    "artistName": "Kudos Productions",
+    "name": "Kolcu Azmi",
+    "cardCode": "02DE007",
+    "keywords": [
+      "Anlık"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Anlık",
+    "spellSpeedRef": "Burst",
+    "rarity": "ENDER",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": true
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ003-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -4996,8 +4996,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW031-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5036,8 +5036,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW034.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW034-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW034-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5078,8 +5078,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02SI008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02SI008T2-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -5116,8 +5116,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX010-full.png"
       }
     ],
     "region": "Noxus",
@@ -5154,8 +5154,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE001-full.png"
       }
     ],
     "region": "Demacia",
@@ -5163,8 +5163,8 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "Bir düşman seçersin. İki dost birim ona <link=vocab.Strike><style=Vocab>vurur</style></link>.",
-    "descriptionRaw": "Bir düşman seçersin. İki dost birim ona vurur.",
+    "description": "Bir düşman seçersin. 2 dost birim ona <link=vocab.Strike><style=Vocab>vurur</style></link>.",
+    "descriptionRaw": "Bir düşman seçersin. 2 dost birim ona vurur.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Peşimden, birlikte!'' - Yeşildiş Kolcusu",
@@ -5192,8 +5192,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO007-full.png"
       }
     ],
     "region": "Ionia",
@@ -5230,8 +5230,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW029-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5270,8 +5270,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW015-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5308,8 +5308,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW010-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5317,8 +5317,8 @@
     "attack": 1,
     "cost": 1,
     "health": 1,
-    "description": "<link=vocab.Plunder><style=Vocab>Yağma</style></link>: İki rasgele tesir kazanırım.",
-    "descriptionRaw": "Yağma: İki rasgele tesir kazanırım.",
+    "description": "<link=vocab.Plunder><style=Vocab>Yağma</style></link>: 2 rasgele tesir kazanırım.",
+    "descriptionRaw": "Yağma: 2 rasgele tesir kazanırım.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Resmi, Ödül Tahtası'nda herkesinkinden uzun süredir asılı. Açgözlü, acımasız, istediğini elde etmek için her şeyi yapacak bir şeytan. Daha fenası, bir de sevimli ki!'' - Gangplank",
@@ -5344,8 +5344,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW009-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5378,8 +5378,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW005-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5417,8 +5417,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW046.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW046-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW046-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5451,8 +5451,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW049-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5460,8 +5460,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "Rakibin destesinden şampiyon olmayan bir kart çekersin.\r\n<link=vocab.Plunder><style=Vocab>Yağma</style></link>: 1 kart daha çekersin.",
-    "descriptionRaw": "Rakibin destesinden şampiyon olmayan bir kart çekersin.\r\nYağma: 1 kart daha çekersin.",
+    "description": "1 kart <link=keyword.Nab><style=Keyword>Aşırırsın</style></link>.\r\n<link=vocab.Plunder><style=Vocab>Yağma</style></link>: 1 kart daha <link=keyword.Nab><style=Keyword>Aşırırsın</style></link>.",
+    "descriptionRaw": "1 kart Aşırırsın.\r\nYağma: 1 kart daha Aşırırsın.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Senin malın benim malım, benim malım... yine benim malım.",
@@ -5491,8 +5491,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR005-full.png"
       }
     ],
     "region": "Freljord",
@@ -5525,8 +5525,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW039-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5565,8 +5565,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW030T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW030T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW030T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW030T3-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5605,8 +5605,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW006-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5639,8 +5639,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW046T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW046T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW046T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW046T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5680,8 +5680,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ008T2-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -5720,8 +5720,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW026T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW026T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW026T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW026T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5762,8 +5762,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02DE006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02DE006-full.png"
       }
     ],
     "region": "Demacia",
@@ -5800,8 +5800,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW001-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5841,8 +5841,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO006T2-full.png"
       }
     ],
     "region": "Ionia",
@@ -5879,8 +5879,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO010T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -5919,8 +5919,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW026T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW026T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW026T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW026T4-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -5957,8 +5957,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO009-full.png"
       }
     ],
     "region": "Ionia",
@@ -5995,8 +5995,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW063.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW063-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW063.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW063-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6033,8 +6033,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW036.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW036-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW036-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6073,8 +6073,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW045-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6111,17 +6111,17 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW033.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW033-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW033-full.png"
       }
     ],
     "region": "Bilgewater",
     "regionRef": "Bilgewater",
     "attack": 2,
     "cost": 2,
-    "health": 2,
-    "description": "Bir düşman kartı çektiğinde bedeli 1 düşer.\r\n<link=vocab.Plunder><style=Vocab>Yağma</style></link>: Rakibin destesinden şampiyon olmayan bir kart çekersin.",
-    "descriptionRaw": "Bir düşman kartı çektiğinde bedeli 1 düşer.\r\nYağma: Rakibin destesinden şampiyon olmayan bir kart çekersin.",
+    "health": 1,
+    "description": "Bir düşman kartı çektiğinde bedeli 1 düşer.\r\n<link=vocab.Plunder><style=Vocab>Yağma</style></link>: 1 kart <link=keyword.Nab><style=Keyword>Aşırırsın</style></link>.",
+    "descriptionRaw": "Bir düşman kartı çektiğinde bedeli 1 düşer.\r\nYağma: 1 kart Aşırırsın.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Ne istiyorsan hepsi var! Hatta 'özel stok' bile var. Yalnız unutma, benden almadın.''",
@@ -6145,8 +6145,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX004T1-full.png"
       }
     ],
     "region": "Noxus",
@@ -6183,8 +6183,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW060T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW060T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW060T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW060T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6225,8 +6225,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ008T1-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -6263,8 +6263,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW020-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6301,8 +6301,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX008-full.png"
       }
     ],
     "region": "Noxus",
@@ -6339,8 +6339,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02PZ005-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -6373,8 +6373,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02NX005-full.png"
       }
     ],
     "region": "Noxus",
@@ -6411,8 +6411,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR006-full.png"
       }
     ],
     "region": "Freljord",
@@ -6454,8 +6454,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW046T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW046T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW046T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW046T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6495,8 +6495,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW053T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW053T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW053T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW053T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6535,8 +6535,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW044.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02BW044-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02BW044-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6575,8 +6575,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02IO008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02IO008-full.png"
       }
     ],
     "region": "Ionia",
@@ -6615,14 +6615,14 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_3_0/set2/tr_tr/img/cards/02FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_4_0/set2/tr_tr/img/cards/02FR003-full.png"
       }
     ],
     "region": "Freljord",
     "regionRef": "Freljord",
     "attack": 0,
-    "cost": 7,
+    "cost": 6,
     "health": 0,
     "description": "Elinde 2 rasgele poro, 2 de <link=card.snaxRef><style=AssociatedCard>Poro Kurabiyesi</style></link> oluşur.",
     "descriptionRaw": "Elinde 2 rasgele poro, 2 de Poro Kurabiyesi oluşur.",
