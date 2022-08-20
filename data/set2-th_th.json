@@ -4,8 +4,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ001-full.png"
       }
     ],
     "region": "Piltover & Zaun",
@@ -19,8 +19,8 @@
     "attack": 1,
     "cost": 5,
     "health": 5,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ ทำการจั่วการ์ด 1 ใบ จากนั้น หากคุณได้ใช้การ์ดที่ต่างกันอย่างน้อย<br>10 ใบไปในเกมนี้ มอบ +4|+0 แก่การ์ดใบนี้<style=Variable></style>",
-    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ ทำการจั่วการ์ด 1 ใบ จากนั้น หากคุณได้ใช้การ์ดที่ต่างกันอย่างน้อย10 ใบไปในเกมนี้ มอบ +4|+0 แก่การ์ดใบนี้",
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่วการ์ด 1 ใบ จากนั้นหากคุณเล่นการ์ดที่ชื่อต่างกัน<br>อย่างน้อย 10 ใบขึ้นไปในเกมนี้<br>มอบ +4|+0 แก่การ์ดใบนี้<style=Variable></style>",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่วการ์ด 1 ใบ จากนั้นหากคุณเล่นการ์ดที่ชื่อต่างกันอย่างน้อย 10 ใบขึ้นไปในเกมนี้มอบ +4|+0 แก่การ์ดใบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "ไม่มีอะไรสามารถหยุดยั้งการหลบหนีของเขา<zwsp>จากมนุษย์ที่น่าขันเหล่านั้นได้ <zwsp>ไม่แม้แต่สายน้ำ...\n",
@@ -49,8 +49,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ010-full.png"
       }
     ],
     "region": "Piltover & Zaun",
@@ -92,8 +92,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ006-full.png"
       }
     ],
     "region": "Piltover & Zaun",
@@ -107,8 +107,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "เมื่อถูกจั่ว ลดค่าร่ายลง 2 หน่วย ในรอบนี้\r\nสร้างความเสียหาย<br>3 แก่ทหารของศัตรู",
-    "descriptionRaw": "เมื่อถูกจั่ว ลดค่าร่ายลง 2 หน่วย ในรอบนี้\r\nสร้างความเสียหาย3 แก่ทหารของศัตรู",
+    "description": "เมื่อการ์ดใบนี้ถูกจั่ว ลดค่าร่ายลง<br>2 หน่วยในรอบนี้\r\nสร้างความเสียหาย<br>3 แก่ยูนิตหนึ่งใบ",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกจั่ว ลดค่าร่ายลง2 หน่วยในรอบนี้\r\nสร้างความเสียหาย3 แก่ยูนิตหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ลองกุญแจมือพวกนี้ดูหน่อยไหม Berz?\"\n<zwsp>\"อะไรที่อยู่ในนั้นสำหรับข้า?\"\n<zwsp>\"เจ้าเก็บมันไว้ได้เลย\"\n<zwsp>\"...งั้นก็ได้\"\"\n<zwsp>\"เจ้าถูกจับกุมแล้ว พาเขาไปได้!\"\n",
@@ -137,8 +137,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ004-full.png"
       }
     ],
     "region": "Piltover & Zaun",
@@ -152,8 +152,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "มอบ +2|+0 แก่พันธมิตรในรอบนี้\r\nสร้างการ์ด <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link><br><link=card.selfRef><style=AssociatedCard>Vault Breaker</style></link> หนึ่งใบในมือ",
-    "descriptionRaw": "มอบ +2|+0 แก่พันธมิตรในรอบนี้\r\nสร้างการ์ด ชั่วคราวVault Breaker หนึ่งใบในมือ",
+    "description": "มอบ +2|+0 แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้างการ์ด<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link><br><link=card.selfRef><style=AssociatedCard>Vault Breaker</style></link> หนึ่งใบในมือ",
+    "descriptionRaw": "มอบ +2|+0 แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้างการ์ดชั่วคราวVault Breaker หนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ข้าจะปล่อยให้หมัดของข้าพูดแทน\" - Vi",
@@ -182,8 +182,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ007-full.png"
       }
     ],
     "region": "Piltover & Zaun",
@@ -197,8 +197,8 @@
     "attack": 3,
     "cost": 4,
     "health": 3,
-    "description": "เมื่อคุณใช้การ์ดที่มีค่าร่ายเท่ากับ 2 หน่วย จั่วการ์ด 1 ใบและมอบ <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link> แก่มัน",
-    "descriptionRaw": "เมื่อคุณใช้การ์ดที่มีค่าร่ายเท่ากับ 2 หน่วย จั่วการ์ด 1 ใบและมอบ ชั่วคราว แก่มัน",
+    "description": "เมื่อคุณเล่นการ์ดที่มีค่าร่าย 2 หน่วย จั่วการ์ด 1 ใบ<br>และมอบ<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>แก่การ์ดใบนั้น",
+    "descriptionRaw": "เมื่อคุณเล่นการ์ดที่มีค่าร่าย 2 หน่วย จั่วการ์ด 1 ใบและมอบชั่วคราวแก่การ์ดใบนั้น",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"นักสืบทุกคนตอบสนอง <zwsp>แต่นักสืบที่ดีจะคาดการณ์ <zwsp>และนักสืบผู้เป็นแบบอย่างจะป้องกัน\" <zwsp>- คู่มือของพัศดี\n",
@@ -223,8 +223,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ002-full.png"
       }
     ],
     "region": "Piltover & Zaun",
@@ -238,8 +238,8 @@
     "attack": 5,
     "cost": 6,
     "health": 6,
-    "description": "เมื่อคุณจั่วการ์ด มอบ <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link> แก่มัน และสร้างการ์ดเสมือนกันทุกประการ<br>หนึ่งใบในมือ",
-    "descriptionRaw": "เมื่อคุณจั่วการ์ด มอบ ชั่วคราว แก่มัน และสร้างการ์ดเสมือนกันทุกประการหนึ่งใบในมือ",
+    "description": "เมื่อคุณจั่วการ์ด มอบ<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>แก่การ์ดใบนั้น และสร้างการ์ดเสมือนทุกประการ<br>ของการ์ดใบนั้นหนึ่งใบในมือ",
+    "descriptionRaw": "เมื่อคุณจั่วการ์ด มอบชั่วคราวแก่การ์ดใบนั้น และสร้างการ์ดเสมือนทุกประการของการ์ดใบนั้นหนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "เมื่ออายุได้ 5 ขวบ นางได้สร้างมีด<zwsp>ที่ปล่อยคลื่นความถี่ได้หลากหลายเล่มแรกของโลก <zwsp>แม้จะไม่มีประโยชน์มากนัก <zwsp>(นางมักจะใช้มันหั่นแซนด์วิช) มันได้นำทางนางไปสู่<zwsp>แผนกยุทโธปกรณ์ชั้นยอดของผู้รักษากฎหมายของพัศดี\n",
@@ -267,8 +267,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ008-full.png"
       }
     ],
     "region": "Piltover & Zaun",
@@ -314,8 +314,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ009-full.png"
       }
     ],
     "region": "Piltover & Zaun",
@@ -329,8 +329,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "สร้างการ์ดที่มีค่าร่าย<br>2 หน่วยแบบสุ่มจากภูมิภาคของคุณหนึ่งใบ<br>ในมือ มันจะมีค่าร่าย 0 หน่วยในรอบนี้",
-    "descriptionRaw": "สร้างการ์ดที่มีค่าร่าย2 หน่วยแบบสุ่มจากภูมิภาคของคุณหนึ่งใบในมือ มันจะมีค่าร่าย 0 หน่วยในรอบนี้",
+    "description": "สร้างการ์ดที่มีค่าร่าย<br>2 หน่วยแบบสุ่มจากภูมิภาคของคุณหนึ่งใบ<br>ในมือ มันมีค่าร่าย 0 ในรอบนี้",
+    "descriptionRaw": "สร้างการ์ดที่มีค่าร่าย2 หน่วยแบบสุ่มจากภูมิภาคของคุณหนึ่งใบในมือ มันมีค่าร่าย 0 ในรอบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ด้วยเหตุนี้\" เจ้าหน้าที่ Harknor ประกาศ <zwsp>\"ร่องรอยดังกล่าวนำเราไปสู่...\"\n",
@@ -359,8 +359,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ003-full.png"
       }
     ],
     "region": "Piltover & Zaun",
@@ -374,8 +374,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "เมื่อจั่วได้ ลดค่าร่าย 2 หน่วยในรอบนี้\r\nเปลี่ยนพลังพันธมิตรหนึ่งใบเป็น 4|4",
-    "descriptionRaw": "เมื่อจั่วได้ ลดค่าร่าย 2 หน่วยในรอบนี้\r\nเปลี่ยนพลังพันธมิตรหนึ่งใบเป็น 4|4",
+    "description": "เมื่อการ์ดใบนี้ถูกจั่ว ลดค่าร่าย<br>2 หน่วยในรอบนี้<br>เปลี่ยนพลังพันธมิตรหนึ่งใบเป็น 4|4",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกจั่ว ลดค่าร่าย2 หน่วยในรอบนี้เปลี่ยนพลังพันธมิตรหนึ่งใบเป็น 4|4",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"มีปัญหาที่ท่าเรือ! รับนี่ไป <zwsp>แล้วฝากความปรารถนาดีของข้าให้พวกเขาด้วย\" <zwsp>- Chief Mechanist Zevi\n",
@@ -407,8 +407,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ008T2-full.png"
       }
     ],
     "region": "Piltover & Zaun",
@@ -457,8 +457,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ008T1-full.png"
       }
     ],
     "region": "Piltover & Zaun",
@@ -472,8 +472,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "มอบ +2|+0 แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง <link=card.selfRef><style=AssociatedCard>Vault Breaker</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link> หนึ่งใบในมือ\r\nสร้าง <link=card.level1><style=AssociatedCard>Vi</style></link> หนึ่งใบในเด็คของคุณ",
-    "descriptionRaw": "มอบ +2|+0 แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง Vault Breaker ชั่วคราว หนึ่งใบในมือ\r\nสร้าง Vi หนึ่งใบในเด็คของคุณ",
+    "description": "มอบ +2|+0 แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง <link=card.selfRef><style=AssociatedCard>Vault Breaker</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>หนึ่งใบในมือ\r\nสร้าง <link=card.level1><style=AssociatedCard>Vi</style></link> หนึ่งใบในเด็คของคุณ",
+    "descriptionRaw": "มอบ +2|+0 แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง Vault Breaker ชั่วคราวหนึ่งใบในมือ\r\nสร้าง Vi หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ข้าจะปล่อยให้หมัดของข้าพูดแทน\" - Vi",
@@ -502,8 +502,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02PZ005-full.png"
       }
     ],
     "region": "Piltover & Zaun",
@@ -543,8 +543,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW040-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -588,8 +588,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW057-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -635,8 +635,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW041-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -682,8 +682,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW013-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -731,8 +731,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW034.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW034-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW034-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -776,8 +776,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW034T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW034T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW034T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW034T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -825,8 +825,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW056.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW056-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW056-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -872,8 +872,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW056T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW056T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW056T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW056T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -887,8 +887,8 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "<link=keyword.Obliterate><style=Keyword>ทำลายล้าง</style></link> ศัตรูหนึ่งใบที่มีพลังชีวิตน้อยกว่าการ์ดใบนี้",
-    "descriptionRaw": "ทำลายล้าง ศัตรูหนึ่งใบที่มีพลังชีวิตน้อยกว่าการ์ดใบนี้",
+    "description": "<link=keyword.Obliterate><style=Keyword>ทำลายล้าง</style></link>ศัตรูหนึ่งใบที่มี<br>พลังชีวิตน้อยกว่าการ์ดใบนี้",
+    "descriptionRaw": "ทำลายล้างศัตรูหนึ่งใบที่มีพลังชีวิตน้อยกว่าการ์ดใบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"นางกลืนกินข้าเข้าไปทั้งตัว ทั้งเรือพาย<zwsp>และวิญญาณของข้า\n<zwsp>ข้าก็เลยร้องเพลงนี้ในท้องของนาง<zwsp>\nและตอนนี้ข้าก็รอคอยชะตากรรมที่จะมาถึง<zwsp>\nในตัวของ Wing-Eared Sunken Lady\" <zwsp>- \"Ballad of the Wing-Eared Sunken Lady\"",
@@ -919,8 +919,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW060.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW060-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW060.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW060-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -964,8 +964,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW011-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1012,8 +1012,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW030-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW030-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1027,8 +1027,8 @@
     "attack": 7,
     "cost": 7,
     "health": 5,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ <link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link><br>การ์ด 2 ใบและสร้างการ์ดขุมทรัพย์ 2 ใบ<br>ในเด็คของคุณ\r\n<style=Variable></style>",
-    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ หย่อนทิ้งการ์ด 2 ใบและสร้างการ์ดขุมทรัพย์ 2 ใบในเด็คของคุณ\r\n",
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link><br>การ์ด 2 ใบและสร้างการ์ดขุมทรัพย์ 2 ใบ<br>ในเด็คของคุณ\r\n<style=Variable></style>",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญหย่อนทิ้งการ์ด 2 ใบและสร้างการ์ดขุมทรัพย์ 2 ใบในเด็คของคุณ\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ทุกวันนี้มีสมบัติมากมายอยู่ใต้<zwsp>เกลียวคลื่นนั่น มากกว่าที่อยู่เหนือ<zwsp>มันเสียอีก และข้าก็คิดว่ามันคงจะ<zwsp>หยิบจับมาครอบครองได้อย่างง่าย ๆ <zwsp>ถ้าไม่ใช่เพราะเจ้าหล่อน\" - Jagged Butcher\n",
@@ -1059,8 +1059,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW030T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW030T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW030T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW030T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1074,8 +1074,8 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "หากข้าถูก <link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> จั่วข้าแทน\r\nสร้างความเสียหาย<br>5 หน่วยแก่ยูนิตทั้งหมด",
-    "descriptionRaw": "หากข้าถูก หย่อนทิ้ง จั่วข้าแทน\r\nสร้างความเสียหาย5 หน่วยแก่ยูนิตทั้งหมด",
+    "description": "หากการ์ดใบนี้ถูก<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>จั่วการ์ดใบนี้แทน\r\nสร้างความเสียหาย<br>5 หน่วยแก่ยูนิตทั้งหมด",
+    "descriptionRaw": "หากการ์ดใบนี้ถูกหย่อนทิ้งจั่วการ์ดใบนี้แทน\r\nสร้างความเสียหาย5 หน่วยแก่ยูนิตทั้งหมด",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "เหล่า Deckhand คำรามเป็นหนึ่ง <zwsp>เมื่อพวกเขาดึงโซ่ขึ้นมา สมบัติที่พวกเขา<zwsp>เฝ้าปรารถนานั้นอยู่ใต้ผืนน้ำอันสงบนิ่งนั่น <zwsp>พวกเขาไม่รู้เลยสักนิดว่า<zwsp>ปืนใหญ่ในตำนานของ Seascraw <zwsp>มีแผนการสุดท้ายซ่อนเอาไว้ให้พวกเขา\n",
@@ -1106,8 +1106,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW030T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW030T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW030T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW030T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1121,8 +1121,8 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "หากการ์ดใบนี้ถูก <link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> จั่วการ์ดใบนี้ขึ้นมาแทน สร้างการ์ด 5 ใบ<br>แบบสุ่มในมือ พวกมันมีค่าร่าย 0 หน่วย<br>และเป็นการ์ด <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>",
-    "descriptionRaw": "หากการ์ดใบนี้ถูก หย่อนทิ้ง จั่วการ์ดใบนี้ขึ้นมาแทน สร้างการ์ด 5 ใบแบบสุ่มในมือ พวกมันมีค่าร่าย 0 หน่วยและเป็นการ์ด ชั่วคราว",
+    "description": "หากการ์ดใบนี้ถูก<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>จั่วการ์ดใบนี้แทน สร้างการ์ด 5 ใบ<br>แบบสุ่มในมือ การ์ดเหล่านั้นมีค่าร่าย 0<br>และเป็นการ์ด<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>",
+    "descriptionRaw": "หากการ์ดใบนี้ถูกหย่อนทิ้งจั่วการ์ดใบนี้แทน สร้างการ์ด 5 ใบแบบสุ่มในมือ การ์ดเหล่านั้นมีค่าร่าย 0และเป็นการ์ดชั่วคราว",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "กัปตัน Finn ประกาศกร้าว \"เจ้าทำได้! <zwsp>ข้าบอกแล้วว่าพวก Tithe ก็แค่พวกเหยื่อ<zwsp>ที่ขี้ขลาด!\" บางคนส่งเสียงกู่ร้อง <zwsp>แต่บางคนก็ไม่ ผืนน้ำนั้นช่างสงบเงียบ... <zwsp>ยกเว้นฟองที่ผุดอยู่รอบลำเรือ Rancour\n",
@@ -1153,8 +1153,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW030T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW030T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW030T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW030T4-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1204,8 +1204,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW030T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW030T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW030T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW030T3-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1219,8 +1219,8 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "หากข้าถูก <link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> จั่วข้าแทน\r\nอัญเชิญ <link=card.summon><style=AssociatedCard>Vicious Platewyrms</style></link> 3 ใบ",
-    "descriptionRaw": "หากข้าถูก หย่อนทิ้ง จั่วข้าแทน\r\nอัญเชิญ Vicious Platewyrms 3 ใบ",
+    "description": "หากการ์ดใบนี้ถูก<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>จั่วการ์ดใบนี้แทน\r\nอัญเชิญ <link=card.summon><style=AssociatedCard>Vicious Platewyrms</style></link> 3 ใบ",
+    "descriptionRaw": "หากการ์ดใบนี้ถูกหย่อนทิ้งจั่วการ์ดใบนี้แทน\r\nอัญเชิญ Vicious Platewyrms 3 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "กัปตันวัยชรายกก้อนหินที่เปล่งประกาย<zwsp>เรืองรองขึ้นสูง ก่อนจะประกาศ <zwsp>\"นี่จะทำให้เราอยู่รอดไปทั้งชีวิต!\" <zwsp>มีเสียงเชียร์ดังกระหึ่มจากเหล่าลูกเรือ <zwsp>ในขณะที่รอบ ๆ ลำเรือนั้น<zwsp>เริ่มเต็มไปด้วยความปั่นป่วนของกระแสน้ำ...\n",
@@ -1251,8 +1251,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW019-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1298,8 +1298,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW007-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1313,8 +1313,8 @@
     "attack": 4,
     "cost": 4,
     "health": 5,
-    "description": "ทิ้งการ์ด 2 ใบเพื่อใช้การ์ดใบนี้\r\n<link=vocab.Attack><style=Vocab>สั่งโจมตี</style></link>: จั่วการ์ด <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link> 2 ใบ",
-    "descriptionRaw": "ทิ้งการ์ด 2 ใบเพื่อใช้การ์ดใบนี้\r\nสั่งโจมตี: จั่วการ์ด ชั่วคราว 2 ใบ",
+    "description": "ทิ้งการ์ด 2 ใบเพื่อเล่นการ์ดใบนี้<br><link=vocab.Attack><style=Vocab>โจมตี</style></link>: จั่วการ์ด 2 ใบและมอบ<br><link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>ให้กับการ์ดเหล่านั้น",
+    "descriptionRaw": "ทิ้งการ์ด 2 ใบเพื่อเล่นการ์ดใบนี้โจมตี: จั่วการ์ด 2 ใบและมอบชั่วคราวให้กับการ์ดเหล่านั้น",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ไม่ใช่เรื่องใหญ่อะไร ปกติโต๊ะก็เต็มไปด้วย<zwsp>พวกงี่เง่าที่มัววุ่นกับการร้องเพลงจน<zwsp>เสียงแหบแห้งเพื่อเชียร์เกมการแข่งขัน<zwsp>กันอยู่แล้ว แต่ไม่ใช่ว่าข้าจะสนใจอะไรหรอก <zwsp>เงินคือเงิน และข้าสมควรที่จะได้รับมัน<zwsp>มากกว่าเจ้าพวกนั้น\"\n",
@@ -1339,8 +1339,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW014-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1384,8 +1384,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW055.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW055-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW055.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW055-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1399,8 +1399,8 @@
     "attack": 3,
     "cost": 2,
     "health": 2,
-    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: มอบ +1|+0 แก่พันธมิตรที่มีค่าร่าย<br>1 หน่วย <link=vocab.Everywhere><style=Vocab>ทุกหนแห่ง</style></link>",
-    "descriptionRaw": "ปล้น: มอบ +1|+0 แก่พันธมิตรที่มีค่าร่าย1 หน่วย ทุกหนแห่ง",
+    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: มอบ +1|+0 แก่พันธมิตรที่มีค่าร่าย<br>1 หน่วย<link=vocab.Everywhere><style=Vocab>ทุกหนแห่ง</style></link>",
+    "descriptionRaw": "ปล้น: มอบ +1|+0 แก่พันธมิตรที่มีค่าร่าย1 หน่วยทุกหนแห่ง",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "เมื่อนางยิง หน่วยตะขอก็ต้องทำงานให้เร็ว <zwsp>เลือดนองน้ำเรียกพวกพ้องมากมาย... <zwsp>และแน่นอนว่าเป็นพวกพ้องที่ไม่มีใครต้องการ\n",
@@ -1425,8 +1425,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW017-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1440,8 +1440,8 @@
     "attack": 4,
     "cost": 6,
     "health": 5,
-    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: ฟื้นพลัง 3 หน่วยแก่<br>พันธมิตรและเน็กซัสของคุณ จากนั้น <link=vocab.Rally><style=Vocab>ปลุกระดม</style></link>",
-    "descriptionRaw": "ปล้น: ฟื้นพลัง 3 หน่วยแก่พันธมิตรและเน็กซัสของคุณ จากนั้น ปลุกระดม",
+    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: ฮีลพันธมิตรและ<br>เน็กซัสของคุณ 3 หน่วย<br>จากนั้นทำการ<link=vocab.Rally><style=Vocab>ปลุกระดม</style></link>",
+    "descriptionRaw": "ปล้น: ฮีลพันธมิตรและเน็กซัสของคุณ 3 หน่วยจากนั้นทำการปลุกระดม",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"นักเดินเรือทุกคนล้วนเชื่อว่าพวกเขา<zwsp>แข็งแกร่งที่สุด! คำรามนี่ ตะโกนนั่น <zwsp>ใช่แล้ว ใช่แล้ว ดีมาก แต่เจ้ายังจำเป็น<zwsp>ต้องมีส้มนะ! ช่วยให้ผิวสวย ฟันแข็งแรง <zwsp>และทำให้ข้ามีความสุขด้วย เพราะฉะนั้น<zwsp>เลือกเอาว่าจะกินส้มหรือจะกินน้ำเค็ม\"\n",
@@ -1466,8 +1466,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW038-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1513,8 +1513,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW021-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1528,8 +1528,8 @@
     "attack": 4,
     "cost": 5,
     "health": 4,
-    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: มอบ <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link> แก่ศัตรูหนึ่งใบ",
-    "descriptionRaw": "เล่น: มอบ เปราะบาง แก่ศัตรูหนึ่งใบ",
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: มอบ<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link>ให้กับศัตรู<br>หนึ่งใบ",
+    "descriptionRaw": "เล่น: มอบเปราะบางให้กับศัตรูหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ข้าได้ยินมาว่าเขายอมว่ายน้ำหลายไมล์<zwsp>เพื่อตามหาเป้าหมายของเขา <zwsp>และเมื่อเขาพบเป้าหมายแล้ว เขาก็ไม่เคยยิงพลาด <zwsp>ไม่แน่ใจว่าเขาเป็นคนหรือเป็นปลากันแน่ <zwsp>แต่มันก็ชัดเจนแล้วว่าเขารู้จักผืนน้ำแห่งนี้<zwsp>ดีกว่าพวกเราหลายเท่านัก\" - Jagged Butcher\n",
@@ -1558,8 +1558,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW035-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1573,8 +1573,8 @@
     "attack": 6,
     "cost": 6,
     "health": 5,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบ <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link> แก่ศัตรูทั้งหมด",
-    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบ เปราะบาง แก่ศัตรูทั้งหมด",
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบ<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link>แก่ศัตรูทั้งหมด",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบเปราะบางแก่ศัตรูทั้งหมด",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "อาจไม่มีกฏหมายใน Bilgewater แต่กระนั้น<zwsp>เหล่าจิตวิญญาณอันกล้าหาญที่อาศัยอยู่<zwsp>ภายใต้กำแพงอันแสนแข็งแกร่งของเมือง<zwsp>ก็ไม่หวาดกลัวในการบังคับใช้<zwsp>กฎความยุติธรรมในอุดมคติของพวกเขาเอง",
@@ -1599,8 +1599,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW058.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW058-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW058-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1642,8 +1642,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW028-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1683,8 +1683,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW028T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW028T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW028T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW028T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1728,8 +1728,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW037-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1779,8 +1779,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW008-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1794,8 +1794,8 @@
     "attack": 3,
     "cost": 3,
     "health": 1,
-    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: อัญเชิญ <link=card.summon><style=AssociatedCard>Powder Keg</style></link> หนึ่งใบหรือพันธมิตรผู้ติดตาม<br>ที่มีค่าร่าย 1 หน่วยแบบสุ่ม<br>จากภูมิภาคใดก็ได้",
-    "descriptionRaw": "เล่น: อัญเชิญ Powder Keg หนึ่งใบหรือพันธมิตรผู้ติดตามที่มีค่าร่าย 1 หน่วยแบบสุ่มจากภูมิภาคใดก็ได้",
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: อัญเชิญ <link=card.summon><style=AssociatedCard>Powder Keg</style></link> หนึ่งใบหรือพันธมิตรผู้ติดตาม<br>ที่มีค่าร่าย 1 หน่วยแบบสุ่ม",
+    "descriptionRaw": "เล่น: อัญเชิญ Powder Keg หนึ่งใบหรือพันธมิตรผู้ติดตามที่มีค่าร่าย 1 หน่วยแบบสุ่ม",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "เขาได้เรียนรู้ว่ามีเพียงไม่กี่เรื่อง<zwsp>ที่ช่วยจุดประกายให้กับลูกเรือเกียจคร้าน<zwsp>ให้ลุกโชนราวกับจุดฉนวนระเบิด\n",
@@ -1824,8 +1824,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW008T02.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW008T02-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW008T02.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW008T02-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1839,8 +1839,8 @@
     "attack": 3,
     "cost": 3,
     "health": 1,
-    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: อัญเชิญพันธมิตรหนึ่งใบที่มีค่าร่าย<br>1 หน่วยแบบสุ่มจากภูมิภาคใดก็ได้",
-    "descriptionRaw": "เล่น: อัญเชิญพันธมิตรหนึ่งใบที่มีค่าร่าย1 หน่วยแบบสุ่มจากภูมิภาคใดก็ได้",
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: อัญเชิญพันธมิตรหนึ่งใบ<br>ที่มีค่าร่าย 1 หน่วยแบบสุ่ม",
+    "descriptionRaw": "เล่น: อัญเชิญพันธมิตรหนึ่งใบที่มีค่าร่าย 1 หน่วยแบบสุ่ม",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "เขาได้เรียนรู้ว่ามีเพียงไม่กี่เรื่อง<zwsp>ที่ช่วยจุดประกายให้กับลูกเรือเกียจคร้าน<zwsp>ให้ลุกโชนราวกับจุดฉนวนระเบิด\n",
@@ -1869,8 +1869,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW008T01.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW008T01-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW008T01.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW008T01-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1912,8 +1912,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW047.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW047-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW047-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1927,8 +1927,8 @@
     "attack": 2,
     "cost": 1,
     "health": 1,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ <link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> การ์ด 3 ใบ",
-    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ หย่อนทิ้ง การ์ด 3 ใบ",
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link><br>การ์ด 3 ใบ",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญหย่อนทิ้งการ์ด 3 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "ต้องใช้ความสามารถพิเศษในการทำ<zwsp>อุปกรณ์ที่เหมาะสำหรับการออกทะเลแบบสุด ๆ <zwsp>ให้กลายเป็นแค่เศษขยะ แต่นั่นแหละ<zwsp>คือความสามารถพิเศษเพียงอย่างเดียวของพวกเขา <zwsp>แค่นั้นจริง ๆ\n",
@@ -1955,8 +1955,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW004-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1998,8 +1998,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW002-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2045,8 +2045,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW016-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2088,8 +2088,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW027-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2129,8 +2129,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW050.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW050-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW050-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2144,8 +2144,8 @@
     "attack": 3,
     "cost": 7,
     "health": 4,
-    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: ลดค่าร่ายของพันธมิตรในมือ<br>และเด็คของคุณ 2 หน่วย",
-    "descriptionRaw": "ปล้น: ลดค่าร่ายของพันธมิตรในมือและเด็คของคุณ 2 หน่วย",
+    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: ลดค่าร่ายของพันธมิตรในมือ<br>และในเด็คของคุณ 2 หน่วย",
+    "descriptionRaw": "ปล้น: ลดค่าร่ายของพันธมิตรในมือและในเด็คของคุณ 2 หน่วย",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"มาร่วมออกเดินทางเคล้าดนตรีไปกับพวกเรากันเถอะ! <zwsp>เพลิดเพลินไปกับท่วงทำนองจากทุกที่ใน Runeterra! <zwsp>แค่จำเอาไว้ว่าต้องใช้เหรียญในการเข้าชม <zwsp>และถ้าแจกทิปด้วยก็จะซาบซึ้งมาก...\" <zwsp>- ผู้โปรโมทการแสดง\n",
@@ -2176,8 +2176,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW015-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2191,8 +2191,8 @@
     "attack": 3,
     "cost": 7,
     "health": 7,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ<br>จั่ว <link=card.champ1><style=AssociatedCard>Miss Fortune</style></link> หนึ่งใบ<br>ในขณะที่การ์ดใบนี้โจมตี เวทและสกิลทั้งหมดของคุณจะสร้าง<br>ความเสียหายเพิ่มขึ้น 1 หน่วย",
-    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญจั่ว Miss Fortune หนึ่งใบในขณะที่การ์ดใบนี้โจมตี เวทและสกิลทั้งหมดของคุณจะสร้างความเสียหายเพิ่มขึ้น 1 หน่วย",
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ<br>จั่ว <link=card.champ1><style=AssociatedCard>Miss Fortune</style></link> หนึ่งใบ<br>ในขณะที่การ์ดใบนี้โจมตีอยู่<br>เวทและสกิลทั้งหมดของคุณจะสร้าง<br>ความเสียหายเพิ่มขึ้น 1 หน่วย",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญจั่ว Miss Fortune หนึ่งใบในขณะที่การ์ดใบนี้โจมตีอยู่เวทและสกิลทั้งหมดของคุณจะสร้างความเสียหายเพิ่มขึ้น 1 หน่วย",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "นั่นคือ Syren ไม่ผิดแน่ <zwsp>ใบเรือกว้างของนางนั้นแวววาวดุจไข่มุก <zwsp>แถมงานไม้เองก็ประณีตและมันเงา <zwsp>ทำให้นางนั้นเปล่งประกายไม่แพ้กัปตัน\n",
@@ -2221,8 +2221,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW010-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2236,8 +2236,8 @@
     "attack": 1,
     "cost": 1,
     "health": 1,
-    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: มอบคีย์เวิร์ดสองคำแบบสุ่มแก่การ์ดใบนี้",
-    "descriptionRaw": "ปล้น: มอบคีย์เวิร์ดสองคำแบบสุ่มแก่การ์ดใบนี้",
+    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: มอบคีย์เวิร์ดสองอย่าง<br>แบบสุ่มให้กับการ์ดใบนี้",
+    "descriptionRaw": "ปล้น: มอบคีย์เวิร์ดสองอย่างแบบสุ่มให้กับการ์ดใบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"รูปของมันอยู่บนกระดานล่าค่าหัวมานานที่สุด  <zwsp>เพราะมันเป็นปีศาจโหดเหี้ยม<zwsp>และไม่เคยยอมให้ใครหรือสิ่งใด<zwsp>ขวางทางมันได้ แต่ที่แย่ที่สุดน่ะหรือ <zwsp>มัน... มันน่ารักมาก ให้ตายเถอะ\" <zwsp>- Gangplank\n",
@@ -2264,8 +2264,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW009-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2279,8 +2279,8 @@
     "attack": 1,
     "cost": 1,
     "health": 2,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่วการ์ด 1 ใบ เมื่อ <link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link> ถัดไป และมอบ<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link> แก่มัน",
-    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่วการ์ด 1 ใบ เมื่อ เริ่มรอบ ถัดไป และมอบชั่วคราว แก่มัน",
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่วการ์ด 1 ใบ<br>ตอน<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>ถัดไปและมอบ<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link><br>ให้กับการ์ดใบนั้น",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่วการ์ด 1 ใบตอนเริ่มรอบถัดไปและมอบชั่วคราวให้กับการ์ดใบนั้น",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"มันช่างไม่สมเหตุสมผลเอาเสียเลย <br>ข้าพยายามออมมือแล้วแท้ ๆ <br>แต่ไอ้เจ้าคนสุดท้ายมัน... ไม่ยอมไป <br>ดูเหมือนจะไม่ใช่วันของข้าล่ะนะ...\" <br>- Brash Gambler\n",
@@ -2305,8 +2305,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW005-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2346,8 +2346,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW039-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2391,8 +2391,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW006-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2432,8 +2432,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW036.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW036-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW036-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2479,8 +2479,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW033.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW033-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW033-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2520,8 +2520,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW060T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW060T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW060T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW060T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2570,8 +2570,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW032-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW032-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2618,8 +2618,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW032T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW032T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW032T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW032T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2668,8 +2668,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW032T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW032T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW032T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW032T3-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2683,8 +2683,8 @@
     "attack": 6,
     "cost": 5,
     "health": 6,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญหรือ<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: อัญเชิญ <link=card.summon><style=AssociatedCard>Powder Keg</style></link> หนึ่งใบ\r\n<link=keyword.AttackSkillMark><sprite name=SkillMark><style=Keyword>สั่งโจมตี</style></link>: สร้างความเสียหาย 1 หน่วย<br>แก่ศัตรูและเน็กซัสของศัตรู",
-    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญหรือเริ่มรอบ: อัญเชิญ Powder Keg หนึ่งใบ\r\nสั่งโจมตี: สร้างความเสียหาย 1 หน่วยแก่ศัตรูและเน็กซัสของศัตรู",
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญหรือ<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: อัญเชิญ <link=card.summon><style=AssociatedCard>Powder Keg</style></link> หนึ่งใบ\r\n<link=keyword.AttackSkillMark><sprite name=SkillMark><style=Keyword>โจมตี</style></link>: สร้างความเสียหาย 1 หน่วย<br>แก่ศัตรูและเน็กซัสของศัตรู",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญหรือเริ่มรอบ: อัญเชิญ Powder Keg หนึ่งใบ\r\nโจมตี: สร้างความเสียหาย 1 หน่วยแก่ศัตรูและเน็กซัสของศัตรู",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ข้าได้เห็นนัยน์ตาคู่นั้นของเขามามาก<zwsp>จนรู้ได้แล้วล่ะ ในแววตานั่นไม่มีอะไร<zwsp>นอกจากเพลิงแห่งโทสะ สักวันหนึ่ง<zwsp>หัวหน้าจะตอบแทน Bilgewater เหมือนดั่งที่มันเคยทำ<zwsp>ไว้กับเขา\" - Petty Officer\n",
@@ -2713,8 +2713,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW032T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW032T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW032T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW032T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2728,8 +2728,8 @@
     "attack": 0,
     "cost": 0,
     "health": 1,
-    "description": "สะสม Powder Keg \r\nเวทและสกิลทั้งหมด<br>ของคุณจะสร้างความเสียหาย<br>เพิ่มเติม <style=Variable>1</style> หน่วย\r\nทำลายการ์ดใบนี้<br>เมื่อเวทหรือสกิลของคุณ<br>สร้างความเสียหายแก่เน็กซัสของศัตรู",
-    "descriptionRaw": "สะสม Powder Keg \r\nเวทและสกิลทั้งหมดของคุณจะสร้างความเสียหายเพิ่มเติม 1 หน่วย\r\nทำลายการ์ดใบนี้เมื่อเวทหรือสกิลของคุณสร้างความเสียหายแก่เน็กซัสของศัตรู",
+    "description": "Powder Keg ซ้อนทับกันได้ \r\nเวทและสกิลทั้งหมด<br>ของคุณสร้างความเสียหาย<br>เพิ่มเติม <style=Variable>1</style> หน่วย\r\nทำลายการ์ดใบนี้<br>เมื่อเวทหรือสกิลของคุณ<br>สร้างความเสียหายแก่ยูนิตหรือเน็กซัสของศัตรู",
+    "descriptionRaw": "Powder Keg ซ้อนทับกันได้ \r\nเวทและสกิลทั้งหมดของคุณสร้างความเสียหายเพิ่มเติม 1 หน่วย\r\nทำลายการ์ดใบนี้เมื่อเวทหรือสกิลของคุณสร้างความเสียหายแก่ยูนิตหรือเน็กซัสของศัตรู",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ที่ใดมีถังระเบิด ที่นั่นก็มีหนทางเสมอ\" <zwsp>- สำนวน Bilgewater\n",
@@ -2762,8 +2762,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW032T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW032T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW032T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW032T4-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2812,8 +2812,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW022.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW022-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW022-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2856,8 +2856,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW022T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW022T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW022T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW022T3-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2871,8 +2871,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "สร้างความเสียหาย 1 หน่วยสามครั้ง<br>แก่ศัตรูที่ถูกตั้งเป้าหมายไว้ที่<br>ต่างกันแบบสุ่มกับเน็กซัสของศัตรู<br>สร้าง <link=card.level1><style=AssociatedCard>Miss Fortune</style></link> หนึ่งใบในเด็คของคุณ",
-    "descriptionRaw": "สร้างความเสียหาย 1 หน่วยสามครั้งแก่ศัตรูที่ถูกตั้งเป้าหมายไว้ที่ต่างกันแบบสุ่มกับเน็กซัสของศัตรูสร้าง Miss Fortune หนึ่งใบในเด็คของคุณ",
+    "description": "สร้างความเสียหาย 1 หน่วยแบบ<br>สุ่มเป้าหมายสามครั้ง<br>ระหว่างศัตรู<br>ที่ต่างกันหรือเน็กซัสของศัตรู<br>สร้าง <link=card.level1><style=AssociatedCard>Miss Fortune</style></link> หนึ่งใบในเด็คของคุณ",
+    "descriptionRaw": "สร้างความเสียหาย 1 หน่วยแบบสุ่มเป้าหมายสามครั้งระหว่างศัตรูที่ต่างกันหรือเน็กซัสของศัตรูสร้าง Miss Fortune หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"กระหน่ำยิง!\" - Miss Fortune",
@@ -2905,8 +2905,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW022T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW022T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW022T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW022T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2950,8 +2950,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW022T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW022T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW022T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW022T4-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2995,8 +2995,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW022T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW022T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW022T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW022T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3045,8 +3045,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW046.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW046-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW046-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3099,8 +3099,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW046T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW046T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW046T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW046T3-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3148,8 +3148,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW046T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW046T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW046T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW046T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3196,8 +3196,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW046T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW046T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW046T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW046T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3211,8 +3211,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "กำจัดพันธมิตรที่โจมตีออกจาก<br>การต่อสู้เพื่อ<link=vocab.Rally><style=Vocab>ปลุกระดม</style></link><br>สร้าง <link=card.level1><style=AssociatedCard>Fizz</style></link> หนึ่งใบในเด็คของคุณ",
-    "descriptionRaw": "กำจัดพันธมิตรที่โจมตีออกจากการต่อสู้เพื่อปลุกระดมสร้าง Fizz หนึ่งใบในเด็คของคุณ",
+    "description": "นำพันธมิตรที่โจมตีอยู่ออกจาก<br>การต่อสู้เพื่อทำการ<link=vocab.Rally><style=Vocab>ปลุกระดม</style></link><br>สร้าง <link=card.level1><style=AssociatedCard>Fizz</style></link> หนึ่งใบในเด็คของคุณ",
+    "descriptionRaw": "นำพันธมิตรที่โจมตีอยู่ออกจากการต่อสู้เพื่อทำการปลุกระดมสร้าง Fizz หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ข้านำหน้าเจ้าไปหนึ่งก้าวกระโดด!\" - Fizz",
@@ -3247,8 +3247,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW026-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3292,8 +3292,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW026T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW026T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW026T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW026T5-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3343,8 +3343,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW026T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW026T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW026T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW026T3-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3391,8 +3391,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW026T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW026T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW026T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW026T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3436,8 +3436,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW026T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW026T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW026T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW026T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3481,8 +3481,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW026T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW026T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW026T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW026T4-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3529,8 +3529,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW053.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW053-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW053.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW053-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3579,8 +3579,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW053T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW053T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW053T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW053T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3594,8 +3594,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link> ศัตรูหนึ่งใบ\r\nวางยูนิตใบนั้นเข้าเด็คของศัตรูหากคุณมี <link=card.champCheck><style=AssociatedCard>Nautilus</style></link> หนึ่งใบ\r\nสร้าง <link=card.level1><style=AssociatedCard>Nautilus</style></link> หนึ่งใบในเด็คของคุณ",
-    "descriptionRaw": "สตั้น ศัตรูหนึ่งใบ\r\nวางยูนิตใบนั้นเข้าเด็คของศัตรูหากคุณมี Nautilus หนึ่งใบ\r\nสร้าง Nautilus หนึ่งใบในเด็คของคุณ",
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>ศัตรูหนึ่งใบ\r\nนำยูนิตใบนั้นกลับเข้าเด็คของศัตรูหากคุณมี <link=card.champCheck><style=AssociatedCard>Nautilus</style></link> บนกระดาน\r\nสร้าง <link=card.level1><style=AssociatedCard>Nautilus</style></link> หนึ่งใบในเด็คของคุณ",
+    "descriptionRaw": "สตั้นศัตรูหนึ่งใบ\r\nนำยูนิตใบนั้นกลับเข้าเด็คของศัตรูหากคุณมี Nautilus บนกระดาน\r\nสร้าง Nautilus หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ลากพวกมันลงมา...\" - Nautilus",
@@ -3627,8 +3627,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW053T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW053T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW053T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW053T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3674,8 +3674,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW061.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW061-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW061.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW061-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3689,8 +3689,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "เมื่อถูกจั่ว ลดค่าร่ายลง 1 หน่วย ในรอบนี้\r\nมอบ +2|+1 แก่พันธมิตร",
-    "descriptionRaw": "เมื่อถูกจั่ว ลดค่าร่ายลง 1 หน่วย ในรอบนี้\r\nมอบ +2|+1 แก่พันธมิตร",
+    "description": "เมื่อการ์ดใบนี้ถูกจั่ว ลดค่าร่ายลง<br>1 หน่วยในรอบนี้<br>มอบ +2|+1 แก่พันธมิตรหนึ่งใบ",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกจั่ว ลดค่าร่ายลง1 หน่วยในรอบนี้มอบ +2|+1 แก่พันธมิตรหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ไม่อะไรเหมือนกับการชนะรวดเพื่อกวาดชิป<zwsp>เข้ากระเป๋าหรอก\" - Twisted Fate\n",
@@ -3719,8 +3719,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW024-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3734,8 +3734,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "อัญเชิญผู้ติดตามสองตัวที่มีค่าร่าย<br>1 หน่วยแบบสุ่มจากภูมิภาคใดก็ได้",
-    "descriptionRaw": "อัญเชิญผู้ติดตามสองตัวที่มีค่าร่าย1 หน่วยแบบสุ่มจากภูมิภาคใดก็ได้",
+    "description": "อัญเชิญผู้ติดตามสองใบ<br>ที่มีค่าร่าย 1 หน่วยแบบสุ่ม",
+    "descriptionRaw": "อัญเชิญผู้ติดตามสองใบที่มีค่าร่าย 1 หน่วยแบบสุ่ม",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"เฮ้ Gav นั่นมันคนที่เรากำลังตามหาหรือเปล่า? <zwsp>เหมือนเขาจะมีเพื่อนด้วยนะ\"\n<zwsp>\"นั่นใช่... นั่นใช่มนุษย์ฉลามหรือเปล่า Baz?\"\n<zwsp>\"นั่นหมายถึงทองที่มากกว่าเดิม<zwsp>อีกเยอะด้วยเพื่อน! ไปกันเถอะ...\" <zwsp>- Baz และ Gav นักล่าเงินรางวัล",
@@ -3764,8 +3764,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW003-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3811,8 +3811,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW025-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3826,8 +3826,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "มอบ <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link> แก่ยูนิตศัตรูหนึ่งใบและอัญเชิญ <link=card.summon><style=AssociatedCard>Longtooth</style></link>",
-    "descriptionRaw": "มอบ เปราะบาง แก่ยูนิตศัตรูหนึ่งใบและอัญเชิญ Longtooth",
+    "description": "มอบ<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link><br>ให้กับยูนิตศัตรูหนึ่งใบและอัญเชิญ<br><link=card.summon><style=AssociatedCard>Longtooth</style></link>",
+    "descriptionRaw": "มอบเปราะบางให้กับยูนิตศัตรูหนึ่งใบและอัญเชิญLongtooth",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ฉลาม!\" - Fizz",
@@ -3858,8 +3858,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW012-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3873,8 +3873,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "อัญเชิญ <link=card.summon><style=AssociatedCard>Powder Kegs</style></link> 2 ตัว",
-    "descriptionRaw": "อัญเชิญ Powder Kegs 2 ตัว",
+    "description": "อัญเชิญ <link=card.summon><style=AssociatedCard>Powder Kegs</style></link> 2 ใบ",
+    "descriptionRaw": "อัญเชิญ Powder Kegs 2 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"โยนถัง!\" - Gangplank",
@@ -3903,8 +3903,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW018-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3918,8 +3918,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "สร้างความเสียหาย 1 หน่วย<br>แก่อะไรก็ตามแต่ หากสิ่งนี้สังหารมัน สร้างความเสียหาย 1 หน่วยแก่ Nexus ของศัตรู",
-    "descriptionRaw": "สร้างความเสียหาย 1 หน่วยแก่อะไรก็ตามแต่ หากสิ่งนี้สังหารมัน สร้างความเสียหาย 1 หน่วยแก่ Nexus ของศัตรู",
+    "description": "สร้างความเสียหาย 1 หน่วย<br>ใส่อะไรก็ได้ หากการ์ดนี้สังหารมัน<br>สร้างความเสียหาย 1 หน่วยแก่เน็กซัส<br>ของศัตรู",
+    "descriptionRaw": "สร้างความเสียหาย 1 หน่วยใส่อะไรก็ได้ หากการ์ดนี้สังหารมันสร้างความเสียหาย 1 หน่วยแก่เน็กซัสของศัตรู",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "การทำสมาธิของ Gangplank มักจะใช้เวลาสั้น ๆ <zwsp>และจบลงด้วยการนองเลือด\n",
@@ -3948,8 +3948,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW048.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW048-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW048-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -3963,8 +3963,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "อัญเชิญผู้ติดตามหนึ่งใบที่มีค่าร่าย<br>1 หน่วยแบบสุ่มจากภูมิภาคใดก็ได้",
-    "descriptionRaw": "อัญเชิญผู้ติดตามหนึ่งใบที่มีค่าร่าย1 หน่วยแบบสุ่มจากภูมิภาคใดก็ได้",
+    "description": "อัญเชิญผู้ติดตามหนึ่งใบที่มีค่าร่าย<br>1 หน่วยแบบสุ่ม",
+    "descriptionRaw": "อัญเชิญผู้ติดตามหนึ่งใบที่มีค่าร่าย1 หน่วยแบบสุ่ม",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"เจ้าคิดว่าอย่างไรล่ะ Baz? เขาดูไม่ค่อยอึดนัก\"\n<zwsp>\"แน่ใจเหรอ Gav? เขาแหกคุกออกมานะ...\"\n<zwsp>\"หมายความว่าเขาน่ะเจ้าเล่ห์ แต่ไม่อึดไง <zwsp>ให้ตายเถอะ!\" - Baz กับ Gav นักล่าเงินรางวัล",
@@ -3993,8 +3993,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW043.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW043-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW043-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4038,8 +4038,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW051.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW051-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW051-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4053,8 +4053,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "นำพันธมิตรที่ออกโจมตีอยู่<br>หนึ่งใบออกจากการต่อสู้เพื่อ<br><link=vocab.Rally><style=Vocab>ปลุกระดม</style></link>",
-    "descriptionRaw": "นำพันธมิตรที่ออกโจมตีอยู่หนึ่งใบออกจากการต่อสู้เพื่อปลุกระดม",
+    "description": "นำพันธมิตรที่โจมตีอยู่<br>หนึ่งใบออกจากการต่อสู้เพื่อ<br><link=vocab.Rally><style=Vocab>ปลุกระดม</style></link>",
+    "descriptionRaw": "นำพันธมิตรที่โจมตีอยู่หนึ่งใบออกจากการต่อสู้เพื่อปลุกระดม",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ข้านำหน้าเจ้าไปหนึ่งก้าวกระโดด!\" - Fizz",
@@ -4085,8 +4085,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW054.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW054-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW054.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW054-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4100,8 +4100,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link> ศัตรูหนึ่งใบ\r\nวางยูนิตใบนั้นเข้าเด็คของศัตรูหากคุณมี <link=card.champCheck><style=AssociatedCard>Nautilus</style></link> หนึ่งใบ",
-    "descriptionRaw": "สตั้น ศัตรูหนึ่งใบ\r\nวางยูนิตใบนั้นเข้าเด็คของศัตรูหากคุณมี Nautilus หนึ่งใบ",
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>ศัตรูหนึ่งใบ\r\nนำยูนิตใบนั้นกลับเข้าเด็คของศัตรูหากคุณมี <link=card.champCheck><style=AssociatedCard>Nautilus</style></link> บนกระดาน\r\n",
+    "descriptionRaw": "สตั้นศัตรูหนึ่งใบ\r\nนำยูนิตใบนั้นกลับเข้าเด็คของศัตรูหากคุณมี Nautilus บนกระดาน\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ลากพวกมันลงมา...\" - Nautilus",
@@ -4130,8 +4130,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW042-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4145,8 +4145,8 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "เพิ่มค่าพลังโจมตีและพลังชีวิต<br>ของพันธมิตรทั้งหมดในรอบนี้<br>ให้เท่ากับจำนวนเวทที่คุณ<br>ร่ายในเกมนี้ <style=Variable></style>",
-    "descriptionRaw": "เพิ่มค่าพลังโจมตีและพลังชีวิตของพันธมิตรทั้งหมดในรอบนี้ให้เท่ากับจำนวนเวทที่คุณร่ายในเกมนี้ ",
+    "description": "เพิ่มพลังโจมตีและพลังชีวิต<br>ของพันธมิตรทั้งหมดในรอบนี้<br>ตามจำนวนเวทที่คุณ<br>ร่ายไปในเกมนี้ <style=Variable></style>",
+    "descriptionRaw": "เพิ่มพลังโจมตีและพลังชีวิตของพันธมิตรทั้งหมดในรอบนี้ตามจำนวนเวทที่คุณร่ายไปในเกมนี้ ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "กระแสลมและกระแสน้ำรอบ Bilgewater นั้น<zwsp>อาจจะน่ากลัวเพราะความแข็งแกร่ง<zwsp>และฉับพลันเกินคาดเดาของพวกมัน <zwsp>แต่ก็กลับไม่มีกะลาสีเรือคนไหน<zwsp>ที่รับรู้ถึงพลังที่แท้จริง\n",
@@ -4175,8 +4175,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW059.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW059-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW059-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4190,8 +4190,8 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> การ์ด 3 ใบ\r\nสร้างความเสียหาย<br>7 หน่วยแก่ยูนิตหนึ่งใบ",
-    "descriptionRaw": "หย่อนทิ้ง การ์ด 3 ใบ\r\nสร้างความเสียหาย7 หน่วยแก่ยูนิตหนึ่งใบ",
+    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>การ์ด 3 ใบ\r\nสร้างความเสียหาย<br>7 หน่วยแก่ยูนิตหนึ่งใบ",
+    "descriptionRaw": "หย่อนทิ้งการ์ด 3 ใบ\r\nสร้างความเสียหาย7 หน่วยแก่ยูนิตหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ถ้าล่มเรือพวกมันได้ มันก็คุ้มค่าแล้ว\" <zwsp>- สำนวน Bilgewater\n",
@@ -4220,8 +4220,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW023.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW023-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW023-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4235,8 +4235,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "ลดค่าร่ายพันธมิตรสัตว์ใต้ท้องทะเล <link=vocab.Everywhere><style=Vocab>ทุกหนแห่ง</style></link> ลง 1 หน่วย\r\nจั่วสัตว์ใต้ท้องทะเลหนึ่งใบ",
-    "descriptionRaw": "ลดค่าร่ายพันธมิตรสัตว์ใต้ท้องทะเล ทุกหนแห่ง ลง 1 หน่วย\r\nจั่วสัตว์ใต้ท้องทะเลหนึ่งใบ",
+    "description": "ลดค่าร่ายพันธมิตรสัตว์ใต้ท้องทะเล<br><link=vocab.Everywhere><style=Vocab>ทุกหนแห่ง</style></link>ลง 1 หน่วย<br>จั่วสัตว์ใต้ท้องทะเลหนึ่งใบ",
+    "descriptionRaw": "ลดค่าร่ายพันธมิตรสัตว์ใต้ท้องทะเลทุกหนแห่งลง 1 หน่วยจั่วสัตว์ใต้ท้องทะเลหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "กะลาสีกระซิบกระซาบถึงอนาคตอันมืดมิด<zwsp>ที่จะมาถึง เมื่อทะเลคลั่งและเดือด <zwsp>ความสยดสยองที่ไม่อาจจินตนาการ<zwsp>จะโผล่มาจากเกลียวคลื่น\n",
@@ -4265,8 +4265,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW031-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4310,8 +4310,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW029-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4325,8 +4325,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> 2 ใบ\r\nจั่ว 2",
-    "descriptionRaw": "หย่อนทิ้ง 2 ใบ\r\nจั่ว 2",
+    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> 2 ใบ<br>จั่วการ์ด 2 ใบ",
+    "descriptionRaw": "หย่อนทิ้ง 2 ใบจั่วการ์ด 2 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Flotsam ไม่ได้ลอยตัวอยู่นานนัก <zwsp>นักเดินเรือที่ฉลาดจะต้องสามารถแยกข้าวของ<zwsp>ที่มีค่าออกจากขยะได้อย่างรวดเร็ว ก่อนที่<zwsp>ทุกอย่างจะจมดิ่งหายลึกลงไปที่ก้นสมุทร\n",
@@ -4355,8 +4355,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW049-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4400,8 +4400,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW001-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4415,8 +4415,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "มอบ <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link> แก่ศัตรูหนึ่งใบในรอบนี้ หากศัตรูตัวนั้นตาย จั่วการ์ดหนึ่งใบ",
-    "descriptionRaw": "มอบ เปราะบาง แก่ศัตรูหนึ่งใบในรอบนี้ หากศัตรูตัวนั้นตาย จั่วการ์ดหนึ่งใบ",
+    "description": "มอบ<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link>แก่ศัตรูหนึ่งใบ<br>ในรอบนี้ หากมันตายในรอบนี้<br>จั่วการ์ดหนึ่งใบ",
+    "descriptionRaw": "มอบเปราะบางแก่ศัตรูหนึ่งใบในรอบนี้ หากมันตายในรอบนี้จั่วการ์ดหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"เชิดหน้าและตั้งใจทำงานเข้าไว้ เจ้าหนู! <zwsp>หากกัปตันมาเห็นเจ้าเหลาะแหละแบบนี้<zwsp>เดี๋ยวก็ซวยหรอก เขาจะตัดเจ้าเป็นชิ้น ๆ <zwsp>แล้วเทให้พวกนกนางนวลมันกินซะ <zwsp>เอาล่ะ ขยับก้นได้แล้ว!\" <zwsp>- Dreadway Deckhand\n",
@@ -4445,8 +4445,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW063.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW063-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW063.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW063-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4490,8 +4490,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW045-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4535,8 +4535,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW020-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4580,8 +4580,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW044.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW044-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW044-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4595,8 +4595,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> การ์ด 4 ใบ",
-    "descriptionRaw": "หย่อนทิ้ง การ์ด 4 ใบ",
+    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>การ์ด 4 ใบ",
+    "descriptionRaw": "หย่อนทิ้งการ์ด 4 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"ถ้ามูลค่าไม่คุ้มน้ำหนัก ก็โยนมันทิ้งไป <zwsp>เหมือนกับโชคชะตาของเจ้านั่นแหล่ะ <zwsp>กลับไปทำงานได้แล้ว!\" - Petty Officer\n",
@@ -4625,8 +4625,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW062.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02BW062-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02BW062-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -4670,8 +4670,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR009-full.png"
       }
     ],
     "region": "Freljord",
@@ -4715,8 +4715,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR004-full.png"
       }
     ],
     "region": "Freljord",
@@ -4763,8 +4763,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR002-full.png"
       }
     ],
     "region": "Freljord",
@@ -4778,8 +4778,8 @@
     "attack": 5,
     "cost": 6,
     "health": 6,
-    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: มอบ <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>แช่แข็ง</style></link> และ <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link> แก่ศัตรูหนึ่งใบในรอบนี้",
-    "descriptionRaw": "เล่น: มอบ แช่แข็ง และ เปราะบาง แก่ศัตรูหนึ่งใบในรอบนี้",
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: มอบ<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>แช่แข็ง</style></link><br>และ<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link>แก่ศัตรู<br>หนึ่งใบในรอบนี้",
+    "descriptionRaw": "เล่น: มอบแช่แข็งและเปราะบางแก่ศัตรูหนึ่งใบในรอบนี้",
     "levelupDescription": "เมื่อคุณสร้างความเสียหายแก่เน็กซัส<br>ของศัตรูไป 5 รอบที่แตกต่างกัน<style=Variable></style>",
     "levelupDescriptionRaw": "เมื่อคุณสร้างความเสียหายแก่เน็กซัสของศัตรูไป 5 รอบที่แตกต่างกัน",
     "flavorText": "แม้ลูกตุ้มแห่ง True Ice ของนางนั้น<zwsp>ช่างน่าเกรงขามนัก แต่ตัว Sejuani เอง<zwsp>ก็ไม่ต่างจากอาวุธ หล่อหลอมจากความหนาวเหน็บ<zwsp>ของ Freljord และได้รับการทดสอบจาก<zwsp>สภาพอากาศที่เย็นเยือก\n",
@@ -4808,8 +4808,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR001-full.png"
       }
     ],
     "region": "Freljord",
@@ -4851,8 +4851,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR005-full.png"
       }
     ],
     "region": "Freljord",
@@ -4894,8 +4894,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR005T1-full.png"
       }
     ],
     "region": "Freljord",
@@ -4909,8 +4909,8 @@
     "attack": 6,
     "cost": 5,
     "health": 6,
-    "description": "พันธมิตรอื่นที่มีพลังโจมตี 5 หน่วยขึ้นไปมี <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>ทะลวง</style></link>",
-    "descriptionRaw": "พันธมิตรอื่นที่มีพลังโจมตี 5 หน่วยขึ้นไปมี ทะลวง",
+    "description": "พันธมิตรอื่นที่มีพลังโจมตี<br>5 หน่วยขึ้นไปมี<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>ทะลวง</style></link>",
+    "descriptionRaw": "พันธมิตรอื่นที่มีพลังโจมตี5 หน่วยขึ้นไปมีทะลวง",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "เมื่อถูกปลดปล่อยอย่างเต็มรูปแบบ <zwsp>Ursine จะฉีกกระชากมนุษยธรรมของพวกเขาออก<zwsp>แล้วเข้าเผชิญหน้ากับพลังแห่งพายุ <zwsp>พวกเขาจะทำลายล้างทุ่งราบเยือกแข็ง <zwsp>พวกเขาคำรามกึกก้องดั่งเสียงฟ้าคำราม\n",
@@ -4941,8 +4941,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR010-full.png"
       }
     ],
     "region": "Freljord",
@@ -4956,8 +4956,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "มอบ +1|+1 แก่พันธมิตร 3 ตัว<br>ที่อยู่บนสุดของเด็คของคุณ\r\n<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: ทำการจั่วการ์ด 1 ในนั้นออกมา",
-    "descriptionRaw": "มอบ +1|+1 แก่พันธมิตร 3 ตัวที่อยู่บนสุดของเด็คของคุณ\r\nปล้น: ทำการจั่วการ์ด 1 ในนั้นออกมา",
+    "description": "มอบ +1|+1 แก่พันธมิตร 3 ใบ<br>ที่อยู่บนสุดของเด็คของคุณ\r\n<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: ทำการจั่วการ์ด 1 ใบในนั้นขึ้นมือ",
+    "descriptionRaw": "มอบ +1|+1 แก่พันธมิตร 3 ใบที่อยู่บนสุดของเด็คของคุณ\r\nปล้น: ทำการจั่วการ์ด 1 ใบในนั้นขึ้นมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"แบ่งปันอย่างเท่าเทียมกัน\" - Ruthless Raider",
@@ -4989,8 +4989,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR008-full.png"
       }
     ],
     "region": "Freljord",
@@ -5033,8 +5033,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR002T1-full.png"
       }
     ],
     "region": "Freljord",
@@ -5081,8 +5081,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR002T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR002T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR002T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR002T3-full.png"
       }
     ],
     "region": "Freljord",
@@ -5096,8 +5096,8 @@
     "attack": 6,
     "cost": 6,
     "health": 7,
-    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: มอบ <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>แช่แข็ง</style></link>ให้ศัตรูหนึ่งใบ<br>และ <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link> ในรอบนี้<br>ในแต่ละรอบที่คุณสร้างความเสียหายแก่<br>เน็กซัสของศัตรูเป็นครั้งแรก<br><link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>แช่แข็ง</style></link> ศัตรูทั้งหมด",
-    "descriptionRaw": "เล่น: มอบ แช่แข็งให้ศัตรูหนึ่งใบและ เปราะบาง ในรอบนี้ในแต่ละรอบที่คุณสร้างความเสียหายแก่เน็กซัสของศัตรูเป็นครั้งแรกแช่แข็ง ศัตรูทั้งหมด",
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: มอบ<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>แช่แข็ง</style></link><br>และ<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link>ให้ศัตรูหนึ่งใบในรอบนี้<br>ในแต่ละรอบ ครั้งแรกที่คุณสร้างความเสียหายแก่<br>เน็กซัสของศัตรู<br><link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>แช่แข็ง</style></link>ศัตรูทั้งหมด",
+    "descriptionRaw": "เล่น: มอบแช่แข็งและเปราะบางให้ศัตรูหนึ่งใบในรอบนี้ในแต่ละรอบ ครั้งแรกที่คุณสร้างความเสียหายแก่เน็กซัสของศัตรูแช่แข็งศัตรูทั้งหมด",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"จัดการพวกมัน! แสดงให้พวกมันเห็นว่า<zwsp> Freljord เป็นของ Winter's Claw!\"\n",
@@ -5126,8 +5126,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR007-full.png"
       }
     ],
     "region": "Freljord",
@@ -5171,8 +5171,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR006-full.png"
       }
     ],
     "region": "Freljord",
@@ -5220,8 +5220,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02FR003-full.png"
       }
     ],
     "region": "Freljord",
@@ -5267,8 +5267,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX001-full.png"
       }
     ],
     "region": "Noxus",
@@ -5315,8 +5315,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX007-full.png"
       }
     ],
     "region": "Noxus",
@@ -5363,8 +5363,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX007T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX007T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX007T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX007T2-full.png"
       }
     ],
     "region": "Noxus",
@@ -5411,8 +5411,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX007T1-full.png"
       }
     ],
     "region": "Noxus",
@@ -5426,8 +5426,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "สร้างความเสียหาย 4 หน่วย<br>แก่ยูนิตหนึ่งใบหากยูนิตใบนั้น<br>บาดเจ็บหรือ <link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link> อยู่<br>สร้าง <link=card.level1><style=AssociatedCard>Swain</style></link> หนึ่งใบในเด็คของคุณ",
-    "descriptionRaw": "สร้างความเสียหาย 4 หน่วยแก่ยูนิตหนึ่งใบหากยูนิตใบนั้นบาดเจ็บหรือ สตั้น อยู่สร้าง Swain หนึ่งใบในเด็คของคุณ",
+    "description": "สร้างความเสียหาย 4 หน่วย<br>แก่ยูนิตหนึ่งใบหากยูนิตใบนั้น<br>ได้รับความเสียหายหรือ<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link><br>สร้าง <link=card.level1><style=AssociatedCard>Swain</style></link> หนึ่งใบในเด็คของคุณ",
+    "descriptionRaw": "สร้างความเสียหาย 4 หน่วยแก่ยูนิตหนึ่งใบหากยูนิตใบนั้นได้รับความเสียหายหรือสตั้นสร้าง Swain หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "ฟังสิ ได้ยินเสียงนั่นไหม เสียงคำรามจาก<zwsp>ปีกนับพันที่พัดกระพือ\n",
@@ -5456,8 +5456,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX006-full.png"
       }
     ],
     "region": "Noxus",
@@ -5497,8 +5497,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX002-full.png"
       }
     ],
     "region": "Noxus",
@@ -5512,8 +5512,8 @@
     "attack": 6,
     "cost": 6,
     "health": 6,
-    "description": "<link=vocab.Attack><style=Vocab>สั่งโจมตี</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link> ศัตรูที่ได้รับความเสียหายทั้งหมด",
-    "descriptionRaw": "สั่งโจมตี: สตั้น ศัตรูที่ได้รับความเสียหายทั้งหมด",
+    "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>ศัตรูที่ได้รับความเสียหายทั้งหมด",
+    "descriptionRaw": "โจมตี: สตั้นศัตรูที่ได้รับความเสียหายทั้งหมด",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "“เป็นเวลาหลายชั่วอายุคน ที่เราได้ถูกปราบปราม จนกระทั่ง Noxus ยึดเอาแผ่นดินของเราไปนั่นแหละที่ทำให้ท้ายที่สุดแล้วเราก็เข้าใจว่าอะไรคืออิสรภาพแท้จริง <zwsp>เพราะเหตุนั้นข้าจึงต่อสู้เพื่อจักรวรรดิ”\n",
@@ -5538,8 +5538,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX009-full.png"
       }
     ],
     "region": "Noxus",
@@ -5585,8 +5585,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX004-full.png"
       }
     ],
     "region": "Noxus",
@@ -5626,8 +5626,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX003-full.png"
       }
     ],
     "region": "Noxus",
@@ -5671,8 +5671,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX010-full.png"
       }
     ],
     "region": "Noxus",
@@ -5716,8 +5716,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX004T1-full.png"
       }
     ],
     "region": "Noxus",
@@ -5761,8 +5761,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX008-full.png"
       }
     ],
     "region": "Noxus",
@@ -5806,8 +5806,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02NX005-full.png"
       }
     ],
     "region": "Noxus",
@@ -5851,8 +5851,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE003-full.png"
       }
     ],
     "region": "Demacia",
@@ -5892,8 +5892,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE008-full.png"
       }
     ],
     "region": "Demacia",
@@ -5937,8 +5937,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE004-full.png"
       }
     ],
     "region": "Demacia",
@@ -5990,8 +5990,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE006-full.png"
       }
     ],
     "region": "Demacia",
@@ -6039,8 +6039,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE006T3-full.png"
       }
     ],
     "region": "Demacia",
@@ -6084,8 +6084,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE006T2-full.png"
       }
     ],
     "region": "Demacia",
@@ -6135,8 +6135,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE006T1-full.png"
       }
     ],
     "region": "Demacia",
@@ -6182,8 +6182,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE009-full.png"
       }
     ],
     "region": "Demacia",
@@ -6231,8 +6231,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE005-full.png"
       }
     ],
     "region": "Demacia",
@@ -6278,8 +6278,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE002-full.png"
       }
     ],
     "region": "Demacia",
@@ -6323,8 +6323,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE010-full.png"
       }
     ],
     "region": "Demacia",
@@ -6370,8 +6370,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE007-full.png"
       }
     ],
     "region": "Demacia",
@@ -6385,8 +6385,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "มอบ <link=keyword.Tough><sprite name=Tough><style=Keyword>ทนทาน</style></link> แก่พันธมิตรทุกตัวในรอบนี้",
-    "descriptionRaw": "มอบ ทนทาน แก่พันธมิตรทุกตัวในรอบนี้",
+    "description": "มอบ<link=keyword.Tough><sprite name=Tough><style=Keyword>ทนทาน</style></link>แก่พันธมิตรทุกใบในรอบนี้",
+    "descriptionRaw": "มอบทนทานแก่พันธมิตรทุกใบในรอบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"เมื่อศัตรูเข้ามาใกล้ อย่าปล่อยให้ความกลัว<zwsp>กัดกินหัวใจ เข้มแข็งต่อไป<zwsp>เพื่อเหล่าต้นไม้ที่ปกป้องเรา\"<zwsp> - Greenfang Warden\n",
@@ -6415,8 +6415,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02DE001-full.png"
       }
     ],
     "region": "Demacia",
@@ -6460,8 +6460,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI005-full.png"
       }
     ],
     "region": "Shadow Isles",
@@ -6475,8 +6475,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> 3 ใบ\r\nฮีลพันธมิตรทั้งหมด 3 หน่วย",
-    "descriptionRaw": "หย่อนทิ้ง 3 ใบ\r\nฮีลพันธมิตรทั้งหมด 3 หน่วย",
+    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>การ์ด 3 ใบ\r\nฮีลพันธมิตรทั้งหมด 3 หน่วย",
+    "descriptionRaw": "หย่อนทิ้งการ์ด 3 ใบ\r\nฮีลพันธมิตรทั้งหมด 3 หน่วย",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"เกาะเหล่านี้จะต้องถูกชำระล้าง\" - Maokai",
@@ -6505,8 +6505,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI010-full.png"
       }
     ],
     "region": "Shadow Isles",
@@ -6520,8 +6520,8 @@
     "attack": 3,
     "cost": 3,
     "health": 2,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ <link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> การ์ด 3 ใบ",
-    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ หย่อนทิ้ง การ์ด 3 ใบ",
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ <link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link><br>การ์ด 3 ใบ",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ หย่อนทิ้งการ์ด 3 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"เทรนต์ผู้ยิ่่งใหญ่ยังคงแสดงสิ่งมีชีวิต... ต่อไป <zwsp>ตัวนี้... กระจายชีวิตไปในยามที่นางเดินเตร็ดเตร่... <zwsp>ช่างน่าประทับใจ... <zwsp>ที่นี่ ช่างเป็นเกาะที่ผาสุขจริง ๆ!\" <zwsp>- บันทึกเดินทางที่ถูกเก็บกู้\n",
@@ -6554,8 +6554,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI008-full.png"
       }
     ],
     "region": "Shadow Isles",
@@ -6569,8 +6569,8 @@
     "attack": 1,
     "cost": 4,
     "health": 4,
-    "description": "เมื่อคุณเล่นยูนิตอีกตัวในแต่ละรอบ <link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> การ์ด 2 ใบและ อัญเชิญ <link=card.summon><style=AssociatedCard>Sapling</style></link> หนึ่งใบ",
-    "descriptionRaw": "เมื่อคุณเล่นยูนิตอีกตัวในแต่ละรอบ หย่อนทิ้ง การ์ด 2 ใบและ อัญเชิญ Sapling หนึ่งใบ",
+    "description": "ในแต่ละรอบ เมื่อคุณเล่นยูนิตใบอื่น<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>การ์ด<br>2 ใบและอัญเชิญ <link=card.summon><style=AssociatedCard>Sapling</style></link> หนึ่งใบ",
+    "descriptionRaw": "ในแต่ละรอบ เมื่อคุณเล่นยูนิตใบอื่นหย่อนทิ้งการ์ด2 ใบและอัญเชิญ Sapling หนึ่งใบ",
     "levelupDescription": "ยูนิตของคุณตายหรือการ์ดของคุณถูก <link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> 25 ครั้ง<style=Variable></style>",
     "levelupDescriptionRaw": "ยูนิตของคุณตายหรือการ์ดของคุณถูก หย่อนทิ้ง 25 ครั้ง",
     "flavorText": "แผ่นดินที่ถูกสาปนี้ไม่อาจหยุด Maokai ได้ <zwsp>พันธะแห่งเทรนต์นั้นหยั่งรากลึกเกินไป <zwsp>และโทสะของเขาก็เผาไหม้ร้อนแรงเกินกว่า<zwsp>จะให้สิ่งใดมาขวางทางเขาได้\n",
@@ -6595,8 +6595,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI008T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI008T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI008T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI008T3-full.png"
       }
     ],
     "region": "Shadow Isles",
@@ -6646,8 +6646,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI008T1-full.png"
       }
     ],
     "region": "Shadow Isles",
@@ -6695,8 +6695,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI008T2-full.png"
       }
     ],
     "region": "Shadow Isles",
@@ -6710,8 +6710,8 @@
     "attack": 2,
     "cost": 4,
     "health": 5,
-    "description": "เมื่อการ์ดใบนี้เลเวลอัป <link=keyword.Obliterate><style=Keyword>ทำลายล้าง</style></link> เด็คของศัตรู เหลือการ์ด<br>4 ใบที่ไม่ใช่แชมเปี้ยน<br><link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: อัญเชิญ <link=card.summon><style=AssociatedCard>Sapling</style></link> หนึ่งใบ",
-    "descriptionRaw": "เมื่อการ์ดใบนี้เลเวลอัป ทำลายล้าง เด็คของศัตรู เหลือการ์ด4 ใบที่ไม่ใช่แชมเปี้ยนเริ่มรอบ: อัญเชิญ Sapling หนึ่งใบ",
+    "description": "เมื่อการ์ดใบนี้เลเวลอัป<link=keyword.Obliterate><style=Keyword>ทำลายล้าง</style></link>เด็คของศัตรูให้เหลือการ์ด<br>4 ใบที่ไม่ใช่แชมเปี้ยน<br><link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: อัญเชิญ <link=card.summon><style=AssociatedCard>Sapling</style></link> หนึ่งใบ",
+    "descriptionRaw": "เมื่อการ์ดใบนี้เลเวลอัปทำลายล้างเด็คของศัตรูให้เหลือการ์ด4 ใบที่ไม่ใช่แชมเปี้ยนเริ่มรอบ: อัญเชิญ Sapling หนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "เขาจะทำลายโรคร้ายของแมกไม้ที่อยู่ภายในเกาะเหล่านี้<zwsp>และฟื้นคืนชีวิตที่สูญหายไปในที่แห่งนี้เมื่อเนิ่นนานมาแล้ว\n",
@@ -6740,8 +6740,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI007-full.png"
       }
     ],
     "region": "Shadow Isles",
@@ -6755,8 +6755,8 @@
     "attack": 1,
     "cost": 2,
     "health": 4,
-    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: <link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> การ์ด 2 ใบ<br>และฟื้นพลัง 2 หน่วยแก่เน็กซัสของคุณ",
-    "descriptionRaw": "สิ้นลม: หย่อนทิ้ง การ์ด 2 ใบและฟื้นพลัง 2 หน่วยแก่เน็กซัสของคุณ",
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: <link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>การ์ด 2 ใบ<br>และฮีล 2 หน่วยแก่เน็กซัสของคุณ",
+    "descriptionRaw": "สิ้นลม: หย่อนทิ้งการ์ด 2 ใบและฮีล 2 หน่วยแก่เน็กซัสของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"...สายพันธุ์ที่โดดเด่น… แบบเดียวกับที่ข้า<zwsp>เคยเจอตอนเป็นเด็ก... ไม่แก่ขึ้นแม้แต่วันเดียว! <zwsp>ข้าชักสงสัยว่า… เมืองถัดไป บางทีเจ้าพวกนี้<zwsp>อาจจะมีชีวิตอยู่ตลอดไปที่นั่น!\" <zwsp>- บันทึกเดินทางที่ถูกเก็บกู้\n",
@@ -6785,8 +6785,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI003-full.png"
       }
     ],
     "region": "Shadow Isles",
@@ -6832,8 +6832,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI001-full.png"
       }
     ],
     "region": "Shadow Isles",
@@ -6883,8 +6883,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI002-full.png"
       }
     ],
     "region": "Shadow Isles",
@@ -6926,8 +6926,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI004-full.png"
       }
     ],
     "region": "Shadow Isles",
@@ -6967,8 +6967,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI006-full.png"
       }
     ],
     "region": "Shadow Isles",
@@ -7010,8 +7010,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02SI009-full.png"
       }
     ],
     "region": "Shadow Isles",
@@ -7025,8 +7025,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "อัญเชิญ <link=card.summon><style=AssociatedCard>Sapling</style></link> หนึ่งใบในรอบถัดไป",
-    "descriptionRaw": "อัญเชิญ Sapling หนึ่งใบในรอบถัดไป",
+    "description": "อัญเชิญ <link=card.summon><style=AssociatedCard>Sapling</style></link> หนึ่งใบเมื่อ<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>ถัดไป",
+    "descriptionRaw": "อัญเชิญ Sapling หนึ่งใบเมื่อเริ่มรอบถัดไป",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"วี๊!\" - Sapling",
@@ -7057,8 +7057,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO008-full.png"
       }
     ],
     "region": "Ionia",
@@ -7072,8 +7072,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "มอบ <link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link> แก่พันธมิตรในรอบนี้ \r\nสร้างการ์ด <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link><br><link=card.secondSpell><style=AssociatedCard>Resonating Strike</style></link> หนึ่งใบในมือ",
-    "descriptionRaw": "มอบ ผู้ท้าชิง แก่พันธมิตรในรอบนี้ \r\nสร้างการ์ด ชั่วคราวResonating Strike หนึ่งใบในมือ",
+    "description": "มอบ<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>แก่พันธมิตรหนึ่งใบในรอบนี้ \r\nสร้างการ์ด<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link><br><link=card.secondSpell><style=AssociatedCard>Resonating Strike</style></link> หนึ่งใบในมือ",
+    "descriptionRaw": "มอบผู้ท้าชิงแก่พันธมิตรหนึ่งใบในรอบนี้ \r\nสร้างการ์ดชั่วคราวResonating Strike หนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"เข้าใจตัวเจ้า...\" - Lee Sin",
@@ -7102,8 +7102,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO008T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -7151,8 +7151,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO005T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -7166,8 +7166,8 @@
     "attack": 3,
     "cost": 3,
     "health": 2,
-    "description": "เมื่อการ์ดใบนี้ถูก <link=keyword.Recall><style=Keyword>เรียกกลับ</style></link> แปลงการ์ดใบนี้เป็น <link=card.cardRef><style=AssociatedCard>Concussive Palm</style></link>",
-    "descriptionRaw": "เมื่อการ์ดใบนี้ถูก เรียกกลับ แปลงการ์ดใบนี้เป็น Concussive Palm",
+    "description": "เมื่อการ์ดใบนี้ถูก<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>แปลงการ์ดใบนี้<br>เป็น <link=card.cardRef><style=AssociatedCard>Concussive Palm</style></link>",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกเรียกกลับแปลงการ์ดใบนี้เป็น Concussive Palm",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"นักเรียนจะต้องเคลื่อนที่ด้วยความสง่างาม <zwsp>ดั่งลมหายใจของมังกรที่สร้างสายลม<zwsp>และเกลียวคลื่นซึ่งนำพาการเคลื่อนไหวมาสู่โลกของเรา\" <zwsp>- Teachings of the Dragon\n",
@@ -7194,8 +7194,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO002-full.png"
       }
     ],
     "region": "Ionia",
@@ -7237,8 +7237,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO002T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -7287,8 +7287,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO006-full.png"
       }
     ],
     "region": "Ionia",
@@ -7302,8 +7302,8 @@
     "attack": 3,
     "cost": 5,
     "health": 5,
-    "description": "เมื่อคุณร่ายเวท มอบ <link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link> แก่การ์ดใบนี้ในรอบนี้\r\nหากคุณร่ายเวทเพิ่มเติม มอบ <link=keyword.Barrier><sprite name=Barrier><style=Keyword>บาเรีย</style></link> แก่การ์ดใบนี้ในรอบนี้",
-    "descriptionRaw": "เมื่อคุณร่ายเวท มอบ ผู้ท้าชิง แก่การ์ดใบนี้ในรอบนี้\r\nหากคุณร่ายเวทเพิ่มเติม มอบ บาเรีย แก่การ์ดใบนี้ในรอบนี้",
+    "description": "เมื่อคุณร่ายเวท มอบ<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>แก่การ์ดใบนี้ในรอบนี้\r\nหากคุณร่ายเวทอีกใบ มอบ<link=keyword.Barrier><sprite name=Barrier><style=Keyword>บาเรีย</style></link>แก่การ์ดใบนี้ในรอบนี้",
+    "descriptionRaw": "เมื่อคุณร่ายเวท มอบผู้ท้าชิงแก่การ์ดใบนี้ในรอบนี้\r\nหากคุณร่ายเวทอีกใบ มอบบาเรียแก่การ์ดใบนี้ในรอบนี้",
     "levelupDescription": "เมื่อคุณร่ายเวท 8 ครั้งขึ้นไป<style=Variable></style>",
     "levelupDescriptionRaw": "เมื่อคุณร่ายเวท 8 ครั้งขึ้นไป",
     "flavorText": "\"มังกรจะช่วยเหลือผู้ที่คู่ควร <zwsp>มันจะมอบกำลังแก่ผู้เหนื่อยล้า <zwsp>คืนพละกำลังแก่ผู้ป่วยไข้ <zwsp>มอบแสงสว่างแก่ผู้หลงทาง <zwsp>มอบสมดุลแก่ผู้สั่นคลอน...\"\n",
@@ -7336,8 +7336,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO011-full.png"
       }
     ],
     "region": "Ionia",
@@ -7351,8 +7351,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "มอบ <link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link> แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง <link=card.secondSpell><style=AssociatedCard>Resonating Strike</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link> หนึ่งใบในมือ\r\nสร้าง <link=card.level1><style=AssociatedCard>Lee Sin</style></link> หนึ่งใบในเด็คของคุณ",
-    "descriptionRaw": "มอบ ผู้ท้าชิง แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง Resonating Strike ชั่วคราว หนึ่งใบในมือ\r\nสร้าง Lee Sin หนึ่งใบในเด็คของคุณ",
+    "description": "มอบ<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง <link=card.secondSpell><style=AssociatedCard>Resonating Strike</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>หนึ่งใบในมือ\r\nสร้าง <link=card.level1><style=AssociatedCard>Lee Sin</style></link> หนึ่งใบในเด็คของคุณ",
+    "descriptionRaw": "มอบผู้ท้าชิงแก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง Resonating Strike ชั่วคราวหนึ่งใบในมือ\r\nสร้าง Lee Sin หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"เชี่ยวชาญในตนเอง...\" <zwsp>- Lee Sin",
@@ -7386,8 +7386,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO006T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -7401,8 +7401,8 @@
     "attack": 4,
     "cost": 5,
     "health": 6,
-    "description": "เมื่อคุณร่ายเวท มอบ <link=keyword.Challenger><sprite name=Challenger><style=Keyword>ท้าชิง</style></link> แก่การ์ดใบนี้ในรอบนี้\r\nหากคุณร่ายเวทเพิ่มเติม มอบ <link=keyword.Barrier><sprite name=Barrier><style=Keyword>บาเรีย</style></link> แก่การ์ดใบนี้ในรอบนี้ \r\nการ์ดใบนี้จะ <link=card.attackSpell><style=AssociatedCard>Dragon's Rage</style></link> ศัตรูที่การ์ดใบนี้ได้ <link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>",
-    "descriptionRaw": "เมื่อคุณร่ายเวท มอบ ท้าชิง แก่การ์ดใบนี้ในรอบนี้\r\nหากคุณร่ายเวทเพิ่มเติม มอบ บาเรีย แก่การ์ดใบนี้ในรอบนี้ \r\nการ์ดใบนี้จะ Dragon's Rage ศัตรูที่การ์ดใบนี้ได้ ผู้ท้าชิง",
+    "description": "เมื่อคุณร่ายเวท มอบ<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>แก่การ์ดใบนี้ในรอบนี้\r\nหากคุณร่ายเวทอีกใบ มอบ<link=keyword.Barrier><sprite name=Barrier><style=Keyword>บาเรีย</style></link>แก่การ์ดใบนี้ในรอบนี้ \r\nการ์ดใบนี้จะ <link=card.attackSpell><style=AssociatedCard>Dragon's Rage</style></link> ศัตรูที่การ์ดใบนี้ได้<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>",
+    "descriptionRaw": "เมื่อคุณร่ายเวท มอบผู้ท้าชิงแก่การ์ดใบนี้ในรอบนี้\r\nหากคุณร่ายเวทอีกใบ มอบบาเรียแก่การ์ดใบนี้ในรอบนี้ \r\nการ์ดใบนี้จะ Dragon's Rage ศัตรูที่การ์ดใบนี้ได้ผู้ท้าชิง",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"...แต่สำหรับทรราช มังกรหายใจเป็นเพลิง\"",
@@ -7431,8 +7431,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO006T3-full.png"
       }
     ],
     "region": "Ionia",
@@ -7446,8 +7446,8 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "พันธมิตรเตะศัตรูกลับไปที่ Nexus ของศัตรู <link=vocab.Strike><style=Vocab>จู่โจม</style></link> ทั้งคู่\r\nหากศัตรูรอดชีวิต ก็จะ <link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>",
-    "descriptionRaw": "พันธมิตรเตะศัตรูกลับไปที่ Nexus ของศัตรู จู่โจม ทั้งคู่\r\nหากศัตรูรอดชีวิต ก็จะ เรียกกลับ",
+    "description": "พันธมิตรหนึ่งใบเตะศัตรูหนึ่งใบใส่เน็กซัสของศัตรู ทำการ<link=vocab.Strike><style=Vocab>จู่โจม</style></link>ใส่ทั้งคู่\r\nหากศัตรูรอดชีวิต<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>ยูนิตนั้น",
+    "descriptionRaw": "พันธมิตรหนึ่งใบเตะศัตรูหนึ่งใบใส่เน็กซัสของศัตรู ทำการจู่โจมใส่ทั้งคู่\r\nหากศัตรูรอดชีวิตเรียกกลับยูนิตนั้น",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"มังกรจะต้องได้รับการปลดปล่อย <zwsp>ไม่เช่นนั้นมันจะกลืนกินข้าจากภายใน\" <zwsp>- Lee Sin\n",
@@ -7476,8 +7476,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO004-full.png"
       }
     ],
     "region": "Ionia",
@@ -7523,8 +7523,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO003-full.png"
       }
     ],
     "region": "Ionia",
@@ -7568,8 +7568,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO001-full.png"
       }
     ],
     "region": "Ionia",
@@ -7609,8 +7609,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO003T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -7660,8 +7660,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO005-full.png"
       }
     ],
     "region": "Ionia",
@@ -7675,8 +7675,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link> ศัตรูหนึ่งใบเพื่ออัญเชิญ<br><link=card.cardRef><style=AssociatedCard>Tail of the Dragon</style></link> หนึ่งใบ",
-    "descriptionRaw": "สตั้น ศัตรูหนึ่งใบเพื่ออัญเชิญTail of the Dragon หนึ่งใบ",
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>ศัตรูหนึ่งใบเพื่ออัญเชิญ<br><link=card.cardRef><style=AssociatedCard>Tail of the Dragon</style></link> หนึ่งใบ",
+    "descriptionRaw": "สตั้นศัตรูหนึ่งใบเพื่ออัญเชิญTail of the Dragon หนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"เจ้าไม่เห็นข้าจากไป <zwsp>และจะไม่เห็นข้ากลับมา\" <zwsp>- Tail of the Dragon\n",
@@ -7707,8 +7707,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO010-full.png"
       }
     ],
     "region": "Ionia",
@@ -7722,8 +7722,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link> พันธมิตรหนึ่งใบเพื่อสร้าง <link=card.secondSpell><style=AssociatedCard>Return</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link> หนึ่งใบในมือ",
-    "descriptionRaw": "เรียกกลับ พันธมิตรหนึ่งใบเพื่อสร้าง Return ชั่วคราว หนึ่งใบในมือ",
+    "description": "<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>พันธมิตรหนึ่งใบเพื่อสร้าง <link=card.secondSpell><style=AssociatedCard>Return</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>หนึ่งใบในมือ",
+    "descriptionRaw": "เรียกกลับพันธมิตรหนึ่งใบเพื่อสร้าง Return ชั่วคราวหนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "ชาว Noxus คนแรกที่เหยียบย่างไปบนชายหาดของ Ionia <zwsp>ได้พบกับศัตรูที่อ่อนแอและไร้การเตรียมตัว <zwsp>มีคนมากมายถูกสังหาร <zwsp>แต่ยังเหลือเพียงหยิบมือที่หนีรอดปลอดภัย...\n",
@@ -7752,8 +7752,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO007-full.png"
       }
     ],
     "region": "Ionia",
@@ -7797,8 +7797,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO010T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -7844,8 +7844,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_15_0/set2/th_th/img/cards/02IO009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_16_0/set2/th_th/img/cards/02IO009-full.png"
       }
     ],
     "region": "Ionia",
@@ -7859,8 +7859,8 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "ค่าร่ายลดลง 2 หน่วย หากคุณได้ร่ายเวท 2 ครั้งขึ้นไป ในรอบที่แล้ว\r\nจั่วการ์ดเวทอื่น 2 ใบ",
-    "descriptionRaw": "ค่าร่ายลดลง 2 หน่วย หากคุณได้ร่ายเวท 2 ครั้งขึ้นไป ในรอบที่แล้ว\r\nจั่วการ์ดเวทอื่น 2 ใบ",
+    "description": "ค่าร่ายลดลง 2 หน่วยหากคุณร่ายเวท 2 ใบขึ้นไปในรอบที่แล้ว\r\nจั่วการ์ดเวทอื่น 2 ใบ",
+    "descriptionRaw": "ค่าร่ายลดลง 2 หน่วยหากคุณร่ายเวท 2 ใบขึ้นไปในรอบที่แล้ว\r\nจั่วการ์ดเวทอื่น 2 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "การเข้าฌานทำสมาธิคือการเดินทางที่ไม่มีจุดหมาย <zwsp>คือเส้นทางที่สามารถติดตามไปได้<zwsp>โดยการหลงระหว่างทางเท่านั้น\n",
