@@ -4,8 +4,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ001-full.png"
       }
     ],
     "regions": [
@@ -26,18 +26,18 @@
     "name": "Subpurrsible",
     "cardCode": "02PZ001",
     "keywords": [
-      "ว่องไว"
+      "ว่อง<zwsp>ไว"
     ],
     "keywordRefs": [
       "Elusive"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -46,8 +46,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ010-full.png"
       }
     ],
     "regions": [
@@ -59,7 +59,7 @@
     "attack": 3,
     "cost": 2,
     "health": 2,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ ผู้เล่นทั้งหมดจั่วการ์ด 1 ใบ",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ <zwsp>ผู้<zwsp>เล่น<zwsp>ทั้ง<zwsp>หมด<zwsp>จั่ว<zwsp>การ์ด <zwsp>1 <zwsp>ใบ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ ผู้เล่นทั้งหมดจั่วการ์ด 1 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -71,13 +71,13 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [
-      "ยอร์เดิล"
+      "ยอร์<zwsp>เดิล"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -86,8 +86,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ006-full.png"
       }
     ],
     "regions": [
@@ -115,7 +115,7 @@
     ],
     "spellSpeed": "เร็ว",
     "spellSpeedRef": "Fast",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -128,8 +128,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ004-full.png"
       }
     ],
     "regions": [
@@ -145,17 +145,17 @@
     "descriptionRaw": "มอบ +2|+0 แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้างการ์ดชั่วคราวVault Breaker หนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ข้าจะปล่อยให้หมัดของข้าพูดแทน\" - Vi",
+    "flavorText": "\"<zwsp>ข้า<zwsp>จะ<zwsp>ปล่อย<zwsp>ให้<zwsp>หมัด<zwsp>ของ<zwsp>ข้า<zwsp>พูด<zwsp>แทน\"<zwsp> -<zwsp> Vi",
     "artistName": "Kudos Productions",
     "name": "Vault Breaker",
     "cardCode": "02PZ004",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
     "rarity": "แรร์",
     "rarityRef": "Rare",
@@ -170,8 +170,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ007-full.png"
       }
     ],
     "regions": [
@@ -199,7 +199,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -208,8 +208,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ002-full.png"
       }
     ],
     "regions": [
@@ -233,11 +233,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -249,8 +249,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ008-full.png"
       }
     ],
     "regions": [
@@ -262,17 +262,17 @@
     "attack": 2,
     "cost": 5,
     "health": 4,
-    "description": "เมื่อการ์ดใบนี้อยู่บนกระดานหรือในมือ มอบ +1|+0 แก่การ์ดใบนี้เมื่อคุณเล่นการ์ดใบอื่น (สูงสุด +8|+0) <style=Variable></style>",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>อยู่<zwsp>บน<zwsp>กระ<zwsp>ดาน<zwsp>หรือ<zwsp>ใน<zwsp>มือ<zwsp> มอบ +1|+0 แก่<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>เมื่อ<zwsp>คุณ<zwsp>เล่น<zwsp>การ์ด<zwsp>ใบ<zwsp>อื่น<zwsp> (<zwsp>สูง<zwsp>สุด<zwsp> +8|+0) <style=Variable></style>",
     "descriptionRaw": "เมื่อการ์ดใบนี้อยู่บนกระดานหรือในมือ มอบ +1|+0 แก่การ์ดใบนี้เมื่อคุณเล่นการ์ดใบอื่น (สูงสุด +8|+0) ",
-    "levelupDescription": "เมื่อการ์ดใบนี้<link=vocab.Strike><style=Vocab>จู่โจม</style></link>ด้วยความเสียหาย 10 หน่วยขึ้นไป",
+    "levelupDescription": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<link=vocab.Strike><style=Vocab>จู่โจม</style></link>ด้วย<zwsp>ความ<zwsp>เสีย<zwsp>หาย <zwsp>10 <zwsp>หน่วย<zwsp>ขึ้น<zwsp>ไป",
     "levelupDescriptionRaw": "เมื่อการ์ดใบนี้จู่โจมด้วยความเสียหาย 10 หน่วยขึ้นไป",
     "flavorText": "\"มือปราบ Vi ได้โปรด! คิดถึงผู้คนสิ! <zwsp>คิดถึงความเสียหาย! <zwsp>แถมงานเอกสารกับการเรียกร้องทั้งหลายจากการบาดเจ็บ!\"<zwsp> - Insightful Investigator\n",
     "artistName": "SIXMOREVODKA",
     "name": "Vi",
     "cardCode": "02PZ008",
     "keywords": [
-      "ผู้ท้าชิง",
-      "ทนทาน"
+      "ผู้<zwsp>ท้า<zwsp>ชิง",
+      "ทน<zwsp>ทาน"
     ],
     "keywordRefs": [
       "Challenger",
@@ -280,11 +280,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "แชมเปี้ยน",
+    "rarity": "แชม<zwsp>เปี้ยน",
     "rarityRef": "Champion",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -293,8 +293,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ009-full.png"
       }
     ],
     "regions": [
@@ -315,14 +315,14 @@
     "name": "Trail of Evidence",
     "cardCode": "02PZ009",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -335,8 +335,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ003-full.png"
       }
     ],
     "regions": [
@@ -357,12 +357,12 @@
     "name": "Suit Up!",
     "cardCode": "02PZ003",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
     "rarity": "แรร์",
     "rarityRef": "Rare",
@@ -380,8 +380,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ008T2-full.png"
       }
     ],
     "regions": [
@@ -402,8 +402,8 @@
     "name": "Vi",
     "cardCode": "02PZ008T2",
     "keywords": [
-      "ผู้ท้าชิง",
-      "ทนทาน"
+      "ผู้<zwsp>ท้า<zwsp>ชิง",
+      "ทน<zwsp>ทาน"
     ],
     "keywordRefs": [
       "Challenger",
@@ -411,11 +411,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -427,8 +427,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ008T1-full.png"
       }
     ],
     "regions": [
@@ -440,26 +440,26 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "มอบ +2|+0 แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง <link=card.selfRef><style=AssociatedCard>Vault Breaker</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>หนึ่งใบในมือ\r\nสร้าง <link=card.level1><style=AssociatedCard>Vi</style></link> หนึ่งใบในเด็คของคุณ",
+    "description": "มอบ<zwsp> +2|+0 แก่<zwsp>พันธ<zwsp>มิตร<zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>รอบ<zwsp>นี้\r\n<zwsp>สร้าง<zwsp> <link=card.selfRef><style=AssociatedCard>Vault Breaker</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>มือ\r\n<zwsp>สร้าง<zwsp> <link=card.level1><style=AssociatedCard>Vi</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>เด็ค<zwsp>ของ<zwsp>คุณ",
     "descriptionRaw": "มอบ +2|+0 แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง Vault Breaker ชั่วคราวหนึ่งใบในมือ\r\nสร้าง Vi หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ข้าจะปล่อยให้หมัดของข้าพูดแทน\" - Vi",
+    "flavorText": "\"<zwsp>ข้า<zwsp>จะ<zwsp>ปล่อย<zwsp>ให้<zwsp>หมัด<zwsp>ของ<zwsp>ข้า<zwsp>พูด<zwsp>แทน\"<zwsp> -<zwsp> Vi",
     "artistName": "Kudos Productions",
     "name": "Vi's Vault Breaker",
     "cardCode": "02PZ008T1",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
+    "supertype": "แชม<zwsp>เปี้ยน",
     "type": "เวท",
     "collectible": false,
     "set": "Set2"
@@ -469,8 +469,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02PZ005-full.png"
       }
     ],
     "regions": [
@@ -494,11 +494,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -507,8 +507,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW040-full.png"
       }
     ],
     "regions": [
@@ -524,23 +524,23 @@
     "descriptionRaw": "",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ความแข็งแกร่งที่ยิ่งใหญ่ของข้าคือการออกคำสั่งคนทั่วไปและดูเหมือนลายมือของข้าก็จะสวยมากเลยด้วย\" - ข้อความเขียนด้วยลายมือหวัด ๆ บนผืนทราย",
+    "flavorText": "\"<zwsp>ความ<zwsp>แข็ง<zwsp>แกร่ง<zwsp>ที่<zwsp>ยิ่ง<zwsp>ใหญ่<zwsp>ของ<zwsp>ข้า<zwsp>คือ<zwsp>การ<zwsp>ออก<zwsp>คำ<zwsp>สั่ง<zwsp>คน<zwsp>ทั่ว<zwsp>ไป<zwsp>และ<zwsp>ดู<zwsp>เหมือน<zwsp>ลาย<zwsp>มือ<zwsp>ของ<zwsp>ข้า<zwsp>ก็<zwsp>จะ<zwsp>สวย<zwsp>มาก<zwsp>เลย<zwsp>ด้วย<zwsp>\" <zwsp>- <zwsp>ข้อ<zwsp>ความ<zwsp>เขียน<zwsp>ด้วย<zwsp>ลาย<zwsp>มือ<zwsp>หวัด<zwsp> <zwsp>ๆ<zwsp> บน<zwsp>ผืน<zwsp>ทราย",
     "artistName": "Kudos Productions",
     "name": "Shellshocker",
     "cardCode": "02BW040",
     "keywords": [
-      "ชำนาญเวท"
+      "ชำ<zwsp>นาญ<zwsp>เวท"
     ],
     "keywordRefs": [
       "Attune"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -549,8 +549,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW057-full.png"
       }
     ],
     "regions": [
@@ -571,8 +571,8 @@
     "name": "Slippery Waverider",
     "cardCode": "02BW057",
     "keywords": [
-      "ว่องไว",
-      "ชำนาญเวท"
+      "ว่อง<zwsp>ไว",
+      "ชำ<zwsp>นาญ<zwsp>เวท"
     ],
     "keywordRefs": [
       "Elusive",
@@ -580,11 +580,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -593,8 +593,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW041-full.png"
       }
     ],
     "regions": [
@@ -615,20 +615,20 @@
     "name": "The Beast Below",
     "cardCode": "02BW041",
     "keywords": [
-      "ดำดิ่ง"
+      "ดำ<zwsp>ดิ่ง"
     ],
     "keywordRefs": [
       "Deep"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [
-      "สัตว์ใต้ท้องทะเล"
+      "สัตว์<zwsp>ใต้<zwsp>ท้อง<zwsp>ทะ<zwsp>เล"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -637,8 +637,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW013-full.png"
       }
     ],
     "regions": [
@@ -659,8 +659,8 @@
     "name": "Prowling Cutthroat",
     "cardCode": "02BW013",
     "keywords": [
-      "น่าสะพรึง",
-      "ว่องไว"
+      "น่า<zwsp>สะ<zwsp>พรึง",
+      "ว่อง<zwsp>ไว"
     ],
     "keywordRefs": [
       "Fearsome",
@@ -668,11 +668,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -683,8 +683,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW034.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW034-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW034-full.png"
       }
     ],
     "regions": [
@@ -705,7 +705,7 @@
     "name": "Monkey Idol",
     "cardCode": "02BW034",
     "keywords": [
-      "เคลื่อนไหวไม่ได้"
+      "เคลื่อน<zwsp>ไหว<zwsp>ไม่<zwsp>ได้"
     ],
     "keywordRefs": [
       "Immobile"
@@ -716,7 +716,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -725,8 +725,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW034T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW034T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW034T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW034T1-full.png"
       }
     ],
     "regions": [
@@ -747,8 +747,8 @@
     "name": "Powder Monkey",
     "cardCode": "02BW034T1",
     "keywords": [
-      "ไร้ตัวตน",
-      "สิ้นลม"
+      "ไร้<zwsp>ตัว<zwsp>ตน",
+      "สิ้น<zwsp>ลม"
     ],
     "keywordRefs": [
       "Ephemeral",
@@ -756,11 +756,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -771,8 +771,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW056.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW056-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW056-full.png"
       }
     ],
     "regions": [
@@ -784,7 +784,7 @@
     "attack": 4,
     "cost": 6,
     "health": 4,
-    "description": "<link=keyword.PlaySkillMark><sprite name=SkillMark><style=Keyword>เล่น</style></link>: <link=keyword.Obliterate><style=Keyword>ทำลายล้าง</style></link> ศัตรูหนึ่งใบที่มีพลังชีวิตน้อยกว่าการ์ดใบนี้\r\n<style=Variable></style>",
+    "description": "<link=keyword.PlaySkillMark><sprite name=SkillMark><style=Keyword>เล่น</style></link>: <link=keyword.Obliterate><style=Keyword>ทำลายล้าง</style></link> <zwsp>ศัตรู<zwsp>หนึ่ง<zwsp>ใบ<zwsp>ที่<zwsp>มี<nobr>พลัง<zwsp>ชี<zwsp>วิต</nobr>น้อย<zwsp>กว่า<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>\r\n<style=Variable></style>",
     "descriptionRaw": "เล่น: ทำลายล้าง ศัตรูหนึ่งใบที่มีพลังชีวิตน้อยกว่าการ์ดใบนี้\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -793,20 +793,20 @@
     "name": "Devourer of the Depths",
     "cardCode": "02BW056",
     "keywords": [
-      "ดำดิ่ง"
+      "ดำ<zwsp>ดิ่ง"
     ],
     "keywordRefs": [
       "Deep"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [
-      "สัตว์ใต้ท้องทะเล"
+      "สัตว์<zwsp>ใต้<zwsp>ท้อง<zwsp>ทะ<zwsp>เล"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -815,8 +815,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW056T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW056T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW056T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW056T1-full.png"
       }
     ],
     "regions": [
@@ -844,11 +844,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ความสามารถ",
+    "type": "ความ<zwsp>สา<zwsp>มารถ",
     "collectible": false,
     "set": "Set2"
   },
@@ -859,8 +859,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW060.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW060-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW060.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW060-full.png"
       }
     ],
     "regions": [
@@ -884,13 +884,13 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [
-      "ยอร์เดิล"
+      "ยอร์<zwsp>เดิล"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -901,8 +901,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW011-full.png"
       }
     ],
     "regions": [
@@ -914,11 +914,11 @@
     "attack": 3,
     "cost": 4,
     "health": 3,
-    "description": "<link=vocab.Allegiance><style=Vocab>ภักดี</style></link>: ทำการ<link=keyword.Nab><style=Keyword>ฉกฉวย</style></link> 1 ใบและสร้าง <link=card.create><style=AssociatedCard>Warning Shot</style></link> หนึ่งใบในมือ",
+    "description": "<link=vocab.Allegiance><style=Vocab>ภักดี</style></link>: <zwsp>ทำ<zwsp>การ<link=keyword.Nab><style=Keyword>ฉกฉวย</style></link> 1 <zwsp>ใบ<zwsp>และ<zwsp>สร้าง<zwsp> <link=card.create><style=AssociatedCard>Warning Shot</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>มือ",
     "descriptionRaw": "ภักดี: ทำการฉกฉวย 1 ใบและสร้าง Warning Shot หนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"เจ้ารู้ไหม เพื่อนน่ะมักจะช่วยเหลือเพื่อนเสมอ <zwsp>แล้วเจ้าล่ะ ข้าชอบดวงตาที่เปล่งกระกาย<zwsp>และภาพสะท้อนบนคมดาบของเจ้าล่ะ! <zwsp>ช่างเป็นดาบที่ยอดเยี่ยมอะไรเช่นนี้\"\n",
+    "flavorText": "\"เจ้ารู้ไหม เพื่อนน่ะมักจะช่วยเหลือเพื่อนเสมอ <zwsp>แล้วเจ้าล่ะ ข้าชอบดวงตาที่เปล่งประกาย<zwsp>และภาพสะท้อนบนคมดาบของเจ้าล่ะ! <zwsp>ช่างเป็นดาบที่ยอดเยี่ยมอะไรเช่นนี้\"\n\n",
     "artistName": "SIXMOREVODKA",
     "name": "Yordle Grifter",
     "cardCode": "02BW011",
@@ -929,10 +929,10 @@
     "rarity": "แรร์",
     "rarityRef": "Rare",
     "subtypes": [
-      "ยอร์เดิล"
+      "ยอร์<zwsp>เดิล"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -946,8 +946,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW030-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW030-full.png"
       }
     ],
     "regions": [
@@ -968,20 +968,20 @@
     "name": "Shipwreck Hoarder",
     "cardCode": "02BW030",
     "keywords": [
-      "ดำดิ่ง"
+      "ดำ<zwsp>ดิ่ง"
     ],
     "keywordRefs": [
       "Deep"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [
-      "สัตว์ใต้ท้องทะเล"
+      "สัตว์<zwsp>ใต้<zwsp>ท้อง<zwsp>ทะ<zwsp>เล"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -990,8 +990,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW030T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW030T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW030T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW030T2-full.png"
       }
     ],
     "regions": [
@@ -1019,10 +1019,10 @@
     ],
     "spellSpeed": "ช้า",
     "spellSpeedRef": "Slow",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [
-      "ขุมทรัพย์"
+      "ขุม<zwsp>ทรัพย์"
     ],
     "supertype": "",
     "type": "เวท",
@@ -1034,8 +1034,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW030T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW030T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW030T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW030T1-full.png"
       }
     ],
     "regions": [
@@ -1063,10 +1063,10 @@
     ],
     "spellSpeed": "ช้า",
     "spellSpeedRef": "Slow",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [
-      "ขุมทรัพย์"
+      "ขุม<zwsp>ทรัพย์"
     ],
     "supertype": "",
     "type": "เวท",
@@ -1078,8 +1078,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW030T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW030T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW030T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW030T4-full.png"
       }
     ],
     "regions": [
@@ -1100,8 +1100,8 @@
     "name": "Vicious Platewyrm",
     "cardCode": "02BW030T4",
     "keywords": [
-      "น่าสะพรึง",
-      "ดำดิ่ง"
+      "น่า<zwsp>สะ<zwsp>พรึง",
+      "ดำ<zwsp>ดิ่ง"
     ],
     "keywordRefs": [
       "Fearsome",
@@ -1109,13 +1109,13 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [
-      "สัตว์ใต้ท้องทะเล"
+      "สัตว์<zwsp>ใต้<zwsp>ท้อง<zwsp>ทะ<zwsp>เล"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -1126,8 +1126,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW030T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW030T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW030T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW030T3-full.png"
       }
     ],
     "regions": [
@@ -1139,7 +1139,7 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "หากการ์ดใบนี้ถูก<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>จั่วการ์ดใบนี้แทน\r\nอัญเชิญ <link=card.summon><style=AssociatedCard>Vicious Platewyrms</style></link> 3 ใบ",
+    "description": "หาก<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>จั่ว<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>แทน<zwsp>\r\nอัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Vicious Platewyrms</style></link> 3 <zwsp>ใบ",
     "descriptionRaw": "หากการ์ดใบนี้ถูกหย่อนทิ้งจั่วการ์ดใบนี้แทน\r\nอัญเชิญ Vicious Platewyrms 3 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1155,10 +1155,10 @@
     ],
     "spellSpeed": "ช้า",
     "spellSpeedRef": "Slow",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [
-      "ขุมทรัพย์"
+      "ขุม<zwsp>ทรัพย์"
     ],
     "supertype": "",
     "type": "เวท",
@@ -1170,8 +1170,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW019-full.png"
       }
     ],
     "regions": [
@@ -1192,8 +1192,8 @@
     "name": "Bubble Bear",
     "cardCode": "02BW019",
     "keywords": [
-      "ชำนาญเวท",
-      "ว่องไว"
+      "ชำ<zwsp>นาญ<zwsp>เวท",
+      "ว่อง<zwsp>ไว"
     ],
     "keywordRefs": [
       "Attune",
@@ -1201,11 +1201,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1214,8 +1214,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW007-full.png"
       }
     ],
     "regions": [
@@ -1243,7 +1243,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1252,8 +1252,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW014-full.png"
       }
     ],
     "regions": [
@@ -1264,7 +1264,7 @@
     ],
     "attack": 1,
     "cost": 2,
-    "health": 2,
+    "health": 3,
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้างเวทที่มีค่าร่าย 1 หน่วย<br>แบบสุ่มจากภูมิภาคของคุณหนึ่งใบในมือ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้างเวทที่มีค่าร่าย 1 หน่วยแบบสุ่มจากภูมิภาคของคุณหนึ่งใบในมือ",
     "levelupDescription": "",
@@ -1274,7 +1274,7 @@
     "name": "Coral Creatures",
     "cardCode": "02BW014",
     "keywords": [
-      "ชำนาญเวท"
+      "ชำ<zwsp>นาญ<zwsp>เวท"
     ],
     "keywordRefs": [
       "Attune"
@@ -1285,7 +1285,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1294,8 +1294,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW055.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW055-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW055.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW055-full.png"
       }
     ],
     "regions": [
@@ -1319,11 +1319,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1332,8 +1332,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW017-full.png"
       }
     ],
     "regions": [
@@ -1361,7 +1361,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1370,8 +1370,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW038-full.png"
       }
     ],
     "regions": [
@@ -1392,8 +1392,8 @@
     "name": "Zap Sprayfin",
     "cardCode": "02BW038",
     "keywords": [
-      "ว่องไว",
-      "ชำนาญเวท"
+      "ว่อง<zwsp>ไว",
+      "ชำ<zwsp>นาญ<zwsp>เวท"
     ],
     "keywordRefs": [
       "Elusive",
@@ -1401,11 +1401,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1414,8 +1414,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW021-full.png"
       }
     ],
     "regions": [
@@ -1436,7 +1436,7 @@
     "name": "Razorscale Hunter",
     "cardCode": "02BW021",
     "keywords": [
-      "สอดแนม"
+      "สอด<zwsp>แนม"
     ],
     "keywordRefs": [
       "Scout"
@@ -1447,7 +1447,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1456,8 +1456,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW035-full.png"
       }
     ],
     "regions": [
@@ -1469,7 +1469,7 @@
     "attack": 6,
     "cost": 6,
     "health": 5,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบ<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link>แก่ศัตรูทั้งหมด",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp> <nobr>มอบ</nobr><link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link>แก่<zwsp>ศัตรู<zwsp>ทั้ง<zwsp>หมด",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบเปราะบางแก่ศัตรูทั้งหมด",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1481,11 +1481,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1494,8 +1494,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW058.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW058-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW058-full.png"
       }
     ],
     "regions": [
@@ -1507,7 +1507,7 @@
     "attack": 2,
     "cost": 1,
     "health": 2,
-    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: มอบ +1|+1 แก่การ์ดใบนี้",
+    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: <zwsp>มอบ +1|+1 แก่<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้",
     "descriptionRaw": "ปล้น: มอบ +1|+1 แก่การ์ดใบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1519,11 +1519,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1534,8 +1534,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW028-full.png"
       }
     ],
     "regions": [
@@ -1559,11 +1559,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1572,8 +1572,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW028T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW028T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW028T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW028T1-full.png"
       }
     ],
     "regions": [
@@ -1585,7 +1585,7 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "สร้างความเสียหาย 2 แก่ยูนิต\r\nหากมันสิ้นชีพหรือหายไป สร้างความเสียหาย 1 แก่ Nexus ของศัตรูแทน",
+    "description": "สร้าง<zwsp>ความ<zwsp>เสีย<zwsp>หาย 2 <zwsp>แก่<zwsp>ยู<zwsp>นิ<zwsp>ต\r\n<zwsp>หาก<zwsp>มัน<zwsp>สิ้น<zwsp>ชีพ<zwsp>หรือ<zwsp>หาย<zwsp>ไป <zwsp>สร้าง<zwsp>ความ<zwsp>เสีย<zwsp>หาย 1 <zwsp>แก่ Nexus <zwsp>ของ<zwsp>ศัตรู<zwsp>แทน",
     "descriptionRaw": "สร้างความเสียหาย 2 แก่ยูนิต\r\nหากมันสิ้นชีพหรือหายไป สร้างความเสียหาย 1 แก่ Nexus ของศัตรูแทน",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1601,11 +1601,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ความสามารถ",
+    "type": "ความ<zwsp>สา<zwsp>มารถ",
     "collectible": false,
     "set": "Set2"
   },
@@ -1614,8 +1614,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW037-full.png"
       }
     ],
     "regions": [
@@ -1627,7 +1627,7 @@
     "attack": 3,
     "cost": 5,
     "health": 3,
-    "description": "<link=vocab.NexusStrike><style=Vocab>จู่โจมเน็กซัส</style></link>: จั่วการ์ด 1 ใบ\r\n<style=Variable></style>",
+    "description": "<link=vocab.NexusStrike><style=Vocab>จู่โจมเน็กซัส</style></link>: <zwsp>จั่ว<zwsp>การ์ด <zwsp>1 <zwsp>ใบ<zwsp>\r\n<style=Variable></style>",
     "descriptionRaw": "จู่โจมเน็กซัส: จั่วการ์ด 1 ใบ\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1636,8 +1636,8 @@
     "name": "Abyssal Eye",
     "cardCode": "02BW037",
     "keywords": [
-      "ว่องไว",
-      "ดำดิ่ง"
+      "ว่อง<zwsp>ไว",
+      "ดำ<zwsp>ดิ่ง"
     ],
     "keywordRefs": [
       "Elusive",
@@ -1648,10 +1648,10 @@
     "rarity": "แรร์",
     "rarityRef": "Rare",
     "subtypes": [
-      "สัตว์ใต้ท้องทะเล"
+      "สัตว์<zwsp>ใต้<zwsp>ท้อง<zwsp>ทะ<zwsp>เล"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1662,8 +1662,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW008-full.png"
       }
     ],
     "regions": [
@@ -1690,10 +1690,10 @@
     "rarity": "แรร์",
     "rarityRef": "Rare",
     "subtypes": [
-      "ยอร์เดิล"
+      "ยอร์<zwsp>เดิล"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1704,8 +1704,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW008T02.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW008T02-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW008T02.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW008T02-full.png"
       }
     ],
     "regions": [
@@ -1729,13 +1729,13 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [
-      "ยอร์เดิล"
+      "ยอร์<zwsp>เดิล"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -1746,8 +1746,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW008T01.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW008T01-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW008T01.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW008T01-full.png"
       }
     ],
     "regions": [
@@ -1759,7 +1759,7 @@
     "attack": 3,
     "cost": 3,
     "health": 1,
-    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: อัญเชิญ <link=card.summon><style=AssociatedCard>Powder Keg</style></link> หนึ่งใบ",
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: <zwsp>อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Powder Keg</style></link> <zwsp>หนึ่ง<zwsp>ใบ",
     "descriptionRaw": "เล่น: อัญเชิญ Powder Keg หนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1771,13 +1771,13 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [
-      "ยอร์เดิล"
+      "ยอร์<zwsp>เดิล"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -1786,8 +1786,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW047.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW047-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW047-full.png"
       }
     ],
     "regions": [
@@ -1803,7 +1803,7 @@
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญหย่อนทิ้งการ์ด 3 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "ต้องใช้ความสามารถพิเศษในการทำ<zwsp>อุปกรณ์ที่เหมาะสำหรับการออกทะเลแบบสุด ๆ <zwsp>ให้กลายเป็นแค่เศษขยะ แต่นั่นแหละ<zwsp>คือความสามารถพิเศษเพียงอย่างเดียวของพวกเขา <zwsp>แค่นั้นจริง ๆ\n",
+    "flavorText": "ต้องใช้ความสามารถพิเศษในการทำ<zwsp>อุปกรณ์ที่เหมาะสำหรับการออกทะเลแบบสุด ๆ <zwsp>ให้กลายเป็นแค่เศษขยะ แต่นั่นแหละ<zwsp>คือความสามารถพิเศษเพียงอย่างเดียวของพวกเขา <zwsp>แค่นั้น<nobr>จริง ๆ</nobr>",
     "artistName": "Alex Heath",
     "name": "Dreg Dredgers",
     "cardCode": "02BW047",
@@ -1811,11 +1811,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1826,8 +1826,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW004-full.png"
       }
     ],
     "regions": [
@@ -1839,7 +1839,7 @@
     "attack": 2,
     "cost": 2,
     "health": 2,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญ <link=card.summon><style=AssociatedCard>Powder Keg</style></link> หนึ่งใบ",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp> อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Powder Keg</style></link> <zwsp>หนึ่ง<zwsp>ใบ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญ Powder Keg หนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1851,11 +1851,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1866,8 +1866,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW002-full.png"
       }
     ],
     "regions": [
@@ -1879,7 +1879,7 @@
     "attack": 4,
     "cost": 8,
     "health": 6,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่ว <link=card.champ1><style=AssociatedCard>Gangplank</style></link> หนึ่งใบ เพิ่มความเสียหายทั้งหมดที่สร้างโดยสกิล เวท และพันธมิตรของคุณเป็นสองเท่า",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ <zwsp>จั่ว<zwsp> <link=card.champ1><style=AssociatedCard>Gangplank</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp> <zwsp>เพิ่ม<zwsp>ความ<zwsp>เสีย<zwsp>หาย<zwsp>ทั้ง<zwsp>หมด<zwsp>ที่<zwsp>สร้าง<zwsp>โดย<zwsp>สกิ<zwsp>ล <zwsp>เวท <zwsp>และ<zwsp>พันธ<zwsp>มิตร<zwsp>ของ<zwsp>คุณ<zwsp>เป็น<zwsp>สอง<zwsp>เท่า",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่ว Gangplank หนึ่งใบ เพิ่มความเสียหายทั้งหมดที่สร้างโดยสกิล เวท และพันธมิตรของคุณเป็นสองเท่า",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1888,7 +1888,7 @@
     "name": "The Dreadway",
     "cardCode": "02BW002",
     "keywords": [
-      "น่าสะพรึง",
+      "น่า<zwsp>สะ<zwsp>พรึง",
       "Missing Translation"
     ],
     "keywordRefs": [
@@ -1897,11 +1897,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1910,8 +1910,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW016-full.png"
       }
     ],
     "regions": [
@@ -1939,7 +1939,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1950,8 +1950,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW027-full.png"
       }
     ],
     "regions": [
@@ -1963,7 +1963,7 @@
     "attack": 6,
     "cost": 4,
     "health": 6,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญ <link=card.summon><style=AssociatedCard>Golden Narwhal</style></link> หนึ่งใบให้ศัตรูของคุณ",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp> อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Golden Narwhal</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ให้<zwsp>ศัตรู<zwsp>ของ<zwsp>คุณ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญ Golden Narwhal หนึ่งใบให้ศัตรูของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1975,11 +1975,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -1988,8 +1988,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW050.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW050-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW050-full.png"
       }
     ],
     "regions": [
@@ -2010,7 +2010,7 @@
     "name": "Smooth Soloist",
     "cardCode": "02BW050",
     "keywords": [
-      "ว่องไว"
+      "ว่อง<zwsp>ไว"
     ],
     "keywordRefs": [
       "Elusive"
@@ -2021,7 +2021,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -2032,8 +2032,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW015-full.png"
       }
     ],
     "regions": [
@@ -2054,18 +2054,18 @@
     "name": "The Syren",
     "cardCode": "02BW015",
     "keywords": [
-      "สอดแนม"
+      "สอด<zwsp>แนม"
     ],
     "keywordRefs": [
       "Scout"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -2074,8 +2074,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW010-full.png"
       }
     ],
     "regions": [
@@ -2099,13 +2099,13 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [
-      "โปโร"
+      "โป<zwsp>โร"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -2114,8 +2114,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW009-full.png"
       }
     ],
     "regions": [
@@ -2139,11 +2139,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -2152,8 +2152,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW005-full.png"
       }
     ],
     "regions": [
@@ -2177,11 +2177,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -2190,8 +2190,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW039-full.png"
       }
     ],
     "regions": [
@@ -2203,7 +2203,7 @@
     "attack": 4,
     "cost": 3,
     "health": 1,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้างสัตว์ใต้ท้องทะเลหนึ่งใบแบบสุ่มในมือ",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ <zwsp>สร้าง<zwsp>สัตว์<nobr>ใต้<zwsp>ท้อง<zwsp>ทะ<zwsp>เล</nobr>หนึ่ง<zwsp>ใบ<zwsp>แบบ<zwsp>สุ่ม<zwsp>ใน<zwsp>มือ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้างสัตว์ใต้ท้องทะเลหนึ่งใบแบบสุ่มในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -2212,7 +2212,7 @@
     "name": "Jaull Hunters",
     "cardCode": "02BW039",
     "keywords": [
-      "ผู้ท้าชิง"
+      "ผู้<zwsp>ท้า<zwsp>ชิง"
     ],
     "keywordRefs": [
       "Challenger"
@@ -2223,7 +2223,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -2232,8 +2232,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW006-full.png"
       }
     ],
     "regions": [
@@ -2261,7 +2261,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -2270,8 +2270,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW036.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW036-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW036-full.png"
       }
     ],
     "regions": [
@@ -2292,8 +2292,8 @@
     "name": "Golden Narwhal",
     "cardCode": "02BW036",
     "keywords": [
-      "ว่องไว",
-      "เปราะบาง"
+      "ว่อง<zwsp>ไว",
+      "เปราะ<zwsp>บาง"
     ],
     "keywordRefs": [
       "Elusive",
@@ -2301,11 +2301,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -2314,8 +2314,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW033.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW033-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW033-full.png"
       }
     ],
     "regions": [
@@ -2327,7 +2327,7 @@
     "attack": 2,
     "cost": 2,
     "health": 2,
-    "description": "เมื่อคุณทำการจั่วการ์ดศัตรู ลดค่าร่ายของการ์ดนั้นลง 1 หน่วย\r\n<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: <link=keyword.Nab><style=Keyword>ฉกฉวย</style></link> 1 ใบ",
+    "description": "เมื่อ<zwsp>คุณ<zwsp>ทำ<zwsp>การ<zwsp>จั่ว<zwsp>การ์ด<zwsp>ศัตรู<zwsp> ลด<zwsp>ค่า<zwsp>ร่าย<zwsp>ของ<zwsp>การ์ด<zwsp>นั้น<zwsp>ลง <zwsp>1 <zwsp>หน่วย<zwsp>\r\n<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: <link=keyword.Nab><style=Keyword>ฉกฉวย</style></link> 1 <zwsp>ใบ",
     "descriptionRaw": "เมื่อคุณทำการจั่วการ์ดศัตรู ลดค่าร่ายของการ์ดนั้นลง 1 หน่วย\r\nปล้น: ฉกฉวย 1 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -2343,7 +2343,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -2352,8 +2352,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW060T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW060T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW060T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW060T1-full.png"
       }
     ],
     "regions": [
@@ -2381,11 +2381,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ความสามารถ",
+    "type": "ความ<zwsp>สา<zwsp>มารถ",
     "collectible": false,
     "set": "Set2"
   },
@@ -2399,8 +2399,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW032-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW032-full.png"
       }
     ],
     "regions": [
@@ -2412,7 +2412,7 @@
     "attack": 5,
     "cost": 5,
     "health": 4,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญ <link=card.summon><style=AssociatedCard>Powder Keg</style></link> หนึ่งใบ",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp> อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Powder Keg</style></link> <zwsp>หนึ่ง<zwsp>ใบ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญ Powder Keg หนึ่งใบ",
     "levelupDescription": "เมื่อคุณสร้างความเสียหายแก่<br>เน็กซัสของศัตรูไป 5 ครั้ง<br>ในรอบที่แตกต่างกัน<style=Variable></style>",
     "levelupDescriptionRaw": "เมื่อคุณสร้างความเสียหายแก่เน็กซัสของศัตรูไป 5 ครั้งในรอบที่แตกต่างกัน",
@@ -2421,18 +2421,18 @@
     "name": "Gangplank",
     "cardCode": "02BW032",
     "keywords": [
-      "ทะลวง"
+      "ทะ<zwsp>ลวง"
     ],
     "keywordRefs": [
       "Overwhelm"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "แชมเปี้ยน",
+    "rarity": "แชม<zwsp>เปี้ยน",
     "rarityRef": "Champion",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -2444,8 +2444,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW032T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW032T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW032T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW032T2-full.png"
       }
     ],
     "regions": [
@@ -2457,7 +2457,7 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "สร้างความเสียหาย 1 หน่วยแก่อะไรก็ได้\r\nหากการ์ดใบนี้สังหารสิ่งนั้น สร้างความเสียหาย 1 หน่วยแก่เน็กซัสของศัตรู\r\nสร้าง <link=card.level1><style=AssociatedCard>Gangplank</style></link> หนึ่งใบในเด็คของคุณ",
+    "description": "สร้าง<zwsp>ความ<zwsp>เสีย<zwsp>หาย 1 <zwsp>หน่วย<zwsp>แก่<zwsp>อะ<zwsp>ไร<zwsp>ก็<zwsp>ได้\r\n<zwsp>หาก<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>สัง<zwsp>หาร<zwsp>สิ่ง<zwsp>นั้น <zwsp>สร้าง<zwsp>ความ<nobr>เสีย<zwsp>หาย</nobr> 1 <zwsp>หน่วย<zwsp>แก่<zwsp>เน็ก<zwsp>ซัส<zwsp>ของ<zwsp>ศัตรู\r\n<zwsp>สร้าง<zwsp> <link=card.level1><style=AssociatedCard>Gangplank</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>เด็ค<zwsp>ของ<zwsp>คุณ",
     "descriptionRaw": "สร้างความเสียหาย 1 หน่วยแก่อะไรก็ได้\r\nหากการ์ดใบนี้สังหารสิ่งนั้น สร้างความเสียหาย 1 หน่วยแก่เน็กซัสของศัตรู\r\nสร้าง Gangplank หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -2473,10 +2473,10 @@
     ],
     "spellSpeed": "ช้า",
     "spellSpeedRef": "Slow",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
+    "supertype": "แชม<zwsp>เปี้ยน",
     "type": "เวท",
     "collectible": false,
     "set": "Set2"
@@ -2491,8 +2491,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW032T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW032T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW032T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW032T3-full.png"
       }
     ],
     "regions": [
@@ -2513,18 +2513,18 @@
     "name": "Gangplank",
     "cardCode": "02BW032T3",
     "keywords": [
-      "ทะลวง"
+      "ทะ<zwsp>ลวง"
     ],
     "keywordRefs": [
       "Overwhelm"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -2533,8 +2533,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW032T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW032T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW032T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW032T1-full.png"
       }
     ],
     "regions": [
@@ -2555,8 +2555,8 @@
     "name": "Powder Keg",
     "cardCode": "02BW032T1",
     "keywords": [
-      "เคลื่อนไหวไม่ได้",
-      "เปราะบาง"
+      "เคลื่อน<zwsp>ไหว<zwsp>ไม่<zwsp>ได้",
+      "เปราะ<zwsp>บาง"
     ],
     "keywordRefs": [
       "Immobile",
@@ -2564,11 +2564,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -2579,8 +2579,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW032T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW032T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW032T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW032T4-full.png"
       }
     ],
     "regions": [
@@ -2596,7 +2596,7 @@
     "descriptionRaw": "สร้างความเสียหาย 1 หน่วยแก่ศัตรูทั้งหมดและเน็กซัสของศัตรู",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ระเบิดพวกมันให้จม!\" - Gangplank",
+    "flavorText": "\"<zwsp>ระ<zwsp>เบิด<zwsp>พวก<zwsp>มัน<zwsp>ให้<zwsp>จม!\"<zwsp> -<zwsp> Gangplank",
     "artistName": "Kudos Productions",
     "name": "Powderful Explosion",
     "cardCode": "02BW032T4",
@@ -2608,11 +2608,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ความสามารถ",
+    "type": "ความ<zwsp>สา<zwsp>มารถ",
     "collectible": false,
     "set": "Set2"
   },
@@ -2626,8 +2626,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW022.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW022-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW022-full.png"
       }
     ],
     "regions": [
@@ -2641,7 +2641,7 @@
     "health": 3,
     "description": "เมื่อพันธมิตรโจมตี สร้างความเสียหาย<br>1 หน่วยแก่ศัตรูที่อยู่ในการต่อสู้ทั้งหมด<br>และเน็กซัสของศัตรู",
     "descriptionRaw": "เมื่อพันธมิตรโจมตี สร้างความเสียหาย1 หน่วยแก่ศัตรูที่อยู่ในการต่อสู้ทั้งหมดและเน็กซัสของศัตรู",
-    "levelupDescription": "เมื่อการ์ดใบนี้เห็นคุณโจมตี 4 ครั้ง<style=Variable></style>",
+    "levelupDescription": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>เห็น<zwsp>คุณ<zwsp>โจม<zwsp>ตี <zwsp>4 <zwsp>ครั้ง<style=Variable></style>",
     "levelupDescriptionRaw": "เมื่อการ์ดใบนี้เห็นคุณโจมตี 4 ครั้ง",
     "flavorText": "\"Miss Fortune เหรอ อยู่กลางทะเลแบบนี้ <zwsp>เรียกข้าว่า 'กัปตัน' สิ\"\n",
     "artistName": "SIXMOREVODKA",
@@ -2651,11 +2651,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "แชมเปี้ยน",
+    "rarity": "แชม<zwsp>เปี้ยน",
     "rarityRef": "Champion",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -2667,8 +2667,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW022T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW022T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW022T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW022T3-full.png"
       }
     ],
     "regions": [
@@ -2680,11 +2680,11 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "สร้างความเสียหาย 1 หน่วยแบบสุ่มเป้าหมายแก่ 3 เป้าหมายที่ต่างกันหรือเน็กซัสของศัตรู \r\nสร้าง <link=card.level1><style=AssociatedCard>Miss Fortune</style></link> หนึ่งใบในเด็คของคุณ",
+    "description": "สร้าง<zwsp>ความ<zwsp>เสีย<zwsp>หาย 1 <zwsp>หน่วย<zwsp>แบบ<zwsp>สุ่ม<zwsp>เป้า<zwsp>หมาย<zwsp>แก่ <zwsp>3 <zwsp>เป้า<zwsp>หมาย<zwsp>ที่<zwsp>ต่าง<zwsp>กัน<zwsp>หรือ<zwsp>เน็ก<zwsp>ซัส<zwsp>ของ<zwsp>ศัตรู<zwsp> \r\n<zwsp>สร้าง<zwsp> <link=card.level1><style=AssociatedCard>Miss Fortune</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>เด็ค<zwsp>ของ<zwsp>คุณ",
     "descriptionRaw": "สร้างความเสียหาย 1 หน่วยแบบสุ่มเป้าหมายแก่ 3 เป้าหมายที่ต่างกันหรือเน็กซัสของศัตรู \r\nสร้าง Miss Fortune หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"กระหน่ำยิง!\" - Miss Fortune",
+    "flavorText": "\"<zwsp>กระ<zwsp>หน่ำ<zwsp>ยิง<zwsp>!\"<zwsp> -<zwsp> Miss Fortune",
     "artistName": "Kudos Productions",
     "name": "Miss Fortune's Make it Rain",
     "cardCode": "02BW022T3",
@@ -2696,10 +2696,10 @@
     ],
     "spellSpeed": "เร็ว",
     "spellSpeedRef": "Fast",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
+    "supertype": "แชม<zwsp>เปี้ยน",
     "type": "เวท",
     "collectible": false,
     "set": "Set2"
@@ -2713,8 +2713,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW022T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW022T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW022T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW022T2-full.png"
       }
     ],
     "regions": [
@@ -2735,18 +2735,18 @@
     "name": "Miss Fortune",
     "cardCode": "02BW022T2",
     "keywords": [
-      "ทะลวง"
+      "ทะ<zwsp>ลวง"
     ],
     "keywordRefs": [
       "Overwhelm"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -2755,8 +2755,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW022T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW022T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW022T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW022T4-full.png"
       }
     ],
     "regions": [
@@ -2784,11 +2784,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ความสามารถ",
+    "type": "ความ<zwsp>สา<zwsp>มารถ",
     "collectible": false,
     "set": "Set2"
   },
@@ -2797,8 +2797,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW022T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW022T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW022T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW022T1-full.png"
       }
     ],
     "regions": [
@@ -2826,11 +2826,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ความสามารถ",
+    "type": "ความ<zwsp>สา<zwsp>มารถ",
     "collectible": false,
     "set": "Set2"
   },
@@ -2844,8 +2844,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW046.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW046-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW046-full.png"
       }
     ],
     "regions": [
@@ -2861,27 +2861,27 @@
     "health": 1,
     "description": "เมื่อคุณร่ายเวท หยุดยั้งเวทและสกิลทั้งหมดของศัตรูที่เล็ง<br>การ์ดใบนี้เป็นเป้าหมายและมอบ<br><link=keyword.Elusive><sprite name=Elusive><style=Keyword>ว่องไว</style></link>แก่การ์ดใบนี้ในรอบนี้",
     "descriptionRaw": "เมื่อคุณร่ายเวท หยุดยั้งเวทและสกิลทั้งหมดของศัตรูที่เล็งการ์ดใบนี้เป็นเป้าหมายและมอบว่องไวแก่การ์ดใบนี้ในรอบนี้",
-    "levelupDescription": "เมื่อคุณร่ายเวท 6 ครั้งขึ้นไป<style=Variable></style>",
+    "levelupDescription": "เมื่อ<zwsp>คุณ<zwsp>ร่าย<zwsp>เวท <zwsp>6 <zwsp>ครั้ง<zwsp>ขึ้น<zwsp>ไป<style=Variable></style>",
     "levelupDescriptionRaw": "เมื่อคุณร่ายเวท 6 ครั้งขึ้นไป",
     "flavorText": "ในบรรดาบุคคลผู้เป็นตำนาน<zwsp>ของ Bilgewater ทั้งหมด Fizz นั้นเป็นคน<zwsp>เปลี่ยนใจง่ายที่สุด กะลาสีบางคนถึงกับ<zwsp>สาปแช่งเขาเรื่องที่เขาเป็นต้นเหตุที่ทำให้<zwsp>ซากเรือมาเกยตื้นนับไม่ถ้วน...\n",
     "artistName": "SIXMOREVODKA",
     "name": "Fizz",
     "cardCode": "02BW046",
     "keywords": [
-      "กระตุ้น"
+      "กระ<zwsp>ตุ้น"
     ],
     "keywordRefs": [
       "Imbue"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "แชมเปี้ยน",
+    "rarity": "แชม<zwsp>เปี้ยน",
     "rarityRef": "Champion",
     "subtypes": [
-      "ยอร์เดิล"
+      "ยอร์<zwsp>เดิล"
     ],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -2895,8 +2895,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW046T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW046T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW046T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW046T3-full.png"
       }
     ],
     "regions": [
@@ -2919,20 +2919,20 @@
     "name": "Fizz",
     "cardCode": "02BW046T3",
     "keywords": [
-      "กระตุ้น"
+      "กระ<zwsp>ตุ้น"
     ],
     "keywordRefs": [
       "Imbue"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [
-      "ยอร์เดิล"
+      "ยอร์<zwsp>เดิล"
     ],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -2941,8 +2941,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW046T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW046T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW046T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW046T2-full.png"
       }
     ],
     "regions": [
@@ -2963,18 +2963,18 @@
     "name": "Longtooth",
     "cardCode": "02BW046T2",
     "keywords": [
-      "ทะลวง"
+      "ทะ<zwsp>ลวง"
     ],
     "keywordRefs": [
       "Overwhelm"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -2986,8 +2986,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW046T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW046T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW046T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW046T1-full.png"
       }
     ],
     "regions": [
@@ -3003,7 +3003,7 @@
     "descriptionRaw": "นำพันธมิตรที่โจมตีอยู่ออกจากการต่อสู้เพื่อทำการปลุกระดมสร้าง Fizz หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ข้านำหน้าเจ้าไปหนึ่งก้าวกระโดด!\" - Fizz",
+    "flavorText": "\"<zwsp>ข้า<zwsp>นำ<zwsp>หน้า<zwsp>เจ้า<zwsp>ไป<zwsp>หนึ่ง<zwsp>ก้าว<zwsp>กระ<zwsp>โดด!\"<zwsp> -<zwsp> Fizz",
     "artistName": "Max Grecke",
     "name": "Fizz's Playful Trickster",
     "cardCode": "02BW046T1",
@@ -3015,10 +3015,10 @@
     ],
     "spellSpeed": "เร็ว",
     "spellSpeedRef": "Fast",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
+    "supertype": "แชม<zwsp>เปี้ยน",
     "type": "เวท",
     "collectible": false,
     "set": "Set2"
@@ -3034,8 +3034,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW026-full.png"
       }
     ],
     "regions": [
@@ -3047,7 +3047,7 @@
     "attack": 2,
     "cost": 4,
     "health": 2,
-    "description": "<link=keyword.PlaySkillMark><sprite name=SkillMark><style=Keyword>เล่น</style></link>: เล่นการ์ด Destiny หนึ่งใบ",
+    "description": "<link=keyword.PlaySkillMark><sprite name=SkillMark><style=Keyword>เล่น</style></link>: <zwsp>เล่น<zwsp>การ์ด<zwsp> Destiny <zwsp>หนึ่ง<zwsp>ใบ",
     "descriptionRaw": "เล่น: เล่นการ์ด Destiny หนึ่งใบ",
     "levelupDescription": "เมื่อการ์ดใบนี้เห็นคุณจั่วการ์ด<br>9 ใบขึ้นไป <style=Variable></style>",
     "levelupDescriptionRaw": "เมื่อการ์ดใบนี้เห็นคุณจั่วการ์ด9 ใบขึ้นไป ",
@@ -3056,18 +3056,18 @@
     "name": "Twisted Fate",
     "cardCode": "02BW026",
     "keywords": [
-      "โจมตีก่อน"
+      "โจม<zwsp>ตี<zwsp>ก่อน"
     ],
     "keywordRefs": [
       "QuickStrike"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "แชมเปี้ยน",
+    "rarity": "แชม<zwsp>เปี้ยน",
     "rarityRef": "Champion",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -3076,8 +3076,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW026T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW026T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW026T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW026T5-full.png"
       }
     ],
     "regions": [
@@ -3089,11 +3089,11 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "สร้างความเสียหาย 2 หน่วย และ<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>ศัตรูที่แข็งแกร่งที่สุด",
+    "description": "สร้าง<zwsp>ความ<zwsp>เสีย<zwsp>หาย 2 <zwsp>หน่วย <zwsp>และ<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>ศัตรู<zwsp>ที่<zwsp>แข็ง<zwsp>แกร่ง<zwsp>ที่<zwsp>สุด",
     "descriptionRaw": "สร้างความเสียหาย 2 หน่วย และสตั้นศัตรูที่แข็งแกร่งที่สุด",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ทุกสิ่งที่ระยิบระยับ...\" - Twisted Fate",
+    "flavorText": "\"<zwsp>ทุก<zwsp>สิ่ง<zwsp>ที่<zwsp>ระ<zwsp>ยิบ<zwsp>ระ<zwsp>ยับ<zwsp>...\"<zwsp> -<zwsp> Twisted Fate",
     "artistName": "Kudos Productions",
     "name": "Gold Card",
     "cardCode": "02BW026T5",
@@ -3105,11 +3105,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ความสามารถ",
+    "type": "ความ<zwsp>สา<zwsp>มารถ",
     "collectible": false,
     "set": "Set2"
   },
@@ -3124,8 +3124,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW026T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW026T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW026T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW026T3-full.png"
       }
     ],
     "regions": [
@@ -3141,23 +3141,23 @@
     "descriptionRaw": "ทุก ๆ 3 ครั้งแรกที่คุณเล่นการ์ดในแต่ละรอบ การ์ดใบนี้จะเล่นการ์ด Destiny หนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"...หากเจ้าไม่มีวันแพ้ มันไม่ใช่การพนันหรอก\"",
+    "flavorText": "\"<zwsp>...<zwsp>หาก<zwsp>เจ้า<zwsp>ไม่<zwsp>มี<zwsp>วัน<zwsp>แพ้ <zwsp>มัน<zwsp>ไม่<zwsp>ใช่<zwsp>การ<zwsp>พนัน<zwsp>หรอก<zwsp>\"",
     "artistName": "SIXMOREVODKA",
     "name": "Twisted Fate",
     "cardCode": "02BW026T3",
     "keywords": [
-      "โจมตีก่อน"
+      "โจม<zwsp>ตี<zwsp>ก่อน"
     ],
     "keywordRefs": [
       "QuickStrike"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -3169,8 +3169,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW026T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW026T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW026T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW026T1-full.png"
       }
     ],
     "regions": [
@@ -3186,22 +3186,22 @@
     "descriptionRaw": "นำการ์ดหนึ่งใบจากมือเข้าสู่เด็คของคุณเพื่อจั่วการ์ด2 ใบเมื่อเริ่มรอบถัดไป มอบชั่วคราวแก่การ์ดเหล่านั้น\r\nสร้าง Twisted Fate หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ข้าสร้างโชคของข้าเอง\" - Twisted Fate",
+    "flavorText": "\"<zwsp>ข้า<zwsp>สร้าง<zwsp>โชค<zwsp>ของ<zwsp>ข้า<zwsp>เอง<zwsp>\" <zwsp>- Twisted Fate",
     "artistName": "Kudos Productions",
     "name": "Twisted Fate's Pick a Card",
     "cardCode": "02BW026T1",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
+    "supertype": "แชม<zwsp>เปี้ยน",
     "type": "เวท",
     "collectible": false,
     "set": "Set2"
@@ -3211,8 +3211,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW026T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW026T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW026T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW026T2-full.png"
       }
     ],
     "regions": [
@@ -3224,11 +3224,11 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "เติมมานาเวท 1 หน่วย\r\nจั่วการ์ด 1 ใบ",
+    "description": "เติม<zwsp>มา<zwsp>นา<zwsp>เวท <zwsp>1 <zwsp>หน่วย\r\n<zwsp>จั่ว<zwsp>การ์ด <zwsp>1 <zwsp>ใบ",
     "descriptionRaw": "เติมมานาเวท 1 หน่วย\r\nจั่วการ์ด 1 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"สีฟ้าดั่งหินเซอร์เพนทีน\" - Twisted Fate",
+    "flavorText": "\"<zwsp>สี<zwsp>ฟ้า<zwsp>ดั่ง<zwsp>หิน<zwsp>เซอร์<zwsp>เพน<zwsp>ทีน<zwsp>\" <zwsp>- Twisted Fate",
     "artistName": "Kudos Productions",
     "name": "Blue Card",
     "cardCode": "02BW026T2",
@@ -3240,11 +3240,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ความสามารถ",
+    "type": "ความ<zwsp>สา<zwsp>มารถ",
     "collectible": false,
     "set": "Set2"
   },
@@ -3253,8 +3253,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW026T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW026T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW026T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW026T4-full.png"
       }
     ],
     "regions": [
@@ -3270,7 +3270,7 @@
     "descriptionRaw": "สร้างความเสียหาย 1 หน่วยแก่ศัตรูทั้งหมดและเน็กซัสของศัตรู",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ไม่ต้องห่วง ได้กันทุกคน\" -Twisted Fate",
+    "flavorText": "\"<zwsp>ไม่<zwsp>ต้อง<zwsp>ห่วง <zwsp>ได้<zwsp>กัน<zwsp>ทุก<zwsp>คน\"<zwsp> -<zwsp>Twisted Fate",
     "artistName": "Kudos Productions",
     "name": "Red Card",
     "cardCode": "02BW026T4",
@@ -3282,11 +3282,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ความสามารถ",
+    "type": "ความ<zwsp>สา<zwsp>มารถ",
     "collectible": false,
     "set": "Set2"
   },
@@ -3298,8 +3298,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW053.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW053-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW053.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW053-full.png"
       }
     ],
     "regions": [
@@ -3320,8 +3320,8 @@
     "name": "Nautilus",
     "cardCode": "02BW053",
     "keywords": [
-      "ทนทาน",
-      "น่าสะพรึง"
+      "ทน<zwsp>ทาน",
+      "น่า<zwsp>สะ<zwsp>พรึง"
     ],
     "keywordRefs": [
       "Tough",
@@ -3329,11 +3329,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "แชมเปี้ยน",
+    "rarity": "แชม<zwsp>เปี้ยน",
     "rarityRef": "Champion",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -3345,8 +3345,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW053T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW053T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW053T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW053T2-full.png"
       }
     ],
     "regions": [
@@ -3358,11 +3358,11 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>ศัตรูหนึ่งใบ\r\nนำยูนิตใบนั้นกลับเข้าเด็คของศัตรูหากคุณมี <link=card.champCheck><style=AssociatedCard>Nautilus</style></link> บนกระดาน\r\nสร้าง <link=card.level1><style=AssociatedCard>Nautilus</style></link> หนึ่งใบในเด็คของคุณ",
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>ศัตรู<zwsp>หนึ่ง<zwsp>ใบ<zwsp>\r\nนำ<zwsp>ยู<zwsp>นิต<zwsp>ใบ<zwsp>นั้น<zwsp>กลับ<zwsp>เข้า<zwsp>เด็ค<zwsp>ของ<zwsp>ศัตรู<zwsp>หาก<zwsp>คุณ<zwsp>มี <link=card.champCheck><style=AssociatedCard>Nautilus</style></link> บน<zwsp>กระ<zwsp>ดาน\r\n<zwsp>สร้าง<zwsp> <link=card.level1><style=AssociatedCard>Nautilus</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>เด็ค<zwsp>ของ<zwsp>คุณ",
     "descriptionRaw": "สตั้นศัตรูหนึ่งใบ\r\nนำยูนิตใบนั้นกลับเข้าเด็คของศัตรูหากคุณมี Nautilus บนกระดาน\r\nสร้าง Nautilus หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ลากพวกมันลงมา...\" - Nautilus",
+    "flavorText": "\"<zwsp>ลาก<zwsp>พวก<zwsp>มัน<zwsp>ลง<zwsp>มา<zwsp>...\"<zwsp> - Nautilus",
     "artistName": "Kudos Productions",
     "name": "Nautilus' Riptide",
     "cardCode": "02BW053T2",
@@ -3374,10 +3374,10 @@
     ],
     "spellSpeed": "เร็ว",
     "spellSpeedRef": "Fast",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
+    "supertype": "แชม<zwsp>เปี้ยน",
     "type": "เวท",
     "collectible": false,
     "set": "Set2"
@@ -3390,8 +3390,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW053T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW053T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW053T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW053T1-full.png"
       }
     ],
     "regions": [
@@ -3407,13 +3407,13 @@
     "descriptionRaw": "พันธมิตรสัตว์ใต้ท้องทะเลมีค่าร่ายลดลง4 หน่วย",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "ทุกคนล้วนต้องจ่ายภาษี ไม่ทางใดก็ทางหนึ่ง",
+    "flavorText": "ทุก<zwsp>คน<zwsp>ล้วน<zwsp>ต้อง<zwsp>จ่าย<zwsp>ภา<zwsp>ษี <zwsp>ไม่<zwsp>ทาง<zwsp>ใด<zwsp>ก็<zwsp>ทาง<zwsp>หนึ่ง",
     "artistName": "SIXMOREVODKA",
     "name": "Nautilus",
     "cardCode": "02BW053T1",
     "keywords": [
-      "ทนทาน",
-      "น่าสะพรึง"
+      "ทน<zwsp>ทาน",
+      "น่า<zwsp>สะ<zwsp>พรึง"
     ],
     "keywordRefs": [
       "Tough",
@@ -3421,11 +3421,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -3434,8 +3434,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW061.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW061-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW061.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW061-full.png"
       }
     ],
     "regions": [
@@ -3451,19 +3451,19 @@
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกจั่ว ลดค่าร่ายลง1 หน่วยในรอบนี้มอบ +2|+1 แก่พันธมิตรหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ไม่อะไรเหมือนกับการชนะรวดเพื่อกวาดชิป<zwsp>เข้ากระเป๋าหรอก\" - Twisted Fate\n",
+    "flavorText": "\"ไม่มีอะไรเหมือนกับการชนะรวดเพื่อกวาดชิป<zwsp>เข้ากระเป๋าหรอก\" - Twisted Fate\n",
     "artistName": "Kudos Productions",
     "name": "Pocket Aces",
     "cardCode": "02BW061",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -3476,8 +3476,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW024-full.png"
       }
     ],
     "regions": [
@@ -3518,8 +3518,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW003-full.png"
       }
     ],
     "regions": [
@@ -3531,7 +3531,7 @@
     "attack": 0,
     "cost": 6,
     "health": 0,
-    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: นำผู้ติดตามหนึ่งในบนสนามขึ้นในมือของคุณ",
+    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: <zwsp>นำ<zwsp>ผู้<zwsp>ติด<zwsp>ตาม<zwsp>หนึ่ง<zwsp>ใน<zwsp>บน<zwsp>สนาม<zwsp>ขึ้น<zwsp>ใน<zwsp>มือ<zwsp>ของ<zwsp>คุณ",
     "descriptionRaw": "ปล้น: นำผู้ติดตามหนึ่งในบนสนามขึ้นในมือของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -3562,8 +3562,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW025-full.png"
       }
     ],
     "regions": [
@@ -3579,7 +3579,7 @@
     "descriptionRaw": "มอบเปราะบางให้กับยูนิตศัตรูหนึ่งใบและอัญเชิญLongtooth",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ฉลาม!\" - Fizz",
+    "flavorText": "\"<zwsp>ฉลาม!\"<zwsp> -<zwsp> Fizz",
     "artistName": "Kudos Productions",
     "name": "Chum the Waters",
     "cardCode": "02BW025",
@@ -3591,7 +3591,7 @@
     ],
     "spellSpeed": "ช้า",
     "spellSpeedRef": "Slow",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -3606,8 +3606,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW012-full.png"
       }
     ],
     "regions": [
@@ -3619,11 +3619,11 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "อัญเชิญ <link=card.summon><style=AssociatedCard>Powder Kegs</style></link> 2 ใบ",
+    "description": "อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Powder Kegs</style></link> 2 <zwsp>ใบ",
     "descriptionRaw": "อัญเชิญ Powder Kegs 2 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"โยนถัง!\" - Gangplank",
+    "flavorText": "\"<zwsp>โยน<zwsp>ถัง<zwsp>!\"<zwsp> -<zwsp> Gangplank",
     "artistName": "Kudos Productions",
     "name": "More Powder!",
     "cardCode": "02BW012",
@@ -3635,7 +3635,7 @@
     ],
     "spellSpeed": "ช้า",
     "spellSpeedRef": "Slow",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -3648,8 +3648,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW018-full.png"
       }
     ],
     "regions": [
@@ -3677,7 +3677,7 @@
     ],
     "spellSpeed": "ช้า",
     "spellSpeedRef": "Slow",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -3690,8 +3690,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW048.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW048-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW048-full.png"
       }
     ],
     "regions": [
@@ -3719,7 +3719,7 @@
     ],
     "spellSpeed": "ช้า",
     "spellSpeedRef": "Slow",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -3732,8 +3732,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW043.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW043-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW043-full.png"
       }
     ],
     "regions": [
@@ -3749,17 +3749,17 @@
     "descriptionRaw": "นำการ์ดหนึ่งใบจากมือเข้าสู่เด็คของคุณเพื่อจั่วการ์ด 2 ใบเมื่อเริ่มรอบถัดไป มอบชั่วคราวแก่การ์ดเหล่านั้น",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ข้าสร้างโชคของข้าเอง\" - Twisted Fate",
+    "flavorText": "\"<zwsp>ข้า<zwsp>สร้าง<zwsp>โชค<zwsp>ของ<zwsp>ข้า<zwsp>เอง<zwsp>\" <zwsp>- Twisted Fate",
     "artistName": "Kudos Productions",
     "name": "Pick A Card",
     "cardCode": "02BW043",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
     "rarity": "แรร์",
     "rarityRef": "Rare",
@@ -3774,8 +3774,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW051.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW051-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW051-full.png"
       }
     ],
     "regions": [
@@ -3791,7 +3791,7 @@
     "descriptionRaw": "นำพันธมิตรที่โจมตีอยู่หนึ่งใบออกจากการต่อสู้เพื่อปลุกระดม",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ข้านำหน้าเจ้าไปหนึ่งก้าวกระโดด!\" - Fizz",
+    "flavorText": "\"<zwsp>ข้า<zwsp>นำ<zwsp>หน้า<zwsp>เจ้า<zwsp>ไป<zwsp>หนึ่ง<zwsp>ก้าว<zwsp>กระ<zwsp>โดด!\"<zwsp> -<zwsp> Fizz",
     "artistName": "Max Grecke",
     "name": "Playful Trickster",
     "cardCode": "02BW051",
@@ -3818,8 +3818,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW054.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW054-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW054.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW054-full.png"
       }
     ],
     "regions": [
@@ -3831,11 +3831,11 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>ศัตรูหนึ่งใบ\r\nนำยูนิตใบนั้นกลับเข้าเด็คของศัตรูหากคุณมี <link=card.champCheck><style=AssociatedCard>Nautilus</style></link> บนกระดาน\r\n",
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>ศัตรู<zwsp>หนึ่ง<zwsp>ใบ<zwsp>\r\nนำ<zwsp>ยู<zwsp>นิต<zwsp>ใบ<zwsp>นั้น<zwsp>กลับ<zwsp>เข้า<zwsp>เด็ค<zwsp>ของ<zwsp>ศัตรู<zwsp>หาก<zwsp>คุณ<zwsp>มี <link=card.champCheck><style=AssociatedCard>Nautilus</style></link> บน<zwsp>กระ<zwsp>ดาน<zwsp>\r\n",
     "descriptionRaw": "สตั้นศัตรูหนึ่งใบ\r\nนำยูนิตใบนั้นกลับเข้าเด็คของศัตรูหากคุณมี Nautilus บนกระดาน\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ลากพวกมันลงมา...\" - Nautilus",
+    "flavorText": "\"<zwsp>ลาก<zwsp>พวก<zwsp>มัน<zwsp>ลง<zwsp>มา<zwsp>...\"<zwsp> - Nautilus",
     "artistName": "Kudos Productions",
     "name": "Riptide",
     "cardCode": "02BW054",
@@ -3860,8 +3860,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW042-full.png"
       }
     ],
     "regions": [
@@ -3889,7 +3889,7 @@
     ],
     "spellSpeed": "ช้า",
     "spellSpeedRef": "Slow",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
@@ -3902,8 +3902,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW059.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW059-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW059-full.png"
       }
     ],
     "regions": [
@@ -3944,8 +3944,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW023.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW023-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW023-full.png"
       }
     ],
     "regions": [
@@ -3966,12 +3966,12 @@
     "name": "Lure of the Depths",
     "cardCode": "02BW023",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
     "rarity": "แรร์",
     "rarityRef": "Rare",
@@ -3986,8 +3986,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW031-full.png"
       }
     ],
     "regions": [
@@ -4003,7 +4003,7 @@
     "descriptionRaw": "สร้างความเสียหาย 2 หน่วยแก่ศัตรูหนึ่งใบ\r\nหากมันตาย สร้างความเสียหาย 4 หน่วยแก่เน็กซัสของศัตรู",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ข้ายิงก่อนเสมอ\" - Miss Fortune",
+    "flavorText": "\"<zwsp>ข้า<zwsp>ยิง<zwsp>ก่อน<zwsp>เสมอ\"<zwsp> -<zwsp> Miss Fortune",
     "artistName": "Kudos Productions",
     "name": "Double Up",
     "cardCode": "02BW031",
@@ -4028,8 +4028,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW029-full.png"
       }
     ],
     "regions": [
@@ -4050,14 +4050,14 @@
     "name": "Salvage",
     "cardCode": "02BW029",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -4070,8 +4070,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW049-full.png"
       }
     ],
     "regions": [
@@ -4083,7 +4083,7 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "<link=keyword.Nab><style=Keyword>ฉกฉวย</style></link> 1 ใบ\r\n<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: <link=keyword.Nab><style=Keyword>ฉกฉวย</style></link>เพิ่มอีก 1 ใบ",
+    "description": "<link=keyword.Nab><style=Keyword>ฉกฉวย</style></link> 1 <zwsp>ใบ<zwsp>\r\n<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: <link=keyword.Nab><style=Keyword>ฉกฉวย</style></link>เพิ่ม<zwsp>อีก<zwsp> 1 <zwsp>ใบ",
     "descriptionRaw": "ฉกฉวย 1 ใบ\r\nปล้น: ฉกฉวยเพิ่มอีก 1 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4092,14 +4092,14 @@
     "name": "Pilfered Goods",
     "cardCode": "02BW049",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -4112,8 +4112,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW001-full.png"
       }
     ],
     "regions": [
@@ -4141,7 +4141,7 @@
     ],
     "spellSpeed": "ช้า",
     "spellSpeedRef": "Slow",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -4154,8 +4154,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW063.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW063-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW063.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW063-full.png"
       }
     ],
     "regions": [
@@ -4196,8 +4196,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW045-full.png"
       }
     ],
     "regions": [
@@ -4213,7 +4213,7 @@
     "descriptionRaw": "สร้างความเสียหาย 1 หน่วยแบบสุ่มเป้าหมายแก่ 3 เป้าหมายที่ต่างกันหรือเน็กซัสของศัตรู",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"กระหน่ำยิง!\" - Miss Fortune",
+    "flavorText": "\"<zwsp>กระ<zwsp>หน่ำ<zwsp>ยิง<zwsp>!\"<zwsp> -<zwsp> Miss Fortune",
     "artistName": "Kudos Productions",
     "name": "Make it Rain",
     "cardCode": "02BW045",
@@ -4225,7 +4225,7 @@
     ],
     "spellSpeed": "เร็ว",
     "spellSpeedRef": "Fast",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -4238,8 +4238,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW020-full.png"
       }
     ],
     "regions": [
@@ -4260,14 +4260,14 @@
     "name": "Warning Shot",
     "cardCode": "02BW020",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -4280,8 +4280,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW044.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW044-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW044-full.png"
       }
     ],
     "regions": [
@@ -4293,7 +4293,7 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>การ์ด 4 ใบ",
+    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>การ์ด<zwsp> 4 <zwsp>ใบ",
     "descriptionRaw": "หย่อนทิ้งการ์ด 4 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4302,12 +4302,12 @@
     "name": "Jettison",
     "cardCode": "02BW044",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
     "rarity": "แรร์",
     "rarityRef": "Rare",
@@ -4322,8 +4322,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW062.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02BW062-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02BW062-full.png"
       }
     ],
     "regions": [
@@ -4344,7 +4344,7 @@
     "name": "Island Navigator",
     "cardCode": "02BW062",
     "keywords": [
-      "สอดแนม"
+      "สอด<zwsp>แนม"
     ],
     "keywordRefs": [
       "Scout"
@@ -4355,7 +4355,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -4364,8 +4364,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR009-full.png"
       }
     ],
     "regions": [
@@ -4377,7 +4377,7 @@
     "attack": 4,
     "cost": 4,
     "health": 3,
-    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: รับอัญมณีมานาว่างเปล่าหนึ่งเม็ด",
+    "description": "<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: <zwsp>รับ<zwsp>อัญ<zwsp>มณี<zwsp>มา<zwsp>นา<zwsp>ว่าง<zwsp>เปล่า<zwsp>หนึ่ง<zwsp>เม็ด",
     "descriptionRaw": "ปล้น: รับอัญมณีมานาว่างเปล่าหนึ่งเม็ด",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4386,18 +4386,18 @@
     "name": "Wolfrider",
     "cardCode": "02FR009",
     "keywords": [
-      "ทะลวง"
+      "ทะ<zwsp>ลวง"
     ],
     "keywordRefs": [
       "Overwhelm"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -4406,8 +4406,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR004-full.png"
       }
     ],
     "regions": [
@@ -4451,8 +4451,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR002-full.png"
       }
     ],
     "regions": [
@@ -4473,18 +4473,18 @@
     "name": "Sejuani",
     "cardCode": "02FR002",
     "keywords": [
-      "ทะลวง"
+      "ทะ<zwsp>ลวง"
     ],
     "keywordRefs": [
       "Overwhelm"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "แชมเปี้ยน",
+    "rarity": "แชม<zwsp>เปี้ยน",
     "rarityRef": "Champion",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -4493,8 +4493,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR001-full.png"
       }
     ],
     "regions": [
@@ -4522,7 +4522,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -4533,8 +4533,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR005-full.png"
       }
     ],
     "regions": [
@@ -4558,11 +4558,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -4573,8 +4573,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR005T1-full.png"
       }
     ],
     "regions": [
@@ -4595,7 +4595,7 @@
     "name": "Stormclaw Ursine",
     "cardCode": "02FR005T1",
     "keywords": [
-      "ทะลวง",
+      "ทะ<zwsp>ลวง",
       "Missing Translation"
     ],
     "keywordRefs": [
@@ -4604,11 +4604,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -4617,8 +4617,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR010-full.png"
       }
     ],
     "regions": [
@@ -4634,17 +4634,17 @@
     "descriptionRaw": "มอบ +1|+1 แก่พันธมิตร 3 ใบที่อยู่บนสุดของเด็คของคุณ\r\nปล้น: ทำการจั่วการ์ด 1 ใบในนั้นขึ้นมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"แบ่งปันอย่างเท่าเทียมกัน\" - Ruthless Raider",
+    "flavorText": "\"<zwsp>แบ่ง<zwsp>ปัน<zwsp>อย่าง<zwsp>เท่า<zwsp>เทียม<zwsp>กัน<zwsp>\" <zwsp>- Ruthless Raider",
     "artistName": "Kudos Productions",
     "name": "Shared Spoils",
     "cardCode": "02FR010",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
     "rarity": "แรร์",
     "rarityRef": "Rare",
@@ -4662,8 +4662,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR008-full.png"
       }
     ],
     "regions": [
@@ -4687,11 +4687,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -4703,8 +4703,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR002T1-full.png"
       }
     ],
     "regions": [
@@ -4716,26 +4716,26 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "มอบ +3|+4 แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง <link=card.level1><style=AssociatedCard>Sejuani</style></link> หนึ่งใบในเด็คของคุณ",
+    "description": "มอบ<zwsp> +3|+4 แก่<zwsp>พันธ<zwsp>มิตร<zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>รอบ<zwsp>นี้\r\n<zwsp>สร้าง<zwsp> <link=card.level1><style=AssociatedCard>Sejuani</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>เด็ค<zwsp>ของ<zwsp>คุณ",
     "descriptionRaw": "มอบ +3|+4 แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง Sejuani หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"จงยอมรับสัตว์ร้ายในกายเจ้า!\" - Sejuani",
+    "flavorText": "\"<zwsp>จง<zwsp>ยอม<zwsp>รับ<zwsp>สัตว์<zwsp>ร้าย<zwsp>ใน<zwsp>กาย<zwsp>เจ้า<zwsp>!\"<zwsp> -<zwsp> Sejuani",
     "artistName": "Kudos Productions",
-    "name": "Sejuani's Fury of the North",
+    "name": "Sejuani's Fury of the N<zwsp>orth",
     "cardCode": "02FR002T1",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
+    "supertype": "แชม<zwsp>เปี้ยน",
     "type": "เวท",
     "collectible": false,
     "set": "Set2"
@@ -4748,8 +4748,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR002T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR002T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR002T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR002T3-full.png"
       }
     ],
     "regions": [
@@ -4770,18 +4770,18 @@
     "name": "Sejuani",
     "cardCode": "02FR002T3",
     "keywords": [
-      "ทะลวง"
+      "ทะ<zwsp>ลวง"
     ],
     "keywordRefs": [
       "Overwhelm"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -4790,8 +4790,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR007-full.png"
       }
     ],
     "regions": [
@@ -4803,23 +4803,23 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "มอบ +3|+4 แก่พันธมิตรหนึ่งใบในรอบนี้",
+    "description": "มอบ<zwsp> +3|+4 แก่<zwsp>พันธ<zwsp>มิตร<zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>รอบ<zwsp>นี้",
     "descriptionRaw": "มอบ +3|+4 แก่พันธมิตรหนึ่งใบในรอบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"จงยอมรับสัตว์ร้ายในกายเจ้า!\" - Sejuani",
+    "flavorText": "\"<zwsp>จง<zwsp>ยอม<zwsp>รับ<zwsp>สัตว์<zwsp>ร้าย<zwsp>ใน<zwsp>กาย<zwsp>เจ้า<zwsp>!\"<zwsp> -<zwsp> Sejuani",
     "artistName": "Kudos Productions",
-    "name": "Fury of the North",
+    "name": "Fury of the N<zwsp>orth",
     "cardCode": "02FR007",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -4832,8 +4832,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR006-full.png"
       }
     ],
     "regions": [
@@ -4854,8 +4854,8 @@
     "name": "Ruthless Raider",
     "cardCode": "02FR006",
     "keywords": [
-      "ทะลวง",
-      "ทนทาน"
+      "ทะ<zwsp>ลวง",
+      "ทน<zwsp>ทาน"
     ],
     "keywordRefs": [
       "Overwhelm",
@@ -4863,11 +4863,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -4878,8 +4878,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02FR003-full.png"
       }
     ],
     "regions": [
@@ -4891,7 +4891,7 @@
     "attack": 0,
     "cost": 6,
     "health": 0,
-    "description": "สร้างโปโรแบบสุ่ม 2 ใบและ <link=card.snaxRef><style=AssociatedCard>Poro Snax</style></link> 2 ใบในมือ",
+    "description": "สร้าง<zwsp>โป<zwsp>โร<zwsp>แบบ<zwsp>สุ่ม<zwsp> 2 <zwsp>ใบ<zwsp>และ<zwsp> <link=card.snaxRef><style=AssociatedCard>Poro Snax</style></link> 2 <zwsp>ใบ<zwsp>ใน<zwsp>มือ",
     "descriptionRaw": "สร้างโปโรแบบสุ่ม 2 ใบและ Poro Snax 2 ใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4900,14 +4900,14 @@
     "name": "Aurora Porealis",
     "cardCode": "02FR003",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
@@ -4922,8 +4922,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX001-full.png"
       }
     ],
     "regions": [
@@ -4944,18 +4944,18 @@
     "name": "The Leviathan",
     "cardCode": "02NX001",
     "keywords": [
-      "ทะลวง"
+      "ทะ<zwsp>ลวง"
     ],
     "keywordRefs": [
       "Overwhelm"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -4967,8 +4967,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX007-full.png"
       }
     ],
     "regions": [
@@ -4989,18 +4989,18 @@
     "name": "Swain",
     "cardCode": "02NX007",
     "keywords": [
-      "น่าสะพรึง"
+      "น่า<zwsp>สะ<zwsp>พรึง"
     ],
     "keywordRefs": [
       "Fearsome"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "แชมเปี้ยน",
+    "rarity": "แชม<zwsp>เปี้ยน",
     "rarityRef": "Champion",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -5012,8 +5012,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX007T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX007T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX007T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX007T2-full.png"
       }
     ],
     "regions": [
@@ -5034,18 +5034,18 @@
     "name": "Swain",
     "cardCode": "02NX007T2",
     "keywords": [
-      "น่าสะพรึง"
+      "น่า<zwsp>สะ<zwsp>พรึง"
     ],
     "keywordRefs": [
       "Fearsome"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -5057,8 +5057,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX007T1-full.png"
       }
     ],
     "regions": [
@@ -5086,10 +5086,10 @@
     ],
     "spellSpeed": "เร็ว",
     "spellSpeedRef": "Fast",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
+    "supertype": "แชม<zwsp>เปี้ยน",
     "type": "เวท",
     "collectible": false,
     "set": "Set2"
@@ -5099,8 +5099,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX006-full.png"
       }
     ],
     "regions": [
@@ -5128,7 +5128,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -5137,8 +5137,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX002-full.png"
       }
     ],
     "regions": [
@@ -5150,7 +5150,7 @@
     "attack": 6,
     "cost": 6,
     "health": 6,
-    "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>ศัตรูที่ได้รับความเสียหายทั้งหมด",
+    "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>ศัตรู<zwsp>ที่<zwsp>ได้<zwsp>รับ<zwsp>ความ<zwsp>เสีย<zwsp>หาย<zwsp>ทั้ง<zwsp>หมด",
     "descriptionRaw": "โจมตี: สตั้นศัตรูที่ได้รับความเสียหายทั้งหมด",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5162,11 +5162,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -5175,8 +5175,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX009-full.png"
       }
     ],
     "regions": [
@@ -5219,8 +5219,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX004-full.png"
       }
     ],
     "regions": [
@@ -5236,7 +5236,7 @@
     "descriptionRaw": "เล่น: สร้างความเสียหาย1 หน่วยแก่ยูนิตพันธมิตรหนึ่งใบเพื่อสร้างความเสียหาย2 หน่วยแก่เน็กซัสของศัตรู",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"เร็วและเงียบ จนกว่าจะบึ้ม\"",
+    "flavorText": "\"<zwsp>เร็ว<zwsp>และ<zwsp>เงียบ <zwsp>จน<zwsp>กว่า<zwsp>จะ<zwsp>บึ้ม<zwsp>\"",
     "artistName": "Dao Le",
     "name": "Imperial Demolitionist",
     "cardCode": "02NX004",
@@ -5244,11 +5244,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -5257,8 +5257,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX003-full.png"
       }
     ],
     "regions": [
@@ -5286,7 +5286,7 @@
     ],
     "spellSpeed": "เร็ว",
     "spellSpeedRef": "Fast",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -5299,8 +5299,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX010-full.png"
       }
     ],
     "regions": [
@@ -5321,7 +5321,7 @@
     "name": "Armored Tuskrider",
     "cardCode": "02NX010",
     "keywords": [
-      "ทะลวง"
+      "ทะ<zwsp>ลวง"
     ],
     "keywordRefs": [
       "Overwhelm"
@@ -5332,7 +5332,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -5341,8 +5341,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX004T1-full.png"
       }
     ],
     "regions": [
@@ -5370,11 +5370,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ความสามารถ",
+    "type": "ความ<zwsp>สา<zwsp>มารถ",
     "collectible": false,
     "set": "Set2"
   },
@@ -5383,8 +5383,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX008-full.png"
       }
     ],
     "regions": [
@@ -5400,7 +5400,7 @@
     "descriptionRaw": "สร้างความเสียหาย 2 หน่วยแก่ศัตรูหนึ่งใบและ1 หน่วยแก่เน็กซัสของศัตรู",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"จงพยายามตายอย่างสมศักดิ์ศรี\" - Swain",
+    "flavorText": "\"<zwsp>จง<zwsp>พยา<zwsp>ยาม<zwsp>ตาย<zwsp>อย่าง<zwsp>สม<zwsp>ศักดิ์<zwsp>ศรี<zwsp>\" <zwsp>- Swain",
     "artistName": "Kudos Productions",
     "name": "Death's Hand",
     "cardCode": "02NX008",
@@ -5412,7 +5412,7 @@
     ],
     "spellSpeed": "เร็ว",
     "spellSpeedRef": "Fast",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -5425,8 +5425,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02NX005-full.png"
       }
     ],
     "regions": [
@@ -5447,18 +5447,18 @@
     "name": "Iron Ballista",
     "cardCode": "02NX005",
     "keywords": [
-      "ทะลวง"
+      "ทะ<zwsp>ลวง"
     ],
     "keywordRefs": [
       "Overwhelm"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -5467,8 +5467,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE003-full.png"
       }
     ],
     "regions": [
@@ -5492,11 +5492,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -5505,8 +5505,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE008-full.png"
       }
     ],
     "regions": [
@@ -5527,18 +5527,18 @@
     "name": "Greathorn Companion",
     "cardCode": "02DE008",
     "keywords": [
-      "สอดแนม"
+      "สอด<zwsp>แนม"
     ],
     "keywordRefs": [
       "Scout"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -5547,8 +5547,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE004-full.png"
       }
     ],
     "regions": [
@@ -5569,8 +5569,8 @@
     "name": "Greenfang Warden",
     "cardCode": "02DE004",
     "keywords": [
-      "บาเรีย",
-      "สอดแนม"
+      "บา<zwsp>เรีย",
+      "สอด<zwsp>แนม"
     ],
     "keywordRefs": [
       "Barrier",
@@ -5578,13 +5578,13 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [
-      "ทหารชั้นยอด"
+      "ทหาร<zwsp>ชั้น<zwsp>ยอด"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -5597,8 +5597,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE006-full.png"
       }
     ],
     "regions": [
@@ -5610,27 +5610,27 @@
     "attack": 3,
     "cost": 5,
     "health": 5,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญ <link=card.create><style=AssociatedCard>Valor</style></link> หนึ่งใบ",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp> อัญ<zwsp>เชิญ<zwsp> <link=card.create><style=AssociatedCard>Valor</style></link> <zwsp>หนึ่ง<zwsp>ใบ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญ Valor หนึ่งใบ",
-    "levelupDescription": "เมื่อการ์ดใบนี้เห็นคุณโจมตี 4 ครั้ง<style=Variable></style>",
+    "levelupDescription": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>เห็น<zwsp>คุณ<zwsp>โจม<zwsp>ตี <zwsp>4 <zwsp>ครั้ง<style=Variable></style>",
     "levelupDescriptionRaw": "เมื่อการ์ดใบนี้เห็นคุณโจมตี 4 ครั้ง",
     "flavorText": "\"นางเป็นอัศวินพรานผู้ไร้ความหวาดกลัวมาโดยตลอด <zwsp>Quinn ของเราและเจ้า Valor ผู้อยู่เคียงข้าง<zwsp>และอยู่บนท้องฟ้า ทั้งสองไร้ผู้ทัดทาน\" <zwsp>- Genevieve Elmheart หนึ่งในอัศวินพราน\n",
     "artistName": "SIXMOREVODKA",
     "name": "Quinn",
     "cardCode": "02DE006",
     "keywords": [
-      "สอดแนม"
+      "สอด<zwsp>แนม"
     ],
     "keywordRefs": [
       "Scout"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "แชมเปี้ยน",
+    "rarity": "แชม<zwsp>เปี้ยน",
     "rarityRef": "Champion",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -5643,8 +5643,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE006T3-full.png"
       }
     ],
     "regions": [
@@ -5656,7 +5656,7 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "อัญเชิญ <link=card.summon><style=AssociatedCard>Valor</style></link>\r\nสร้าง <link=card.level1><style=AssociatedCard>Quinn</style></link> หนึ่งใบในเด็คของคุณ",
+    "description": "อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Valor</style></link>\r\n<zwsp>สร้าง<zwsp> <link=card.level1><style=AssociatedCard>Quinn</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>เด็ค<zwsp>ของ<zwsp>คุณ",
     "descriptionRaw": "อัญเชิญ Valor\r\nสร้าง Quinn หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5672,10 +5672,10 @@
     ],
     "spellSpeed": "ช้า",
     "spellSpeedRef": "Slow",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
+    "supertype": "แชม<zwsp>เปี้ยน",
     "type": "เวท",
     "collectible": false,
     "set": "Set2"
@@ -5685,8 +5685,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE006T2-full.png"
       }
     ],
     "regions": [
@@ -5707,8 +5707,8 @@
     "name": "Valor",
     "cardCode": "02DE006T2",
     "keywords": [
-      "ผู้ท้าชิง",
-      "สอดแนม"
+      "ผู้<zwsp>ท้า<zwsp>ชิง",
+      "สอด<zwsp>แนม"
     ],
     "keywordRefs": [
       "Challenger",
@@ -5716,11 +5716,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -5733,8 +5733,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE006T1-full.png"
       }
     ],
     "regions": [
@@ -5746,27 +5746,27 @@
     "attack": 4,
     "cost": 5,
     "health": 6,
-    "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: อัญเชิญ <link=card.create><style=AssociatedCard>Valor</style></link> และ<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ท้าชิง</style></link>ศัตรูที่<link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link>",
+    "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: <zwsp>อัญ<zwsp>เชิญ<zwsp> <link=card.create><style=AssociatedCard>Valor</style></link> <zwsp>และ<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ท้าชิง</style></link>ศัตรู<zwsp>ที่<link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link>",
     "descriptionRaw": "โจมตี: อัญเชิญ Valor และท้าชิงศัตรูที่แข็งแกร่งที่สุด",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ข้าจะตามเจ้าไป Valor!\"",
+    "flavorText": "\"<zwsp>ข้า<zwsp>จะ<zwsp>ตาม<zwsp>เจ้า<zwsp>ไป<zwsp> Valor!\"",
     "artistName": "SIXMOREVODKA",
     "name": "Quinn",
     "cardCode": "02DE006T1",
     "keywords": [
-      "สอดแนม"
+      "สอด<zwsp>แนม"
     ],
     "keywordRefs": [
       "Scout"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -5777,8 +5777,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE009-full.png"
       }
     ],
     "regions": [
@@ -5790,7 +5790,7 @@
     "attack": 3,
     "cost": 4,
     "health": 1,
-    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: อัญเชิญ <link=card.summon><style=AssociatedCard>Loyal Badgerbear</style></link> หนึ่งใบ",
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: <zwsp>อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Loyal Badgerbear</style></link> <zwsp>หนึ่ง<zwsp>ใบ",
     "descriptionRaw": "สิ้นลม: อัญเชิญ Loyal Badgerbear หนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5799,8 +5799,8 @@
     "name": "Grizzled Ranger",
     "cardCode": "02DE009",
     "keywords": [
-      "สอดแนม",
-      "สิ้นลม"
+      "สอด<zwsp>แนม",
+      "สิ้น<zwsp>ลม"
     ],
     "keywordRefs": [
       "Scout",
@@ -5811,10 +5811,10 @@
     "rarity": "แรร์",
     "rarityRef": "Rare",
     "subtypes": [
-      "ยอร์เดิล"
+      "ยอร์<zwsp>เดิล"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -5823,8 +5823,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE005-full.png"
       }
     ],
     "regions": [
@@ -5836,7 +5836,7 @@
     "attack": 0,
     "cost": 8,
     "health": 0,
-    "description": "มอบ \"การ์ดใบนี้ไม่สามารถรับความเสียหายหรือตาย\" แก่พันธมิตรหนึ่งใบ",
+    "description": "มอบ \"<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ไม่<zwsp>สา<zwsp>มารถ<zwsp>รับ<zwsp>ความ<nobr>เสีย<zwsp>หาย</nobr>หรือ<zwsp>ตาย<zwsp>\" <zwsp>แก่<zwsp>พันธ<zwsp>มิตร<zwsp>หนึ่ง<zwsp>ใบ",
     "descriptionRaw": "มอบ \"การ์ดใบนี้ไม่สามารถรับความเสียหายหรือตาย\" แก่พันธมิตรหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5852,7 +5852,7 @@
     ],
     "spellSpeed": "เร็ว",
     "spellSpeedRef": "Fast",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
@@ -5867,8 +5867,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE002-full.png"
       }
     ],
     "regions": [
@@ -5880,7 +5880,7 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "อัญเชิญ <link=card.summon><style=AssociatedCard>Valor</style></link>",
+    "description": "อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Valor</style></link>",
     "descriptionRaw": "อัญเชิญ Valor",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5909,8 +5909,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE010-full.png"
       }
     ],
     "regions": [
@@ -5922,7 +5922,7 @@
     "attack": 5,
     "cost": 6,
     "health": 4,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบ +1|+1 แก่พันธมิตรอื่นในรอบนี้",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp> มอบ +1|+1 แก่<zwsp>พันธ<zwsp>มิตร<zwsp>อื่น<zwsp>ใน<zwsp>รอบ<zwsp>นี้",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบ +1|+1 แก่พันธมิตรอื่นในรอบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5931,8 +5931,8 @@
     "name": "Genevieve Elmheart",
     "cardCode": "02DE010",
     "keywords": [
-      "สอดแนม",
-      "ผู้ท้าชิง"
+      "สอด<zwsp>แนม",
+      "ผู้<zwsp>ท้า<zwsp>ชิง"
     ],
     "keywordRefs": [
       "Scout",
@@ -5940,11 +5940,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -5953,8 +5953,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE007-full.png"
       }
     ],
     "regions": [
@@ -5966,7 +5966,7 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "มอบ<link=keyword.Tough><sprite name=Tough><style=Keyword>ทนทาน</style></link>แก่พันธมิตรทุกใบในรอบนี้",
+    "description": "มอบ<link=keyword.Tough><sprite name=Tough><style=Keyword>ทนทาน</style></link>แก่<zwsp>พันธ<zwsp>มิตร<zwsp>ทุก<zwsp>ใบ<zwsp>ใน<zwsp>รอบ<zwsp>นี้",
     "descriptionRaw": "มอบทนทานแก่พันธมิตรทุกใบในรอบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5975,12 +5975,12 @@
     "name": "Ranger's Resolve",
     "cardCode": "02DE007",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
     "rarity": "แรร์",
     "rarityRef": "Rare",
@@ -5995,8 +5995,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02DE001-full.png"
       }
     ],
     "regions": [
@@ -6024,7 +6024,7 @@
     ],
     "spellSpeed": "เร็ว",
     "spellSpeedRef": "Fast",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -6037,8 +6037,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI005-full.png"
       }
     ],
     "regions": [
@@ -6050,21 +6050,21 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>การ์ด 3 ใบ\r\nฮีลพันธมิตรทั้งหมด 3 หน่วย",
+    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>การ์ด <zwsp>3 <zwsp>ใบ<zwsp>\r\n<zwsp>ฮีล<zwsp>พันธ<zwsp>มิตร<zwsp>ทั้ง<zwsp>หมด <zwsp>3 <zwsp>หน่วย",
     "descriptionRaw": "หย่อนทิ้งการ์ด 3 ใบ\r\nฮีลพันธมิตรทั้งหมด 3 หน่วย",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"เกาะเหล่านี้จะต้องถูกชำระล้าง\" - Maokai",
+    "flavorText": "\"<zwsp>เกาะ<zwsp>เหล่า<zwsp>นี้<zwsp>จะ<zwsp>ต้อง<zwsp>ถูก<zwsp>ชำ<zwsp>ระ<zwsp>ล้าง<zwsp>\" <zwsp>- Maokai",
     "artistName": "Kudos Productions",
     "name": "Sap Magic",
     "cardCode": "02SI005",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
     "rarity": "แรร์",
     "rarityRef": "Rare",
@@ -6079,8 +6079,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI010-full.png"
       }
     ],
     "regions": [
@@ -6101,18 +6101,18 @@
     "name": "Deadbloom Wanderer",
     "cardCode": "02SI010",
     "keywords": [
-      "ดูดเลือด"
+      "ดูด<zwsp>เลือด"
     ],
     "keywordRefs": [
       "Lifesteal"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -6125,8 +6125,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI008-full.png"
       }
     ],
     "regions": [
@@ -6138,8 +6138,8 @@
     "attack": 1,
     "cost": 4,
     "health": 4,
-    "description": "ในแต่ละรอบ เมื่อคุณเล่นยูนิตใบอื่น<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>การ์ด<br>2 ใบและอัญเชิญ <link=card.summon><style=AssociatedCard>Sapling</style></link> หนึ่งใบ",
-    "descriptionRaw": "ในแต่ละรอบ เมื่อคุณเล่นยูนิตใบอื่นหย่อนทิ้งการ์ด2 ใบและอัญเชิญ Sapling หนึ่งใบ",
+    "description": "ใน<zwsp>แต่<zwsp>ละ<zwsp>รอบ <zwsp>เมื่อ<zwsp>คุณ<zwsp>เล่น<zwsp>ยู<zwsp>นิต<zwsp>ใบ<zwsp>อื่น<zwsp>เป็น<zwsp>ครั้ง<zwsp>แรก<zwsp> <link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> <zwsp>การ์ด <zwsp>2 <zwsp>ใบ<zwsp>และ<zwsp>อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Sapling</style></link> <zwsp>หนึ่ง<zwsp>ใบ",
+    "descriptionRaw": "ในแต่ละรอบ เมื่อคุณเล่นยูนิตใบอื่นเป็นครั้งแรก หย่อนทิ้ง การ์ด 2 ใบและอัญเชิญ Sapling หนึ่งใบ",
     "levelupDescription": "เมื่อยูนิตของคุณตายหรือการ์ด<br>ของคุณถูก<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link> 25 ครั้ง<style=Variable></style>",
     "levelupDescriptionRaw": "เมื่อยูนิตของคุณตายหรือการ์ดของคุณถูกหย่อนทิ้ง 25 ครั้ง",
     "flavorText": "แผ่นดินที่ถูกสาปนี้ไม่อาจหยุด Maokai ได้ <zwsp>พันธะแห่งเทรนต์นั้นหยั่งรากลึกเกินไป <zwsp>และโทสะของเขาก็เผาไหม้ร้อนแรงเกินกว่า<zwsp>จะให้สิ่งใดมาขวางทางเขาได้\n",
@@ -6150,11 +6150,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "แชมเปี้ยน",
+    "rarity": "แชม<zwsp>เปี้ยน",
     "rarityRef": "Champion",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -6163,8 +6163,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI008T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI008T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI008T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI008T3-full.png"
       }
     ],
     "regions": [
@@ -6185,8 +6185,8 @@
     "name": "Sapling",
     "cardCode": "02SI008T3",
     "keywords": [
-      "ไร้ตัวตน",
-      "ผู้ท้าชิง"
+      "ไร้<zwsp>ตัว<zwsp>ตน",
+      "ผู้<zwsp>ท้า<zwsp>ชิง"
     ],
     "keywordRefs": [
       "Ephemeral",
@@ -6194,11 +6194,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -6211,8 +6211,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI008T1-full.png"
       }
     ],
     "regions": [
@@ -6224,26 +6224,26 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>การ์ด 3 ใบ\r\nฮีลพันธมิตรทั้งหมด 3 หน่วย\r\nสร้าง <link=card.level1><style=AssociatedCard>Maokai</style></link> หนึ่งใบในเด็คของคุณ",
+    "description": "<link=vocab.Toss><style=Vocab>หย่อนทิ้ง</style></link>การ์ด <zwsp>3 <zwsp>ใบ<zwsp>\r\n<zwsp>ฮีล<zwsp>พันธ<zwsp>มิตร<zwsp>ทั้ง<zwsp>หมด <zwsp>3 <zwsp>หน่วย\r\n<zwsp>สร้าง<zwsp> <link=card.level1><style=AssociatedCard>Maokai</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>เด็ค<zwsp>ของ<zwsp>คุณ",
     "descriptionRaw": "หย่อนทิ้งการ์ด 3 ใบ\r\nฮีลพันธมิตรทั้งหมด 3 หน่วย\r\nสร้าง Maokai หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"เกาะเหล่านี้จะต้องถูกชำระล้าง\" - Maokai",
+    "flavorText": "\"<zwsp>เกาะ<zwsp>เหล่า<zwsp>นี้<zwsp>จะ<zwsp>ต้อง<zwsp>ถูก<zwsp>ชำ<zwsp>ระ<zwsp>ล้าง<zwsp>\" <zwsp>- Maokai",
     "artistName": "Kudos Productions",
     "name": "Maokai's Sap Magic",
     "cardCode": "02SI008T1",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
+    "supertype": "แชม<zwsp>เปี้ยน",
     "type": "เวท",
     "collectible": false,
     "set": "Set2"
@@ -6257,8 +6257,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI008T2-full.png"
       }
     ],
     "regions": [
@@ -6279,18 +6279,18 @@
     "name": "Maokai",
     "cardCode": "02SI008T2",
     "keywords": [
-      "ฟื้นฟู"
+      "ฟื้น<zwsp>ฟู"
     ],
     "keywordRefs": [
       "Regeneration"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -6299,8 +6299,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI007-full.png"
       }
     ],
     "regions": [
@@ -6321,18 +6321,18 @@
     "name": "Thorny Toad",
     "cardCode": "02SI007",
     "keywords": [
-      "สิ้นลม"
+      "สิ้น<zwsp>ลม"
     ],
     "keywordRefs": [
       "LastBreath"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -6341,8 +6341,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI003-full.png"
       }
     ],
     "regions": [
@@ -6363,20 +6363,20 @@
     "name": "Terror of the Tides",
     "cardCode": "02SI003",
     "keywords": [
-      "ดำดิ่ง"
+      "ดำ<zwsp>ดิ่ง"
     ],
     "keywordRefs": [
       "Deep"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [
-      "สัตว์ใต้ท้องทะเล"
+      "สัตว์<zwsp>ใต้<zwsp>ท้อง<zwsp>ทะ<zwsp>เล"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -6385,8 +6385,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI001-full.png"
       }
     ],
     "regions": [
@@ -6414,7 +6414,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -6433,8 +6433,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI002-full.png"
       }
     ],
     "regions": [
@@ -6450,7 +6450,7 @@
     "descriptionRaw": "เมื่อคุณอัญเชิญผู้ติดตาม สังหารมันเพื่ออัญเชิญOvergrown Snapvine หนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"วันนี้... มี...ที่น่าทึ่งโผล่มารอบๆ...พวกเด็กๆ ท่าทางจะกลัว แต่...ไม่มีพิษมีภัย Nuzzled น่ะ...เป็นสัตว์ที่ค่อนข้างเชื่อง ต้องออกไปหาเบอร์รี่ป่ามาให้พวกมันอีก!\"\n-บันทึกที่ถูกเก็บกู้มาได้",
+    "flavorText": "\"<zwsp>วัน<zwsp>นี้<zwsp>..<zwsp>. <zwsp>มี<zwsp>...<zwsp>ที่<zwsp>น่า<zwsp>ทึ่ง<zwsp>โผล่<zwsp>มา<zwsp>รอบ<zwsp>ๆ<zwsp>...<zwsp>พวก<zwsp>เด็ก<zwsp>ๆ<zwsp> ท่า<zwsp>ทาง<zwsp>จะ<zwsp>กลัว <zwsp>แต่<zwsp>...<zwsp>ไม่<zwsp>มี<zwsp>พิษ<zwsp>มี<zwsp>ภัย<zwsp> Nuzzled <zwsp>น่ะ<zwsp>...<zwsp>เป็น<zwsp>สัตว์<zwsp>ที่<zwsp>ค่อน<zwsp>ข้าง<zwsp>เชื่อง <zwsp>ต้อง<zwsp>ออก<zwsp>ไป<zwsp>หา<zwsp>เบอร์<zwsp>รี่<zwsp>ป่า<zwsp>มา<zwsp>ให้<zwsp>พวก<zwsp>มัน<zwsp>อีก<zwsp>!\"<zwsp>\n-<zwsp>บัน<zwsp>ทึก<zwsp>ที่<zwsp>ถูก<zwsp>เก็บ<zwsp>กู้<zwsp>มา<zwsp>ได้",
     "artistName": "SIXMOREVODKA",
     "name": "Overgrown Snapvine",
     "cardCode": "02SI002",
@@ -6458,11 +6458,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -6473,8 +6473,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI004-full.png"
       }
     ],
     "regions": [
@@ -6486,11 +6486,11 @@
     "attack": 1,
     "cost": 3,
     "health": 1,
-    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: สังหารพันธมิตรหนึ่งใบเพื่ออัญเชิญ <link=card.create><style=AssociatedCard>Saplings</style></link> 2 ใบ",
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: <zwsp>สัง<zwsp>หาร<zwsp>พันธ<zwsp>มิตร<zwsp>หนึ่ง<zwsp>ใบ<zwsp>เพื่อ<zwsp>อัญ<zwsp>เชิญ<zwsp> <link=card.create><style=AssociatedCard>Saplings</style></link> 2 <zwsp>ใบ",
     "descriptionRaw": "เล่น: สังหารพันธมิตรหนึ่งใบเพื่ออัญเชิญ Saplings 2 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ดวงใจทุกดวงก็คือสวนที่มีไว้เพื่อหยั่งราก!\"",
+    "flavorText": "\"<zwsp>ดวง<zwsp>ใจ<zwsp>ทุก<zwsp>ดวง<zwsp>ก็<zwsp>คือ<zwsp>สวน<zwsp>ที่<zwsp>มี<zwsp>ไว้<zwsp>เพื่อ<zwsp>หยั่ง<zwsp>ราก!<zwsp>\"",
     "artistName": "MAR Studio",
     "name": "Blighted Caretaker",
     "cardCode": "02SI004",
@@ -6502,7 +6502,7 @@
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -6511,8 +6511,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI006-full.png"
       }
     ],
     "regions": [
@@ -6524,7 +6524,7 @@
     "attack": 1,
     "cost": 1,
     "health": 1,
-    "description": "ครั้งแรกที่มีพันธมิตรตาย มอบ +2|+2 แก่การ์ดใบนี้",
+    "description": "ครั้ง<zwsp>แรก<zwsp>ที่<zwsp>มี<zwsp>พันธ<zwsp>มิตร<zwsp>ตาย<zwsp> มอบ +2|+2 แก่<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้",
     "descriptionRaw": "ครั้งแรกที่มีพันธมิตรตาย มอบ +2|+2 แก่การ์ดใบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -6536,11 +6536,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -6551,8 +6551,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02SI009-full.png"
       }
     ],
     "regions": [
@@ -6564,23 +6564,23 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "อัญเชิญ <link=card.summon><style=AssociatedCard>Sapling</style></link> หนึ่งใบเมื่อ<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>ถัดไป",
+    "description": "อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Sapling</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>เมื่อ<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>ถัด<zwsp>ไป",
     "descriptionRaw": "อัญเชิญ Sapling หนึ่งใบเมื่อเริ่มรอบถัดไป",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"วี๊!\" - Sapling",
+    "flavorText": "\"<zwsp>วี๊!\"<zwsp> -<zwsp> Sapling",
     "artistName": "Kudos Productions",
     "name": "Sapling Toss",
     "cardCode": "02SI009",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -6595,8 +6595,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO008-full.png"
       }
     ],
     "regions": [
@@ -6612,19 +6612,19 @@
     "descriptionRaw": "มอบผู้ท้าชิงแก่พันธมิตรหนึ่งใบในรอบนี้ \r\nสร้างการ์ดชั่วคราวResonating Strike หนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"เข้าใจตัวเจ้า...\" - Lee Sin",
+    "flavorText": "\"<zwsp>เข้า<zwsp>ใจ<zwsp>ตัว<zwsp>เจ้า<zwsp>...\"<zwsp> -<zwsp> Lee Sin",
     "artistName": "Kudos Productions",
     "name": "Sonic Wave",
     "cardCode": "02IO008",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
@@ -6637,8 +6637,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO008T1-full.png"
       }
     ],
     "regions": [
@@ -6650,25 +6650,25 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "มอบ +2|+0 แก่พันธมิตรหนึ่งใบในรอบนี้",
+    "description": "มอบ<zwsp> +2|+0 แก่<zwsp>พันธ<zwsp>มิตร<zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>รอบ<zwsp>นี้",
     "descriptionRaw": "มอบ +2|+0 แก่พันธมิตรหนึ่งใบในรอบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"...เข้าใจศัตรู\" - Lee Sin",
+    "flavorText": "\"<zwsp>...<zwsp>เข้า<zwsp>ใจ<zwsp>ศัตรู\"<zwsp> -<zwsp> Lee Sin",
     "artistName": "Kudos Productions",
     "name": "Resonating Strike",
     "cardCode": "02IO008T1",
     "keywords": [
-      "ฉับพลัน",
-      "ชั่วคราว"
+      "ฉับ<zwsp>พลัน",
+      "ชั่ว<zwsp>คราว"
     ],
     "keywordRefs": [
       "Burst",
       "Fleeting"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
@@ -6683,8 +6683,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO005T1-full.png"
       }
     ],
     "regions": [
@@ -6708,11 +6708,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -6723,8 +6723,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO002-full.png"
       }
     ],
     "regions": [
@@ -6748,11 +6748,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -6763,8 +6763,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO002T1-full.png"
       }
     ],
     "regions": [
@@ -6776,7 +6776,7 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "มอบ +0|+3 แก่พันธมิตรหนึ่งใบ",
+    "description": "มอบ<zwsp> +0|+3 แก่<zwsp>พันธ<zwsp>มิตร<zwsp>หนึ่ง<zwsp>ใบ",
     "descriptionRaw": "มอบ +0|+3 แก่พันธมิตรหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -6792,7 +6792,7 @@
     ],
     "spellSpeed": "ช้า",
     "spellSpeedRef": "Slow",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
@@ -6810,8 +6810,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO006-full.png"
       }
     ],
     "regions": [
@@ -6823,27 +6823,27 @@
     "attack": 3,
     "cost": 5,
     "health": 5,
-    "description": "เมื่อคุณร่ายเวท มอบ<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>แก่การ์ดใบนี้ในรอบนี้\r\nหากคุณร่ายเวทอีกใบ มอบ<link=keyword.Barrier><sprite name=Barrier><style=Keyword>บาเรีย</style></link>แก่การ์ดใบนี้ในรอบนี้",
+    "description": "เมื่อ<zwsp>คุณ<zwsp>ร่าย<zwsp>เว<zwsp>ท <zwsp>มอบ<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>แก่<zwsp>การ์ด<nobr>ใบ<zwsp>นี้</nobr>ใน<zwsp>รอบ<zwsp>นี้\r\n<zwsp>หาก<zwsp>คุณ<zwsp>ร่าย<zwsp>เวท<zwsp>อีก<zwsp>ใบ<zwsp> มอบ<link=keyword.Barrier><sprite name=Barrier><style=Keyword>บาเรีย</style></link>แก่<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ใน<zwsp>รอบ<zwsp>นี้",
     "descriptionRaw": "เมื่อคุณร่ายเวท มอบผู้ท้าชิงแก่การ์ดใบนี้ในรอบนี้\r\nหากคุณร่ายเวทอีกใบ มอบบาเรียแก่การ์ดใบนี้ในรอบนี้",
-    "levelupDescription": "เมื่อคุณร่ายเวท 8 ครั้งขึ้นไป<style=Variable></style>",
+    "levelupDescription": "เมื่อ<zwsp>คุณ<zwsp>ร่าย<zwsp>เวท <zwsp>8 <zwsp>ครั้ง<zwsp>ขึ้น<zwsp>ไป<style=Variable></style>",
     "levelupDescriptionRaw": "เมื่อคุณร่ายเวท 8 ครั้งขึ้นไป",
     "flavorText": "\"มังกรจะช่วยเหลือผู้ที่คู่ควร <zwsp>มันจะมอบกำลังแก่ผู้เหนื่อยล้า <zwsp>คืนพละกำลังแก่ผู้ป่วยไข้ <zwsp>มอบแสงสว่างแก่ผู้หลงทาง <zwsp>มอบสมดุลแก่ผู้สั่นคลอน...\"\n",
     "artistName": "SIXMOREVODKA",
     "name": "Lee Sin",
     "cardCode": "02IO006",
     "keywords": [
-      "กระตุ้น"
+      "กระ<zwsp>ตุ้น"
     ],
     "keywordRefs": [
       "Imbue"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "แชมเปี้ยน",
+    "rarity": "แชม<zwsp>เปี้ยน",
     "rarityRef": "Champion",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -6856,8 +6856,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO011-full.png"
       }
     ],
     "regions": [
@@ -6869,7 +6869,7 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "มอบ<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>แก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง <link=card.secondSpell><style=AssociatedCard>Resonating Strike</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>หนึ่งใบในมือ\r\nสร้าง <link=card.level1><style=AssociatedCard>Lee Sin</style></link> หนึ่งใบในเด็คของคุณ",
+    "description": "มอบ<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>แก่<zwsp>พันธ<zwsp>มิตร<zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>รอบ<zwsp>นี้\r\n<zwsp>สร้าง<zwsp> <link=card.secondSpell><style=AssociatedCard>Resonating Strike</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>มือ\r\n<zwsp>สร้าง<zwsp> <link=card.level1><style=AssociatedCard>Lee Sin</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>เด็ค<zwsp>ของ<zwsp>คุณ",
     "descriptionRaw": "มอบผู้ท้าชิงแก่พันธมิตรหนึ่งใบในรอบนี้\r\nสร้าง Resonating Strike ชั่วคราวหนึ่งใบในมือ\r\nสร้าง Lee Sin หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -6878,17 +6878,17 @@
     "name": "Lee Sin's Sonic Wave",
     "cardCode": "02IO011",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
+    "supertype": "แชม<zwsp>เปี้ยน",
     "type": "เวท",
     "collectible": false,
     "set": "Set2"
@@ -6903,8 +6903,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO006T1-full.png"
       }
     ],
     "regions": [
@@ -6916,27 +6916,27 @@
     "attack": 4,
     "cost": 5,
     "health": 6,
-    "description": "เมื่อคุณร่ายเวท มอบ<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>แก่การ์ดใบนี้ในรอบนี้\r\nหากคุณร่ายเวทอีกใบ มอบ<link=keyword.Barrier><sprite name=Barrier><style=Keyword>บาเรีย</style></link>แก่การ์ดใบนี้ในรอบนี้ \r\nการ์ดใบนี้จะ <link=card.attackSpell><style=AssociatedCard>Dragon's Rage</style></link> ศัตรูที่การ์ดใบนี้ได้<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>",
+    "description": "เมื่อ<zwsp>คุณ<zwsp>ร่าย<zwsp>เว<zwsp>ท <zwsp>มอบ<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>แก่<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ใน<zwsp>รอบ<zwsp>นี้\r\n<zwsp>หาก<zwsp>คุณ<zwsp>ร่าย<zwsp>เวท<zwsp>อีก<zwsp>ใบ<zwsp> มอบ<link=keyword.Barrier><sprite name=Barrier><style=Keyword>บาเรีย</style></link>แก่<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ใน<zwsp>รอบ<zwsp>นี้<zwsp> \r\n<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>จะ<zwsp> <link=card.attackSpell><style=AssociatedCard>Dragon's Rage</style></link> <zwsp>ศัตรู<zwsp>ที่<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ได้<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>",
     "descriptionRaw": "เมื่อคุณร่ายเวท มอบผู้ท้าชิงแก่การ์ดใบนี้ในรอบนี้\r\nหากคุณร่ายเวทอีกใบ มอบบาเรียแก่การ์ดใบนี้ในรอบนี้ \r\nการ์ดใบนี้จะ Dragon's Rage ศัตรูที่การ์ดใบนี้ได้ผู้ท้าชิง",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"...แต่สำหรับทรราช มังกรหายใจเป็นเพลิง\"",
+    "flavorText": "\"<zwsp>...<zwsp>แต่<zwsp>สำ<zwsp>หรับ<zwsp>ทร<zwsp>ราช<zwsp> มัง<zwsp>กร<zwsp>หาย<zwsp>ใจ<zwsp>เป็น<zwsp>เพลิง<zwsp>\"",
     "artistName": "SIXMOREVODKA",
     "name": "Lee Sin",
     "cardCode": "02IO006T1",
     "keywords": [
-      "กระตุ้น"
+      "กระ<zwsp>ตุ้น"
     ],
     "keywordRefs": [
       "Imbue"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
-    "supertype": "แชมเปี้ยน",
-    "type": "ยูนิต",
+    "supertype": "แชม<zwsp>เปี้ยน",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -6945,8 +6945,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO006T3-full.png"
       }
     ],
     "regions": [
@@ -6958,7 +6958,7 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "พันธมิตรหนึ่งใบเตะศัตรูหนึ่งใบใส่เน็กซัสของศัตรู ทำการ<link=vocab.Strike><style=Vocab>จู่โจม</style></link>ใส่ทั้งคู่\r\nหากศัตรูรอดชีวิต<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>ยูนิตนั้น",
+    "description": "พันธ<zwsp>มิตร<zwsp>หนึ่ง<zwsp>ใบ<zwsp>เตะ<zwsp>ศัตรู<zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใส่<zwsp>เน็ก<zwsp>ซัส<zwsp>ของ<zwsp>ศัตรู <zwsp>ทำ<zwsp>การ<link=vocab.Strike><style=Vocab>จู่โจม</style></link>ใส่<zwsp>ทั้ง<zwsp>คู่\r\n<zwsp>หาก<zwsp>ศัตรู<zwsp>รอด<zwsp>ชี<zwsp>วิต<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>ยู<zwsp>นิต<zwsp>นั้น",
     "descriptionRaw": "พันธมิตรหนึ่งใบเตะศัตรูหนึ่งใบใส่เน็กซัสของศัตรู ทำการจู่โจมใส่ทั้งคู่\r\nหากศัตรูรอดชีวิตเรียกกลับยูนิตนั้น",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -6974,11 +6974,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
-    "type": "ความสามารถ",
+    "type": "ความ<zwsp>สา<zwsp>มารถ",
     "collectible": false,
     "set": "Set2"
   },
@@ -6987,8 +6987,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO004-full.png"
       }
     ],
     "regions": [
@@ -7009,18 +7009,18 @@
     "name": "Horns of the Dragon",
     "cardCode": "02IO004",
     "keywords": [
-      "โจมตีสองครั้ง"
+      "โจม<zwsp>ตี<zwsp>สอง<zwsp>ครั้ง"
     ],
     "keywordRefs": [
       "DoubleStrike"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -7031,8 +7031,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO003-full.png"
       }
     ],
     "regions": [
@@ -7053,18 +7053,18 @@
     "name": "Eye of the Dragon",
     "cardCode": "02IO003",
     "keywords": [
-      "ชำนาญเวท"
+      "ชำ<zwsp>นาญ<zwsp>เวท"
     ],
     "keywordRefs": [
       "Attune"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -7073,8 +7073,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO001-full.png"
       }
     ],
     "regions": [
@@ -7098,11 +7098,11 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "คอมมอน",
+    "rarity": "คอม<zwsp>มอน",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": true,
     "set": "Set2"
   },
@@ -7111,8 +7111,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO003T1-full.png"
       }
     ],
     "regions": [
@@ -7133,8 +7133,8 @@
     "name": "Dragonling",
     "cardCode": "02IO003T1",
     "keywords": [
-      "ไร้ตัวตน",
-      "ดูดเลือด"
+      "ไร้<zwsp>ตัว<zwsp>ตน",
+      "ดูด<zwsp>เลือด"
     ],
     "keywordRefs": [
       "Ephemeral",
@@ -7142,13 +7142,13 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [
-      "มังกร"
+      "มัง<zwsp>กร"
     ],
     "supertype": "",
-    "type": "ยูนิต",
+    "type": "ยู<zwsp>นิต",
     "collectible": false,
     "set": "Set2"
   },
@@ -7159,8 +7159,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO005-full.png"
       }
     ],
     "regions": [
@@ -7203,8 +7203,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO010-full.png"
       }
     ],
     "regions": [
@@ -7216,7 +7216,7 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>พันธมิตรหนึ่งใบเพื่อสร้าง <link=card.secondSpell><style=AssociatedCard>Return</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>หนึ่งใบในมือ",
+    "description": "<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>พันธ<zwsp>มิตร<zwsp>หนึ่ง<zwsp>ใบ<zwsp>เพื่อ<zwsp>สร้าง<zwsp> <link=card.secondSpell><style=AssociatedCard>Return</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>มือ",
     "descriptionRaw": "เรียกกลับพันธมิตรหนึ่งใบเพื่อสร้าง Return ชั่วคราวหนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -7245,8 +7245,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO007-full.png"
       }
     ],
     "regions": [
@@ -7274,7 +7274,7 @@
     ],
     "spellSpeed": "ช้า",
     "spellSpeedRef": "Slow",
-    "rarity": "อีปิค",
+    "rarity": "อี<zwsp>ปิค",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
@@ -7287,8 +7287,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO010T1-full.png"
       }
     ],
     "regions": [
@@ -7300,7 +7300,7 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "อัญเชิญพันธมิตรหนึ่งใบที่มีค่าร่ายไม่เกิน 3 หน่วยจากในมือ",
+    "description": "อัญ<zwsp>เชิญ<zwsp>พันธ<zwsp>มิตร<zwsp>หนึ่ง<zwsp>ใบ<zwsp>ที่<zwsp>มี<zwsp>ค่า<zwsp>ร่าย<zwsp>ไม่<zwsp>เกิน<zwsp> 3 <zwsp>หน่วย<zwsp>จาก<zwsp>ใน<zwsp>มือ",
     "descriptionRaw": "อัญเชิญพันธมิตรหนึ่งใบที่มีค่าร่ายไม่เกิน 3 หน่วยจากในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -7309,16 +7309,16 @@
     "name": "Return",
     "cardCode": "02IO010T1",
     "keywords": [
-      "ฉับพลัน",
-      "ชั่วคราว"
+      "ฉับ<zwsp>พลัน",
+      "ชั่ว<zwsp>คราว"
     ],
     "keywordRefs": [
       "Burst",
       "Fleeting"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
-    "rarity": "ไม่มี",
+    "rarity": "ไม่<zwsp>มี",
     "rarityRef": "None",
     "subtypes": [],
     "supertype": "",
@@ -7331,8 +7331,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_21_0/set2/th_th/img/cards/02IO009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set2/th_th/img/cards/02IO009-full.png"
       }
     ],
     "regions": [
@@ -7344,7 +7344,7 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "ค่าร่ายลดลง 2 หน่วยหากคุณร่ายเวท 2 ใบขึ้นไปในรอบที่แล้ว\r\nจั่วการ์ดเวทอื่น 2 ใบ",
+    "description": "ค่า<zwsp>ร่าย<zwsp>ลด<zwsp>ลง <zwsp>2 <zwsp>หน่วย<zwsp>หาก<zwsp>คุณ<zwsp>ร่าย<zwsp>เวท <zwsp>2 <zwsp>ใบ<zwsp>ขึ้น<zwsp>ไป<zwsp>ใน<zwsp>รอบ<zwsp>ที่<zwsp>แล้ว<zwsp>\r\n<zwsp>จั่ว<zwsp>การ์ด<zwsp>เวท<zwsp>อื่น<zwsp> 2 <zwsp>ใบ",
     "descriptionRaw": "ค่าร่ายลดลง 2 หน่วยหากคุณร่ายเวท 2 ใบขึ้นไปในรอบที่แล้ว\r\nจั่วการ์ดเวทอื่น 2 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -7353,12 +7353,12 @@
     "name": "Deep Meditation",
     "cardCode": "02IO009",
     "keywords": [
-      "ฉับพลัน"
+      "ฉับ<zwsp>พลัน"
     ],
     "keywordRefs": [
       "Burst"
     ],
-    "spellSpeed": "ฉับพลัน",
+    "spellSpeed": "ฉับ<zwsp>พลัน",
     "spellSpeedRef": "Burst",
     "rarity": "แรร์",
     "rarityRef": "Rare",
